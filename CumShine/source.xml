@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x1C490229" TextString="Large Jar of Cum"/>
+    <TextStringDefinition InstanceID="0xD8F344EE" TextString="Drink Cum"/>
+    <TextStringDefinition InstanceID="0xFD5B0D98" TextString="Add To Cum Jar"/>
+    <TextStringDefinition InstanceID="0x8F894C77" TextString="Add Cum To Jar"/>
+    <TextStringDefinition InstanceID="0xE0C73CEB" TextString="Half Fill"/>
+    <TextStringDefinition InstanceID="0x1C48EA6F" TextString="Examine Cum"/>
+    <TextStringDefinition InstanceID="0xFB5B52E7" TextString="description"/>
+    <TextStringDefinition InstanceID="0xD3E43C74" TextString="Over 50 loads collected. "/>
+    <TextStringDefinition InstanceID="0x64885D33" TextString="Purchase Spoo Products"/>
+    <TextStringDefinition InstanceID="0x3C8A885C" TextString="Purchase all natural semen-based products"/>
+    <TextStringDefinition InstanceID="0x4B572FB6" TextString="Thank you for you purchase of the finest ethically sourced, semen based wellness products. Your order has been processed and will arrive in your mailbox shortly!"/>
+    <TextStringDefinition InstanceID="0xC276D2FA" TextString="Sign up for Spoo?"/>
+    <TextStringDefinition InstanceID="0xC8ECB28F" TextString="Command Cum Lust"/>
+    <TextStringDefinition InstanceID="0x24EECCC0" TextString="Click to Increase Cum Quantity (cheat)"/>
+    <TextStringDefinition InstanceID="0x9763AFAE" TextString="&quot;Cum is Gross!&quot;"/>
+    <TextStringDefinition InstanceID="0x8AA27D23" TextString="Listen to {1.SimFirstName}'s disgust for Cum"/>
+    <TextStringDefinition InstanceID="0xE6E79264" TextString="Listen to {1.SimFirstName} joke about cum"/>
+    <TextStringDefinition InstanceID="0xEA69286D" TextString="Joke about Cum"/>
+    <TextStringDefinition InstanceID="0xB3829FF9" TextString="Listen to {1.SimFirstName} express love of cum"/>
+    <TextStringDefinition InstanceID="0xF38E9764" TextString="Express love of cum"/>
+    <TextStringDefinition InstanceID="0x77A94EFE" TextString="Produce Sperm Sample"/>
+    <TextStringDefinition InstanceID="0x6430D72F" TextString="Donated by: {0.SimName}"/>
+    <TextStringDefinition InstanceID="0x8EDAF3C9" TextString="Handmade"/>
+    <TextStringDefinition InstanceID="0x8FDFEA6C" TextString="Medium Jar of Cum"/>
+    <TextStringDefinition InstanceID="0x41D50FB1" TextString="Dozens of the finest sperm samples"/>
+    <TextStringDefinition InstanceID="0xFE1A3C56" TextString="Spoo Package"/>
+    <TextStringDefinition InstanceID="0x555B6497" TextString="Contents will remain refridgerated until opened"/>
+    <TextStringDefinition InstanceID="0xF915DA54" TextString="Open box"/>
+    <TextStringDefinition InstanceID="0x081FFAFC" TextString="A Sample Of Sperm"/>
+    <TextStringDefinition InstanceID="0xCEF7F7FC" TextString="It's Sticky and Smelly and Everywhere!\n{0.SimFirstName} has had ENOUGH!!"/>
+    <TextStringDefinition InstanceID="0xA8771328" TextString="Soaked!!"/>
+    <TextStringDefinition InstanceID="0xE2730E44" TextString="Penis (Base)"/>
+    <TextStringDefinition InstanceID="0xDE1570CF" TextString="CumTrigger (UpperBack)"/>
+    <TextStringDefinition InstanceID="0x82AD42A2" TextString="End Cumsumable Process"/>
+    <TextStringDefinition InstanceID="0x80909A90" TextString="Splash"/>
+    <TextStringDefinition InstanceID="0xCDA818C3" TextString="Don't leave {0.SimFirstName} hanging like this. {0.SimPronounSubjective} won't be able to focus until this passes."/>
+    <TextStringDefinition InstanceID="0xDD1CD2CF" TextString="Blue Balls"/>
+    <TextStringDefinition InstanceID="0xB381B87B" TextString="Cum..."/>
+    <TextStringDefinition InstanceID="0xFB1195E1" TextString="Hidden_SeesCumBuff"/>
+    <TextStringDefinition InstanceID="0x98E0810E" TextString="Remove Cum Mood"/>
+    <TextStringDefinition InstanceID="0xD9CF37F9" TextString="Guurrrrl! \n\nIt's about time for you to wash up!"/>
+    <TextStringDefinition InstanceID="0x988F3BA6" TextString="Crusty Creme"/>
+    <TextStringDefinition InstanceID="0xB4B11321" TextString="Extra Cum"/>
+    <TextStringDefinition InstanceID="0x9748C6EF" TextString="Add Sperm Machine Trait"/>
+    <TextStringDefinition InstanceID="0xFDA5BEAD" TextString="How unbecoming of all but the Nastiest of Sluts!"/>
+    <TextStringDefinition InstanceID="0xAC7D391B" TextString="Crusty Cum Rag"/>
+    <TextStringDefinition InstanceID="0xD41747FB" TextString="{0.SimFirstName} enjoys being showered in the gift of goo!"/>
+    <TextStringDefinition InstanceID="0xDC71F9FA" TextString="Facial Fun"/>
+    <TextStringDefinition InstanceID="0x81E9CF53" TextString="HiddenCumVagina"/>
+    <TextStringDefinition InstanceID="0xC0AC4CC7" TextString="That load was too foul tasting, even for a cum slut like {0.SimFirstName} "/>
+    <TextStringDefinition InstanceID="0xF7BA29C6" TextString="Rancid Jizz"/>
+    <TextStringDefinition InstanceID="0xCDC9B50E" TextString="EEEWwwww…\nThat was a foul shot of semen"/>
+    <TextStringDefinition InstanceID="0xFB975CB2" TextString="Offensive Blast"/>
+    <TextStringDefinition InstanceID="0xB0AC8D90" TextString="Add/Remove Cum"/>
+    <TextStringDefinition InstanceID="0xB10BC7A4" TextString="Remove Cum"/>
+    <TextStringDefinition InstanceID="0xFF66A76E" TextString="Knowing that {0.SimPronounPossessiveDependent} minge is carrying a trophy from earlier brings a smile to {0.SimFirstName}'s face."/>
+    <TextStringDefinition InstanceID="0xED33A969" TextString="Marked Muff"/>
+    <TextStringDefinition InstanceID="0x81B8573A" TextString="The feeling of cum on {0.SimFirstName}'s skin makes {0.SimPronounObjective} tingle with arousal."/>
+    <TextStringDefinition InstanceID="0xAC4EFBEA" TextString="Cum Lover"/>
+    <TextStringDefinition InstanceID="0xECA2D872" TextString="{0.SimFirstName} can't let anyone see {0.SimPronounObjective} like THIS!!"/>
+    <TextStringDefinition InstanceID="0xB1158567" TextString="{0.SimFirstName} is bringing a little extra spunk into work today. In fact, a little might have just dripped down {0.SimPronounPossessiveDependent} leg!"/>
+    <TextStringDefinition InstanceID="0xCFDA9BEA" TextString="Saucy Souvenir"/>
+    <TextStringDefinition InstanceID="0x9D0010B1" TextString="Cum Mood: Dislikes Cum"/>
+    <TextStringDefinition InstanceID="0xEFB6E982" TextString="Hands"/>
+    <TextStringDefinition InstanceID="0x96187B27" TextString="HiddenCumChest"/>
+    <TextStringDefinition InstanceID="0xE8E94C3E" TextString="Have Cum Licked Off Face"/>
+    <TextStringDefinition InstanceID="0x829E7DF4" TextString="Lick Cum Off Face"/>
+    <TextStringDefinition InstanceID="0x83A34C2B" TextString="Cum Quantity (Very High)"/>
+    <TextStringDefinition InstanceID="0xA4B76382" TextString="Listen to {1.SimFirstName} offer cum"/>
+    <TextStringDefinition InstanceID="0xD9BE5791" TextString="Offer Load"/>
+    <TextStringDefinition InstanceID="0x97BCB544" TextString="Be called as a Cumslut"/>
+    <TextStringDefinition InstanceID="0x93A1C1B2" TextString="Insult Cumslut"/>
+    <TextStringDefinition InstanceID="0xC6A3251B" TextString="Remove Clothes Add Hardon"/>
+    <TextStringDefinition InstanceID="0xDF16E7F1" TextString="Enable Extra Cum (this Sim)"/>
+    <TextStringDefinition InstanceID="0x82FA5FBD" TextString="That was an earth shattering orgasm and a record breaking load. you feel like the king of cumshots. "/>
+    <TextStringDefinition InstanceID="0xB7184CBE" TextString="Epic Load"/>
+    <TextStringDefinition InstanceID="0xDAD79CC7" TextString="Penis (All)"/>
+    <TextStringDefinition InstanceID="0x869DAEAD" TextString="{0.SimFirstName} can't get ENOUGH!!"/>
+    <TextStringDefinition InstanceID="0xE8556F50" TextString="ExtraCumLegs"/>
+    <TextStringDefinition InstanceID="0xFC58BF50" TextString="Longer Term Mood Check"/>
+    <TextStringDefinition InstanceID="0xB26276C8" TextString="Periodic Mood Check"/>
+    <TextStringDefinition InstanceID="0xBB89F111" TextString="All"/>
+    <TextStringDefinition InstanceID="0xCDDC30AD" TextString="Cum Neutral"/>
+    <TextStringDefinition InstanceID="0xFC800A7B" TextString="These Sims may have a good time when they come in contact with Cum, (or maybe not.)"/>
+    <TextStringDefinition InstanceID="0xDB25538D" TextString="Remove Extra"/>
+    <TextStringDefinition InstanceID="0xCF12DA16" TextString="CumQueen Aura"/>
+    <TextStringDefinition InstanceID="0xCE90D335" TextString="Sloshing with each step is quite distracting."/>
+    <TextStringDefinition InstanceID="0xC8C238DB" TextString="Gooey Cooch"/>
+    <TextStringDefinition InstanceID="0xB88449BC" TextString="{0.SimFirstName}'s cooch is still not dry... \nMaybe {0.SimPronounPossessiveDependent} juices are to blame."/>
+    <TextStringDefinition InstanceID="0xBB88D1E4" TextString="Swimming In Spunk"/>
+    <TextStringDefinition InstanceID="0xB434B474" TextString="{0.SimFirstName} needs to get {0.SimPronounPossessiveDependent} rocks off. "/>
+    <TextStringDefinition InstanceID="0xBC6340D7" TextString="Pent Up"/>
+    <TextStringDefinition InstanceID="0xFC7645F2" TextString="AtWork"/>
+    <TextStringDefinition InstanceID="0x9192966F" TextString="{0.SimFirstName} feels fortified with Spunk!"/>
+    <TextStringDefinition InstanceID="0xF5781010" TextString="Protein Shake"/>
+    <TextStringDefinition InstanceID="0x873A4B4A" TextString="What Is This?"/>
+    <TextStringDefinition InstanceID="0xB4AECBE8" TextString="Hopefully {0.SimFirstName} can elude being "/>
+    <TextStringDefinition InstanceID="0x9FED48E8" TextString="Cum Bull"/>
+    <TextStringDefinition InstanceID="0xC5327618" TextString="This Sim lives to see {0.SimPronounPossessiveDependent} cum splashing on others."/>
+    <TextStringDefinition InstanceID="0xE36048A3" TextString="Cumshine"/>
+    <TextStringDefinition InstanceID="0x87A25C21" TextString="Listen to {1.SimFirstName} Gush about Cum"/>
+    <TextStringDefinition InstanceID="0xB0D40F8A" TextString="Raise {1.SimFirstName}'s Cum Mood"/>
+    <TextStringDefinition InstanceID="0xFFBBA99C" TextString="Remove Cum Buffs"/>
+    <TextStringDefinition InstanceID="0xFF6DDDF4" TextString="HiddenCumPresent"/>
+    <TextStringDefinition InstanceID="0xC526E2FF" TextString="{0.SimFirstName} has long since passed {0.SimPronounPossessiveDependent} limit for Cock Snot!!"/>
+    <TextStringDefinition InstanceID="0xA8C06D62" TextString="Foul Frosting"/>
+    <TextStringDefinition InstanceID="0x854C02E3" TextString="Balls tightening, Cocks spasming, Load upon Load!\n{0.SimFirstName} can't get enough of that jizz!"/>
+    <TextStringDefinition InstanceID="0xED888863" TextString="Bukkake'd"/>
+    <TextStringDefinition InstanceID="0x965EBDAC" TextString="Cum Lust"/>
+    <TextStringDefinition InstanceID="0xCE9EFD5C" TextString="CumTrigger (Belly)"/>
+    <TextStringDefinition InstanceID="0x811FCF26" TextString="These Sims are delighted to come in contact with Cum. "/>
+    <TextStringDefinition InstanceID="0xBB95186C" TextString="CumsumablesResolved"/>
+    <TextStringDefinition InstanceID="0xFC64D0F5" TextString="Cum!!"/>
+    <TextStringDefinition InstanceID="0x87EE6F35" TextString="{0.SimFirstName}'s mouth remains coated with the salty, metallic, acrid taste of lingering spunk.\n"/>
+    <TextStringDefinition InstanceID="0x93CBB001" TextString="Vile Aftertaste"/>
+    <TextStringDefinition InstanceID="0xADB0DCD1" TextString="Having sticky thick fluid on your body can get pretty uncomfortable."/>
+    <TextStringDefinition InstanceID="0x886614D2" TextString="Cum Dump"/>
+    <TextStringDefinition InstanceID="0xB7E3D671" TextString="Select Cum Preference"/>
+    <TextStringDefinition InstanceID="0xDE936C57" TextString="{0.SimFirstName} craves sexual release after guzzling so much cum!"/>
+    <TextStringDefinition InstanceID="0xF881162D" TextString="Brimming with Desire"/>
+    <TextStringDefinition InstanceID="0xFA5B390D" TextString="Test"/>
+    <TextStringDefinition InstanceID="0x9FD6AE15" TextString="Cum Mood: Likes Cum"/>
+    <TextStringDefinition InstanceID="0x891A7776" TextString="CumTrigger (Vagina)"/>
+    <TextStringDefinition InstanceID="0xB4B83398" TextString="{0.SimFirstName} has been receiving a lot of loads.  \n\nShould {0.SimPronounSubjective} embrace {0.SimPronounPossessiveDependent} carnal craving and become Addicted to Cum?"/>
+    <TextStringDefinition InstanceID="0xD5352DCF" TextString="Cum Addiction"/>
+    <TextStringDefinition InstanceID="0xCC3D94D9" TextString="Cum Addict"/>
+    <TextStringDefinition InstanceID="0xDCE8E358" TextString="{0.SimFirstName} doesn't appreciate {0.SimPronounPossessiveDependent} face being used as a Cum Rag!"/>
+    <TextStringDefinition InstanceID="0xE5ED41F8" TextString="Filthy Finish"/>
+    <TextStringDefinition InstanceID="0x80546B9E" TextString="{0.SimFirstName} could use a little freshening up down there."/>
+    <TextStringDefinition InstanceID="0xE1DCF7A4" TextString="Crusty Crotch"/>
+    <TextStringDefinition InstanceID="0xE3EF687D" TextString="Cum Quantity (Med)"/>
+    <TextStringDefinition InstanceID="0xAD4011CD" TextString="The taste of jizz lingers, if not in {0.SimFirstName}'s mouth, in {0.SimPronounPossessiveDependent} mind. "/>
+    <TextStringDefinition InstanceID="0xCAF27245" TextString="Swallowed Pride"/>
+    <TextStringDefinition InstanceID="0xC25B19EB" TextString="Moodlet Fine"/>
+    <TextStringDefinition InstanceID="0xD39C5AE4" TextString="{0.SimFirstName} is distracted feeling the cum slosh between {0.SimPronounObjective} thighs. "/>
+    <TextStringDefinition InstanceID="0xA376DECF" TextString="Gooey Pussy"/>
+    <TextStringDefinition InstanceID="0xEF92AEF1" TextString="Sticky Sights"/>
+    <TextStringDefinition InstanceID="0xF864A4EE" TextString="Interaction Fill Collar "/>
+    <TextStringDefinition InstanceID="0x98503AB7" TextString="Being paraded in public with cum dripping down {0.SimPronounPossessiveDependent} face isn't {0.SimFirstName}'s idea of a good time!"/>
+    <TextStringDefinition InstanceID="0xD908EC32" TextString="Walk of Sticky Shame"/>
+    <TextStringDefinition InstanceID="0xC5ED9916" TextString="Trait_Spoo_SignedUp"/>
+    <TextStringDefinition InstanceID="0xE91BAE59" TextString="HiddenCumFaced"/>
+    <TextStringDefinition InstanceID="0xDE4ABF1A" TextString="As the Jizz lingers on {0.SimFirstName}'s body, {0.SimPronounSubjective} feels it is time to clean up now. "/>
+    <TextStringDefinition InstanceID="0xB3E35C9D" TextString="Slimed"/>
+    <TextStringDefinition InstanceID="0x89FFB621" TextString="Spoo™ Health Products"/>
+    <TextStringDefinition InstanceID="0xE8B872CC" TextString="Penis (Dribble)"/>
+    <TextStringDefinition InstanceID="0xC03C6E7F" TextString="CumTrigger (Feet)"/>
+    <TextStringDefinition InstanceID="0xAC3A018E" TextString="CumTrigger (Face)"/>
+    <TextStringDefinition InstanceID="0xB3E90E0B" TextString="Be Asked About Cum"/>
+    <TextStringDefinition InstanceID="0xA61D75C4" TextString="Do You Like Cum?"/>
+    <TextStringDefinition InstanceID="0xDA8D5DA6" TextString="Feeling {0.SimPronounPossessiveDependent} lover's orgasmic juices splattering {0.SimPronounPossessiveDependent} face is {0.SimFirstName}'s favorite!"/>
+    <TextStringDefinition InstanceID="0xADE66A70" TextString="Facial Fanatic"/>
+    <TextStringDefinition InstanceID="0xF7E1AC8E" TextString="Swallow Cum"/>
+    <TextStringDefinition InstanceID="0xBC128709" TextString="PC_Masturbating_SaveCum"/>
+    <TextStringDefinition InstanceID="0xEAC8C2C5" TextString="Spoo™ Shop"/>
+    <TextStringDefinition InstanceID="0xDA0C05AF" TextString="Sperm Machine"/>
+    <TextStringDefinition InstanceID="0xBBE8811A" TextString="Be Praised by {1.SimFirstName}"/>
+    <TextStringDefinition InstanceID="0xA3180081" TextString="Praise Cumslut"/>
+    <TextStringDefinition InstanceID="0xF2944F57" TextString="ExtraCumHands"/>
+    <TextStringDefinition InstanceID="0xD5A98FF2" TextString="CumTrigger (Butt)"/>
+    <TextStringDefinition InstanceID="0x9707C2EA" TextString="Body"/>
+    <TextStringDefinition InstanceID="0x9DDB812F" TextString="Penis"/>
+    <TextStringDefinition InstanceID="0xF46B045C" TextString="{0.SimFirstName} is praying no one notices the semen dripping off {0.SimPronounPossessiveDependent} face. "/>
+    <TextStringDefinition InstanceID="0xD833A958" TextString="Facial At Work"/>
+    <TextStringDefinition InstanceID="0xF20B5CCA" TextString="Hidden Washed Face"/>
+    <TextStringDefinition InstanceID="0xE35E83D7" TextString="{0.SimFirstName} swallowed cum from a sim with some questionable health habits. "/>
+    <TextStringDefinition InstanceID="0x9B38FA45" TextString="Gross Goo"/>
+    <TextStringDefinition InstanceID="0xF7FAA13A" TextString="{0.SimFirstName}'s full attention is drawn to the rivulets of sperm running down {0.SimPronounPossessiveDependent} face."/>
+    <TextStringDefinition InstanceID="0xE15BB290" TextString="Splattered"/>
+    <TextStringDefinition InstanceID="0x88A9234D" TextString="Can others smell the cum on {1.SimFirstName}’s breath?"/>
+    <TextStringDefinition InstanceID="0xF59758DE" TextString="Sex Breath"/>
+    <TextStringDefinition InstanceID="0xF6B256D4" TextString="Making up my mind about this Sticky Stuff"/>
+    <TextStringDefinition InstanceID="0xC05CAD0B" TextString="JIZZ!"/>
+    <TextStringDefinition InstanceID="0xED882C4E" TextString="Disable Extra Cum (this Sim)"/>
+    <TextStringDefinition InstanceID="0xEAFAF2D7" TextString="Hidden Cum feet"/>
+    <TextStringDefinition InstanceID="0xD70C96D7" TextString="{0.SimFirstName} is in a post-coital daze. \n...Messy"/>
+    <TextStringDefinition InstanceID="0xDA3F5BEF" TextString="Umm, that's an odd feeling"/>
+    <TextStringDefinition InstanceID="0x805448AD" TextString="Nasty Dogs"/>
+    <TextStringDefinition InstanceID="0xD1FF1A9A" TextString="It's gonna be a long one as {0.SimFirstName} endures the distraction of a gooey grundle."/>
+    <TextStringDefinition InstanceID="0xFB81951F" TextString="Sticky Shift"/>
+    <TextStringDefinition InstanceID="0xE8B1259D" TextString="Extra Cum Settings"/>
+    <TextStringDefinition InstanceID="0xD858887F" TextString="Unlock Cum Mood (currently locked)"/>
+    <TextStringDefinition InstanceID="0xA989293C" TextString="Cum Withdrawal"/>
+    <TextStringDefinition InstanceID="0x8D2B0B4A" TextString="Like a royal coronation, {0.SimFirstName} is honored to receive a blessing from {0.SimPronounObjective} lover's family jewels."/>
+    <TextStringDefinition InstanceID="0x8788A734" TextString="Pearl Necklace"/>
+    <TextStringDefinition InstanceID="0xA56A78CB" TextString="HiddenCumFaceSoaked"/>
+    <TextStringDefinition InstanceID="0xF07445C8" TextString="Listen to {1.SimFirstName}'s Cum Confession"/>
+    <TextStringDefinition InstanceID="0xD3B67ED0" TextString="Confess Cum Fetish"/>
+    <TextStringDefinition InstanceID="0xBA237B40" TextString="Roll For Cum Mood"/>
+    <TextStringDefinition InstanceID="0xC278AC8C" TextString="The only thing better than blowing a load is seeing it dripping down the a beautiful face. "/>
+    <TextStringDefinition InstanceID="0xBA9BF089" TextString="Facial Giver"/>
+    <TextStringDefinition InstanceID="0x98FC6F3A" TextString="There’s nothing quite like the sense of accomplishment that comes with consuming cum "/>
+    <TextStringDefinition InstanceID="0xF143FEE0" TextString="Proud Swallower"/>
+    <TextStringDefinition InstanceID="0x80312C7E" TextString="HiddenCumVaginaSoaked"/>
+    <TextStringDefinition InstanceID="0xCE1B414A" TextString="From being Commanded by a Vampire"/>
+    <TextStringDefinition InstanceID="0xAD56EA27" TextString="Listen to {1.SimFirstName}'s Custom Interaction"/>
+    <TextStringDefinition InstanceID="0xB790357E" TextString="Admire Cumshot"/>
+    <TextStringDefinition InstanceID="0xAB51749C" TextString="CumClean"/>
+    <TextStringDefinition InstanceID="0xE52315E4" TextString="Cum Quantity (Low)"/>
+    <TextStringDefinition InstanceID="0xD40735B1" TextString="it's fine really... "/>
+    <TextStringDefinition InstanceID="0xA66416FB" TextString="Blue(r) Balls"/>
+    <TextStringDefinition InstanceID="0xE999694F" TextString="HiddenCumAll"/>
+    <TextStringDefinition InstanceID="0xBCF01686" TextString="Cumsumable_Handler"/>
+    <TextStringDefinition InstanceID="0xA0A2DA90" TextString="{0.SimFirstName} would rather nobody see {0.SimPronounObjective} like this!!!"/>
+    <TextStringDefinition InstanceID="0xDB8FC184" TextString="Got Messy"/>
+    <TextStringDefinition InstanceID="0xFB1E2E3A" TextString="Is {0.SimFirstName} even under there?  \n\n{0.SimPronounSubjective} is overwhelmed by the torrents of spunk."/>
+    <TextStringDefinition InstanceID="0xDF6CE982" TextString="CumDazed"/>
+    <TextStringDefinition InstanceID="0xF01F45F3" TextString="Resolved NEG"/>
+    <TextStringDefinition InstanceID="0xF00E7B79" TextString="Having {0.SimPronounPossessiveDependent} toes splashed was hot! Imagining them being licked clean might push some sims over the edge."/>
+    <TextStringDefinition InstanceID="0x8277F9F9" TextString="Spunky Toes"/>
+    <TextStringDefinition InstanceID="0xCD4B93AD" TextString="From swallowing loved one's cum"/>
+    <TextStringDefinition InstanceID="0xDEF90E7E" TextString="Remove Cum Addiction"/>
+    <TextStringDefinition InstanceID="0xD5A7AC2B" TextString="Command to Crave Cum"/>
+    <TextStringDefinition InstanceID="0xD2786041" TextString="Base"/>
+    <TextStringDefinition InstanceID="0xFF01CE77" TextString="Globs of goo running down {0.SimPronounPossessiveDependent} thigh is such an exciting feeling!"/>
+    <TextStringDefinition InstanceID="0xB123C10F" TextString="Dripping to the Knees"/>
+    <TextStringDefinition InstanceID="0x8AEF2695" TextString="Add Cum Addiction"/>
+    <TextStringDefinition InstanceID="0x961112AD" TextString="SeenWithFacial"/>
+    <TextStringDefinition InstanceID="0xC6F7AE4F" TextString="Empty balls, clear mind... \nNap time? "/>
+    <TextStringDefinition InstanceID="0xE4CC9EDE" TextString="Drained"/>
+    <TextStringDefinition InstanceID="0xF50ED5A0" TextString="ExtraCumHandsLegs"/>
+    <TextStringDefinition InstanceID="0xD4E11829" TextString="Add Cum Addict Trait"/>
+    <TextStringDefinition InstanceID="0xB07DC260" TextString="{0.SimFirstName}'s mouth is thoroughly coated in sweet semen."/>
+    <TextStringDefinition InstanceID="0x8FD3A69B" TextString="Slutty Slurping"/>
+    <TextStringDefinition InstanceID="0xE5CB3765" TextString="The sticky reminder of recent escapades has {0.SimFirstName} feeling dirty in a fierce way. "/>
+    <TextStringDefinition InstanceID="0xB9387C7D" TextString="Sticky Spot"/>
+    <TextStringDefinition InstanceID="0xB35C4C45" TextString="{0.SimFirstName} has imbibed an extreme amount of love juice."/>
+    <TextStringDefinition InstanceID="0x9AB6DD76" TextString="Cum Drunk"/>
+    <TextStringDefinition InstanceID="0xA013A02B" TextString="CM UP"/>
+    <TextStringDefinition InstanceID="0x9080D66C" TextString="WWinProgress"/>
+    <TextStringDefinition InstanceID="0xD8A5E8EF" TextString="HiddenCumChestSoaked"/>
+    <TextStringDefinition InstanceID="0xA765F6B9" TextString="Now that {0.SimFirstName} has had an orgasm, {0.SimPronounSubjective} can see and feel the world so much more clearly."/>
+    <TextStringDefinition InstanceID="0xCD6B4F32" TextString="Sweet Release"/>
+    <TextStringDefinition InstanceID="0xD66EA829" TextString="Debug"/>
+    <TextStringDefinition InstanceID="0xF5EB4D7A" TextString="By having {0.SimPronounPossessiveDependent} botanical need for hydration quenched by semen, {0.SimFirstName} will resist dehydration better."/>
+    <TextStringDefinition InstanceID="0xF8859FC4" TextString="Watered By Hand"/>
+    <TextStringDefinition InstanceID="0xF3393CA6" TextString="Hidden Triple Cum Buff"/>
+    <TextStringDefinition InstanceID="0xA4E02C23" TextString="{0.SimFirstName}'s awareness is occupied by the feeling and smell of dried spunk. {0.SimPronounSubjective} has a hard time imagining others don't notice."/>
+    <TextStringDefinition InstanceID="0xF294E957" TextString="Dried Splooge"/>
+    <TextStringDefinition InstanceID="0xC805475F" TextString="{0.SimFirstName} has a cream filled pastry between {0.SimPronounPossessiveDependent} legs."/>
+    <TextStringDefinition InstanceID="0xC6CDAFB2" TextString="Gooey Coochie"/>
+    <TextStringDefinition InstanceID="0x9AD348BF" TextString="!!!"/>
+    <TextStringDefinition InstanceID="0x87EF6207" TextString="Swallowing Cum"/>
+    <TextStringDefinition InstanceID="0xE955C934" TextString="Select Cum Mood"/>
+    <TextStringDefinition InstanceID="0xAAC216DC" TextString="Hehehe, It kinda tickles..."/>
+    <TextStringDefinition InstanceID="0xD9A1175B" TextString="Happy Feet"/>
+    <TextStringDefinition InstanceID="0xEB778A54" TextString="TraitMoodLockTemp"/>
+    <TextStringDefinition InstanceID="0x82669FF0" TextString="(From Cum Addiction)"/>
+    <TextStringDefinition InstanceID="0xE17E50E2" TextString="{0.SimFirstName} has been swimming in this Spunk for hours! It's a La-Goon down there!"/>
+    <TextStringDefinition InstanceID="0xB93F5A79" TextString="Swamp Thang"/>
+    <TextStringDefinition InstanceID="0x92973BFC" TextString="Whether people can see it or not this is the kind of distraction {0.SimFirstName} could do without!"/>
+    <TextStringDefinition InstanceID="0xB664BE36" TextString="Embarrassing Dribble"/>
+    <TextStringDefinition InstanceID="0xA82ECAD6" TextString="Grossed Out By Cum"/>
+    <TextStringDefinition InstanceID="0x9BD5A721" TextString="These Sims will be Uncomfortable or Embarassed when they come in contact with Cum."/>
+    <TextStringDefinition InstanceID="0xCA62BE31" TextString="Near Double Loaded Sim"/>
+    <TextStringDefinition InstanceID="0x97361107" TextString="Cum Mood"/>
+    <TextStringDefinition InstanceID="0xED64F9CD" TextString="Remove Extra Cum (All Sims)"/>
+    <TextStringDefinition InstanceID="0xA02ABAB9" TextString="Something's not sitting right on {0.SimFirstName}'s stomach...\n{0.SimPronounSubjective} has a pretty good idea what it might be."/>
+    <TextStringDefinition InstanceID="0x86855533" TextString="*Belch"/>
+    <TextStringDefinition InstanceID="0xC87B5A39" TextString="Noir 1"/>
+    <TextStringDefinition InstanceID="0xB0CB2B87" TextString="Remove Sperm Machine Trait"/>
+    <TextStringDefinition InstanceID="0xC852782D" TextString="Mixer Cum Vagina Uncomfy"/>
+    <TextStringDefinition InstanceID="0xC6588A68" TextString="Listen to {1.SimFirstName} beg for Cum"/>
+    <TextStringDefinition InstanceID="0xFB2D1103" TextString="Beg For Cum"/>
+    <TextStringDefinition InstanceID="0xA6E0967F" TextString="These Sims gain Confidence and Happiness from the natural antidepressants in Semen. They may become frustrated when their craving for cum isn't met fully enough.\n"/>
+    <TextStringDefinition InstanceID="0xFC07B218" TextString="Hidden_ExtraCum_Disabled"/>
+    <TextStringDefinition InstanceID="0xD31A9EA0" TextString="CumTrigger (Chest)"/>
+    <TextStringDefinition InstanceID="0xE6BB0AFF" TextString="Remove Extra Cum"/>
+    <TextStringDefinition InstanceID="0x9F76C034" TextString="Hidden Dry Cum"/>
+    <TextStringDefinition InstanceID="0xF786D93F" TextString="{0.SimFirstName} has been carrying a sexy souvenir all day. Perhaps it's time to clean up... or add another load."/>
+    <TextStringDefinition InstanceID="0xE77EB864" TextString="Glazed Muff"/>
+    <TextStringDefinition InstanceID="0x8C44AC11" TextString="Hidden Double Cum Buff"/>
+    <TextStringDefinition InstanceID="0xCAA2840C" TextString="{0.SimFirstName}'s mind is pulled to the crusty patches on {0.SimPronounPossessiveDependent} skin."/>
+    <TextStringDefinition InstanceID="0xDF0A0B08" TextString="Dry Slime"/>
+    <TextStringDefinition InstanceID="0xF14F122E" TextString="Dribble"/>
+    <TextStringDefinition InstanceID="0x91289EC4" TextString="The Indignity!! {0.SimFirstName} would rather not have {0.SimPronounObjective} face used as a CUM RAG!!"/>
+    <TextStringDefinition InstanceID="0xF15D76AF" TextString="Cum Ragged"/>
+    <TextStringDefinition InstanceID="0x954730A2" TextString="Ready for a royal ball? Or coming from one... \nor two."/>
+    <TextStringDefinition InstanceID="0xECA97E31" TextString="Huh!? oh, WHat?  \nAhh.. \n\nCum."/>
+    <TextStringDefinition InstanceID="0xF62E8EEC" TextString="CumTrigger (LowerBack)"/>
+    <TextStringDefinition InstanceID="0xA707CDD0" TextString="This Sim is at the mercy of their balls. They produce sperm over time and will require relief regularly, especially after being aroused. "/>
+    <TextStringDefinition InstanceID="0x96BB4B8F" TextString="{0.SimFirstName} is caked in cold crusty cum, "/>
+    <TextStringDefinition InstanceID="0xB46ACCB7" TextString="Stale Semen"/>
+    <TextStringDefinition InstanceID="0xE517588E" TextString="Legs"/>
+    <TextStringDefinition InstanceID="0xD2DD2BC3" TextString="Cum Mood: Neutral"/>
+    <TextStringDefinition InstanceID="0xD2CED5C1" TextString="Lock Cum Mood (currently unlocked)"/>
+    <TextStringDefinition InstanceID="0x9639C364" TextString="Some sims just have really sweet semen, must be all that clean living."/>
+    <TextStringDefinition InstanceID="0x83CA6B1F" TextString="Splendid Specimen"/>
+    <TextStringDefinition InstanceID="0xEA6B6237" TextString="CM Down"/>
+    <TextStringDefinition InstanceID="0xA9502F40" TextString="Cum Mood: Loves Cum"/>
+    <TextStringDefinition InstanceID="0xC28A1FD8" TextString="TraitMoodLocked"/>
+    <TextStringDefinition InstanceID="0xDEF61AAD" TextString=" {0.SimFirstName} shudders to think of anyone seeing them like this. "/>
+    <TextStringDefinition InstanceID="0x80F453B7" TextString="Unpresentable"/>
+    <TextStringDefinition InstanceID="0x8985817F" TextString="Cum Quantity (High)"/>
+    <TextStringDefinition InstanceID="0xE7261E1A" TextString="A splash here and there never hurt anyone."/>
+    <TextStringDefinition InstanceID="0x9C719C9E" TextString="Sticky Business"/>
+    <TextStringDefinition InstanceID="0xF568114A" TextString="{0.SimFirstName} has had so much cum on {0.SimPronounSubjective} body for so long that {0.SimPronounSubjective} almost doesn't notice anymore"/>
+    <TextStringDefinition InstanceID="0xF5CEB5AD" TextString="Solid Splooge"/>
+    <TextStringDefinition InstanceID="0x9057E340" TextString="Work Can be a slog when you AREN'T slathered in Semen! {0.SimFirstName} can't wait to clean up."/>
+    <TextStringDefinition InstanceID="0x85EBEAED" TextString="Beta"/>
+    <TextStringDefinition InstanceID="0xF555A5AB" TextString="Hidden_Soaked"/>
+    <TextStringDefinition InstanceID="0xFD682C71" TextString="Cum!!!"/>
+    <TextStringDefinition InstanceID="0xB190D7E8" TextString="{0.SimFirstName} is proudly public about {0.SimPronounObjective} love of cum!"/>
+    <TextStringDefinition InstanceID="0xA6549857" TextString="Showing off your Rewards"/>
+    <TextStringDefinition InstanceID="0x926882EE" TextString="TestWWCum"/>
+    <TextStringDefinition InstanceID="0xF1531EBA" TextString="Likes Cum"/>
+    <TextStringDefinition InstanceID="0xCF4EB19C" TextString="These Sims will most likely enjoy coming in contact with Cum!"/>
+    <TextStringDefinition InstanceID="0xB2F33F92" TextString="Cum Slut Attire"/>
+    <TextStringDefinition InstanceID="0xB793AAB2" TextString="ExtraCumPenisBase"/>
+    <TextStringDefinition InstanceID="0xD1768BB7" TextString="Layers of fresh cum resolubilize the already dry cum on {0.SimFirstName}'s body. \n\nIt's been a Very Sticky Day! "/>
+    <TextStringDefinition InstanceID="0xEFFC387C" TextString="Layered Cake"/>
+    <TextStringDefinition InstanceID="0xC4FCA1CC" TextString="All day and all night, {0.SimFirstName} is living that cum lover life!"/>
+    <TextStringDefinition InstanceID="0xBBE79BFE" TextString="Cum Life"/>
+    <TextStringDefinition InstanceID="0x8FD45B82" TextString="{0.SimFirstName} isn't cut out for a life of a cumslut"/>
+    <TextStringDefinition InstanceID="0xD9382E04" TextString="Re-used Cum Rag"/>
+    <TextStringDefinition InstanceID="0x91A3E066" TextString="From Cum"/>
+    <TextStringDefinition InstanceID="0x95FC28E7" TextString="From Cum On Chest"/>
+    <TextStringDefinition InstanceID="0x9DB69C6F" TextString="ExtraCumPenisAll"/>
+    <TextStringDefinition InstanceID="0xC0074BA7" TextString="From Receiving A Stranger's Creampie"/>
+    <TextStringDefinition InstanceID="0xE553F763" TextString="From Receiving Facial From Someone Unfamiliar"/>
+    <TextStringDefinition InstanceID="0x92CE21B7" TextString="50+ Cum Mood"/>
+    <TextStringDefinition InstanceID="0x9AEA928D" TextString="-50 Cum Mood"/>
+    <TextStringDefinition InstanceID="0xC1FBB214" TextString="positive CM stat"/>
+    <TextStringDefinition InstanceID="0xCD80F13F" TextString="Negative Cm Stat"/>
+    <TextStringDefinition InstanceID="0xAE778055" TextString="From Receiving Cumshot"/>
+    <TextStringDefinition InstanceID="0xF32CE1CB" TextString="Soaked"/>
+    <TextStringDefinition InstanceID="0x8CFFFC64" TextString="From Being Watered With Cum"/>
+    <TextStringDefinition InstanceID="0xDD0CABEF" TextString="Extra Cum Penis Dribble"/>
+    <TextStringDefinition InstanceID="0xD3D12A77" TextString="Spoo brand wellness products harness the power of man’s own natural essence. Our creams are ethically sourced and guaranteed to arrive fresh.\n\nWould you like to create an account?\n\n(beta)"/>
+    <TextStringDefinition InstanceID="0xFBC3191A" TextString="Unlock the Power of Cum"/>
+    <TextStringDefinition InstanceID="0x9FD205F2" TextString="Sees Cum"/>
+    <TextStringDefinition InstanceID="0xE0AE1D8A" TextString="{1.SimFirstName} already loves cum, maybe not as much as YOU though."/>
+    <TextStringDefinition InstanceID="0xE95181BA" TextString="&quot;I don't have an experience with all that&quot;"/>
+    <TextStringDefinition InstanceID="0xCB2C4121" TextString="{0.SimFirstName} will no longer develop a cum addiction naturally, but {0.SimPronounSubjective} will now have the option to change {0.SimPronounPossessiveDependent} mind (option available by clicking on Sim while in contact with Cum."/>
+    <TextStringDefinition InstanceID="0xCEBFBC61" TextString="Cum Addiction Declined"/>
+    <TextStringDefinition InstanceID="0xA9463BA1" TextString="Hidden_IgnoreCumAddictToken"/>
+    <TextStringDefinition InstanceID="0xE7F03BE2" TextString="From Receiving Facial"/>
+    <TextStringDefinition InstanceID="0xE47B1B8E" TextString="From Taking a Facial"/>
+    <TextStringDefinition InstanceID="0xF01F18FC" TextString="Be greeted by cumslut"/>
+    <TextStringDefinition InstanceID="0xD8E8A856" TextString="Sticky Introduction"/>
+    <TextStringDefinition InstanceID="0x99CCB685" TextString="&quot;I'm not sure how I'd react to cum&quot;"/>
+    <TextStringDefinition InstanceID="0xEEEE1DDB" TextString="Inexperienced"/>
+    <TextStringDefinition InstanceID="0x9DF0C213" TextString="&quot;Why would you ask me that!&quot;"/>
+    <TextStringDefinition InstanceID="0xC7FF9C3B" TextString="Eww!!! "/>
+    <TextStringDefinition InstanceID="0xEF1AA0C8" TextString="&quot;Oh! hehe, I guess I don't mind getting a little messy. It's not my main thing though.&quot;"/>
+    <TextStringDefinition InstanceID="0x9438939D" TextString="&quot;Well, I think cum can be kinda hot&quot;"/>
+    <TextStringDefinition InstanceID="0x875BC17C" TextString="Mmm"/>
+    <TextStringDefinition InstanceID="0xF20B73E4" TextString="&quot;I Love Cum! Can't get enough!&quot;"/>
+    <TextStringDefinition InstanceID="0xF0CA566C" TextString="♥"/>
+    <TextStringDefinition InstanceID="0x8DC470B4" TextString="&quot;We don't know each other like that!&quot;"/>
+    <TextStringDefinition InstanceID="0xAB7FEACD" TextString="You and I both know I can't live without a regular supply of hot, flowing jizz!"/>
+    <TextStringDefinition InstanceID="0xC41388EA" TextString="Temp_CumAskCooldown"/>
+    <TextStringDefinition InstanceID="0xBDA8A2F4" TextString="From Cum On Feet"/>
+    <TextStringDefinition InstanceID="0x896B1B44" TextString="From Cum Withdrawal"/>
+    <TextStringDefinition InstanceID="0x943C806B" TextString="From Being Soaked In Cum"/>
+    <TextStringDefinition InstanceID="0xDD6A20B3" TextString="Openly taking about {0.SimPronounPossessiveDependent} desires has made {0.SimFirstName} hot and bothered"/>
+    <TextStringDefinition InstanceID="0x98AEF753" TextString="Cumfessional"/>
+    <TextStringDefinition InstanceID="0x9BCF39BE" TextString="Hidden Temporary Cum Lust"/>
+    <TextStringDefinition InstanceID="0xE43CFF58" TextString="Somebody, Anybody, Please!!\nPlease Let Me milk that Cock! "/>
+    <TextStringDefinition InstanceID="0xB88D4468" TextString="Desperate for CUM!"/>
+    <TextStringDefinition InstanceID="0xC823A569" TextString="{0.SimFirstName} feels fortified by nutrient rich nut milk. {0.SimPronounPossessiveDependent} "/>
+    <TextStringDefinition InstanceID="0xC9243F6F" TextString="Cum Lust Satisfied"/>
+    <TextStringDefinition InstanceID="0x815A6FD8" TextString="Drinking it, being covered in it, getting filled with it. {0.SimFirstName)'s mind is consumed with thoughts of consuming CUM!"/>
+    <TextStringDefinition InstanceID="0xECFEEB7C" TextString="Needs Cum"/>
+    <TextStringDefinition InstanceID="0x944E8FAF" TextString="{0.SimFirstName} hasn't had {0.SimPronounPossessiveDependent} fill of Cum lately."/>
+    <TextStringDefinition InstanceID="0xEAA8873A" TextString="Craving Cum"/>
+    <TextStringDefinition InstanceID="0xB8DD5455" TextString="From Swallowing Tasty Cum"/>
+    <TextStringDefinition InstanceID="0xA5F55FB9" TextString="From Swallowing Cum"/>
+    <TextStringDefinition InstanceID="0x9A31CADB" TextString="From Swallowing Funky Cum"/>
+    <TextStringDefinition InstanceID="0xF355FEE6" TextString="From Swallowing Nasty Cum"/>
+    <TextStringDefinition InstanceID="0xBCA6B448" TextString="From Swallowing Too Much Cum"/>
+    <TextStringDefinition InstanceID="0xCCF43E62" TextString="From Swallowing Ghost Cum"/>
+    <TextStringDefinition InstanceID="0xED7EF87D" TextString="From Swallowing Father Winter's Cum"/>
+    <TextStringDefinition InstanceID="0xE8FE43DF" TextString="Cum Sick Puke"/>
+    <TextStringDefinition InstanceID="0xAA40DBF6" TextString="From Cum Addiction"/>
+    <TextStringDefinition InstanceID="0x97A35F7E" TextString="{0.SimFirstName} has come to the realization that {0.SimPronounSubjective} can't get enough of that gooey stuff! "/>
+    <TextStringDefinition InstanceID="0xEED01AE0" TextString="{0.SimFirstName} Loves CUM!"/>
+    <TextStringDefinition InstanceID="0xC7306009" TextString="&quot;I could get used to this!&quot;\nIf every experience {0.SimFirstName} has with cum is this pleasant, {0.SimPronounSubjective} might just start asking for that sticky stuff. "/>
+    <TextStringDefinition InstanceID="0x9E4CBFB6" TextString="{0.SimFirstName} Likes CUM"/>
+    <TextStringDefinition InstanceID="0xAD68446F" TextString="&quot;That wasn't too bad&quot;\n{0.SimFirstName} had a decent time despite {0.SimPronounObjective} dislike of jizz. In the future {0.SimPronounSubjective} will be more open to having a good time when splashed with Semen. "/>
+    <TextStringDefinition InstanceID="0xA3C65D63" TextString="{0.SimFirstName} is okay with CUM"/>
+    <TextStringDefinition InstanceID="0xF1B9E9F9" TextString="Swallowing {0.SimPronounPossessiveDependent} own Cum"/>
+    <TextStringDefinition InstanceID="0xB0073B75" TextString="Too much cum"/>
+    <TextStringDefinition InstanceID="0xEB1EF1AA" TextString="From Dry Cum"/>
+    <TextStringDefinition InstanceID="0xB500C4C3" TextString="From Dislike of Cum"/>
+    <TextStringDefinition InstanceID="0xCE6C8CD6" TextString="Fetish Sees Facial"/>
+    <TextStringDefinition InstanceID="0xF2FAB7A4" TextString="From Unloading Massive Cumshot"/>
+    <TextStringDefinition InstanceID="0xF8C4C69B" TextString="From Sex without Cumming"/>
+    <TextStringDefinition InstanceID="0x95A60BA8" TextString="&quot;Well, THAT sucked&quot;\n{0.SimFirstName} didn't have a great time {0.SimPronounSubjective} now dislikes cum."/>
+    <TextStringDefinition InstanceID="0xCD68FD0F" TextString="{0.SimFirstName} Dislikes Cum"/>
+    <TextStringDefinition InstanceID="0xADD4FC91" TextString="&quot;That wasn't very fun&quot;\n{0.SimFirstName} didn't have a great time {0.SimPronounObjective} is now ambivalent about cum. In the future {0.SimPronounSubjective} might be more ready to wash that sticky stuff off. "/>
+    <TextStringDefinition InstanceID="0xC82BEBE3" TextString="{0.SimFirstName} is less into cum"/>
+    <TextStringDefinition InstanceID="0x993E8585" TextString="&quot;It was Pretty good&quot;\n{0.SimFirstName} didn't enjoy this sticky session as much as {0.SimPronounSubjective} usually does. {0.SimPronounObjective} passion for cum might be wavering. "/>
+    <TextStringDefinition InstanceID="0xB7CCDC69" TextString="{0.SimFirstName} Likes Cum"/>
+    <TextStringDefinition InstanceID="0xF199EB81" TextString="{0.SimFirstName}'s recent experience with a ghost has left {0.SimPronounObjective} tingling. {0.SimPronounSubjective} will be a more powerful psychic conduit while covered in the ectoplasm."/>
+    <TextStringDefinition InstanceID="0x929F0E42" TextString="Slimed!!"/>
+    <TextStringDefinition InstanceID="0xE2F21C6D" TextString="Temporary SexAlluring"/>
+    <TextStringDefinition InstanceID="0xD97E25AE" TextString="Drink Cum Negative"/>
+    <TextStringDefinition InstanceID="0x97DAEFA2" TextString="Hidden Cum Queen Aura"/>
+    <TextStringDefinition InstanceID="0xFAAB1255" TextString="Acquired Taste"/>
+    <TextStringDefinition InstanceID="0xA613E5F5" TextString="Positive Cum Drinking"/>
+    <TextStringDefinition InstanceID="0xD7F4EB32" TextString="CumDrinkCooldown"/>
+    <TextStringDefinition InstanceID="0xA2714D34" TextString="Sex Smell"/>
+    <TextStringDefinition InstanceID="0xE7D1CF22" TextString="{0.SimFirstName} has a strange desire.\nIt's at the tip of {0.SimPronounPossessiveDependent} tongue.\n"/>
+    <TextStringDefinition InstanceID="0xDF7FACC7" TextString="Curious Craving"/>
+    <TextStringDefinition InstanceID="0xA525162A" TextString="hiddenMoodCheckDelay"/>
+    <TextStringDefinition InstanceID="0xD86DDAFE" TextString="Hidden_CumButt"/>
+    <TextStringDefinition InstanceID="0x8E3A4157" TextString="Don't talk to me before I've had my CUM!"/>
+    <TextStringDefinition InstanceID="0x89F29FAA" TextString="Dry Spell"/>
+    <TextStringDefinition InstanceID="0x88921861" TextString="Which is sadder? That {0.SimFirstName} craves cum, or that no one seems to want to give it to {0.SimPronounObjective}?"/>
+    <TextStringDefinition InstanceID="0xA4D983D1" TextString="Is It Me?"/>
+    <TextStringDefinition InstanceID="0x86DF5BB0" TextString="It's Fine! It's not like I'm some sort of cum junkie...    WHATEVER!"/>
+    <TextStringDefinition InstanceID="0x90DF11D2" TextString="Frustrated"/>
+    <TextStringDefinition InstanceID="0xDBFB2331" TextString="this sim gains 1.5 x satisfaction points "/>
+    <TextStringDefinition InstanceID="0x88F2489E" TextString="Cum Of Father Winter"/>
+    <TextStringDefinition InstanceID="0xAA97AFDD" TextString="Looks like {1.SimFirstName} has been very naughty! Nonetheless, {0.SimPronounSubjective} will definitely be on the nice list this year!"/>
+    <TextStringDefinition InstanceID="0x82778233" TextString="Milk From Santa"/>
+    <TextStringDefinition InstanceID="0xDB868B21" TextString="{0.SimFirstName} feels filled with energy!\n{0.SimPronounSubjective} will have a boost to Psychic abilities and will gain skill at the séance table faster"/>
+    <TextStringDefinition InstanceID="0xA26092AA" TextString="Swallowed Ectoplasm"/>
+    <TextStringDefinition InstanceID="0xD8588AAD" TextString="TempCumSwallowed"/>
+    <TextStringDefinition InstanceID="0xD2B2AB5F" TextString="Hidden_Cumsumable_MinTime"/>
+    <TextStringDefinition InstanceID="0xEBFA7A4B" TextString="From Cum Cumming Back Up"/>
+    <TextStringDefinition InstanceID="0xD2984074" TextString="Creampie"/>
+    <TextStringDefinition InstanceID="0xC35FE2AA" TextString="WWoutcomeStats"/>
+    <TextStringDefinition InstanceID="0xD01EC5BB" TextString="Calculate Cum Quality"/>
+    <TextStringDefinition InstanceID="0xCE1592B3" TextString="Near Triple Loaded Sim"/>
+    <TextStringDefinition InstanceID="0xE44D7D0A" TextString="Recieve A Facial"/>
+    <TextStringDefinition InstanceID="0xAC4B8B78" TextString="Universal Cum Remover"/>
+    <TextStringDefinition InstanceID="0xB95012D5" TextString="ExtraCum Penis Noir 1"/>
+    <TextStringDefinition InstanceID="0xA23FDF38" TextString="{0.SimFirstName} can feel the holiday spirit sliding down {0.SimPronounPossessiveDependent} throat. The coming year will surely be even more rewarding! \n\n({0.SimFirstName} will gain 50% more satisfaction points for the next 28 days)"/>
+    <TextStringDefinition InstanceID="0xFF16805D" TextString="Ho Ho Ho Indeed!"/>
+  </TextStringDefinitions>
+</StblData>
