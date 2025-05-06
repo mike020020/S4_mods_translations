@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x7D90524F" TextString="Life's Tragedies -MOD-"/>
+    <TextStringDefinition InstanceID="0x39769F43" TextString="-Hidden Message- If you're a translator thank you so much for taking the time to translate my mod, I allow full translations for any of my mods, when the mod is in the Early Access period on patreon you're allowrd to share the STBL translation file only, when the mod is released for public for free you're allowed to upload the full mod with your translation in it, thank you again &amp; good luck with the translation ♥ "/>
+    <TextStringDefinition InstanceID="0x140BA127" TextString="Life Tragedies"/>
+    <TextStringDefinition InstanceID="0x140BA128" TextString="Add Statistic Buff"/>
+    <TextStringDefinition InstanceID="0x140BA129" TextString="Kidnap Sim"/>
+    <TextStringDefinition InstanceID="0x140BA130" TextString="Car Accident"/>
+    <TextStringDefinition InstanceID="0x140BA131" TextString="This sim has seen it all! {0.SimFirstName} should stay away from the face of danger."/>
+    <TextStringDefinition InstanceID="0x140BA132" TextString="Terrified"/>
+    <TextStringDefinition InstanceID="0x140BA133" TextString="Kidnapped"/>
+    <TextStringDefinition InstanceID="0x140BA134" TextString="(From Life Tragedies)"/>
+    <TextStringDefinition InstanceID="0x140BA135" TextString="Oh no! {0.SimFirstName} is held hostage! {M0.He}{F0.She} should make a plan to escape, calling the cops would be a good idea."/>
+    <TextStringDefinition InstanceID="0x140BA136" TextString="Horrifying Scene"/>
+    <TextStringDefinition InstanceID="0x140BA137" TextString="{0.SimFirstName} is getting kidnapped! "/>
+    <TextStringDefinition InstanceID="0x140BA138" TextString="Kidnapper"/>
+    <TextStringDefinition InstanceID="0x140BA139" TextString="Tragedies"/>
+    <TextStringDefinition InstanceID="0x140BA140" TextString="Kidnapper"/>
+    <TextStringDefinition InstanceID="0x140BA141" TextString="Bully"/>
+    <TextStringDefinition InstanceID="0x140BA142" TextString="Armed Robber"/>
+    <TextStringDefinition InstanceID="0x140BA143" TextString="Has A Deadly Disease"/>
+    <TextStringDefinition InstanceID="0x140BA144" TextString="Dying"/>
+    <TextStringDefinition InstanceID="0x140BA145" TextString="(From Having A Deadly Diesease)"/>
+    <TextStringDefinition InstanceID="0x140BA146" TextString="{0.SimFirstName} is living {M0.his}{F0.her} last days... The best thing to do at this point is to rest and say goodbye to loved ones."/>
+    <TextStringDefinition InstanceID="0x140BA147" TextString="{0.SimFirstName} is dying from a deadly disease."/>
+    <TextStringDefinition InstanceID="0x140BA148" TextString="Remaining Life"/>
+    <TextStringDefinition InstanceID="0x140BA149" TextString="{0.SimFirstName}'s is dying from a deadly disease, once this bar is over your sim's life will be over as well..."/>
+    <TextStringDefinition InstanceID="0x140BA150" TextString="&lt;font color = '#558DDD'&gt;Give Fatal Illness&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA151" TextString="&lt;font color = '#cc3333'&gt;Remove Fatal Illness&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA152" TextString="Options"/>
+    <TextStringDefinition InstanceID="0x140BA153" TextString="Death By Deadly Disease"/>
+    <TextStringDefinition InstanceID="0x140BA154" TextString="{0.SimName} is dying from a deadly disease..."/>
+    <TextStringDefinition InstanceID="0x140BA155" TextString="Say Goodbye"/>
+    <TextStringDefinition InstanceID="0x140BA156" TextString="Steal Object"/>
+    <TextStringDefinition InstanceID="0x140BA157" TextString="&lt;font color = '#cc3333'&gt;Fight Burglar Away!&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA158" TextString="&lt;font color = '#cc3333'&gt;Bleeding Out&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA159" TextString="{0.SimFirstName} has been shot dead!"/>
+    <TextStringDefinition InstanceID="0x140BA160" TextString="&lt;font color = '#a9bccb'&gt;Dying&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA161" TextString="In Pain"/>
+    <TextStringDefinition InstanceID="0x140BA162" TextString="Not Feeling Well"/>
+    <TextStringDefinition InstanceID="0x140BA163" TextString="(From Life Tragedies Mod)"/>
+    <TextStringDefinition InstanceID="0x140BA164" TextString="{0.SimFirstName} is not feeling well, {M0.he}{F0.she} could have gotten a disease."/>
+    <TextStringDefinition InstanceID="0x140BA165" TextString="&lt;font color = '#558DDD'&gt;Give Fatal Illness Symptoms&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA166" TextString="&lt;font color = '#cc3333'&gt;Remove Disease Symptoms&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA167" TextString="Discover Disease"/>
+    <TextStringDefinition InstanceID="0x140BA168" TextString="Get Checked Up At Hospital"/>
+    <TextStringDefinition InstanceID="0x140BA169" TextString="Get Checked Up At Hospital With"/>
+    <TextStringDefinition InstanceID="0x140BA170" TextString="Go To Hospital"/>
+    <TextStringDefinition InstanceID="0x140BA171" TextString="Fatal Illness"/>
+    <TextStringDefinition InstanceID="0x140BA172" TextString="{0.SimFirstName} is upset over the fatal illness of another sim."/>
+    <TextStringDefinition InstanceID="0x140BA173" TextString="Have Surgery At Hospital &lt;font color = '#cc3333'&gt;20% Chance Of Success&lt;/font&gt; &lt;font color = '#42ecf5'&gt;&quot;Rabbithole&quot;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA174" TextString="Have Surgery At Hospital With &lt;font color = '#cc3333'&gt;20% Chance Of Success&lt;/font&gt; &lt;font color = '#42ecf5'&gt;&quot;Rabbithole&quot;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA175" TextString="Surgery Succeeded (Fatal Illness)"/>
+    <TextStringDefinition InstanceID="0x140BA176" TextString="Congratulations {0.SimFirstName}'s surgery was successful! {0.SimFirstName} has been cured from the fatal illness."/>
+    <TextStringDefinition InstanceID="0x140BA177" TextString="Surgery Failure (Fatal Illness)"/>
+    <TextStringDefinition InstanceID="0x140BA178" TextString="Unfortunately {0.SimFirstName}'s surgery failed! {0.SimFirstName} is living {M0.his}{F0.her} last days... The best thing to do at this point is to rest and say goodbye to loved ones."/>
+    <TextStringDefinition InstanceID="0x140BA179" TextString="Doctor"/>
+    <TextStringDefinition InstanceID="0x140BA180" TextString="Spawn Doctor"/>
+    <TextStringDefinition InstanceID="0x140BA181" TextString="Critical Surgery"/>
+    <TextStringDefinition InstanceID="0x140BA182" TextString="Have Surgery Performed"/>
+    <TextStringDefinition InstanceID="0x140BA183" TextString="Celebrate Sim"/>
+    <TextStringDefinition InstanceID="0x140BA184" TextString="Mourn Sim"/>
+    <TextStringDefinition InstanceID="0x140BA185" TextString="Unfortunately {0.SimFirstName}'s surgery failed! even though the odds of success were low {M0.he}{F0.she} was hopeful that {M0.he}{F0.she} will be cured."/>
+    <TextStringDefinition InstanceID="0x140BA186" TextString="Cry Over Fatal Illness"/>
+    <TextStringDefinition InstanceID="0x140BA187" TextString="What great news! {0.SimFirstName}'s surgery succeeded! even though the odds of success were low! {0.SimFirstName} is thrilled over having a second chance at life."/>
+    <TextStringDefinition InstanceID="0x140BA188" TextString="Celebrate Surgery Success"/>
+    <TextStringDefinition InstanceID="0x140BA189" TextString="Mournful"/>
+    <TextStringDefinition InstanceID="0x140BA190" TextString="{0.SimFirstName} just witnessed a sim with a fatal illness sim, such tragedy will leave {M0.him}{F0.her} in a dark place for a while."/>
+    <TextStringDefinition InstanceID="0x140BA191" TextString="Heartwhelmed"/>
+    <TextStringDefinition InstanceID="0x140BA192" TextString="{0.SimFirstName} just witnessed a sim who won a battle against a fatal illness, how delightful!"/>
+    <TextStringDefinition InstanceID="0x140BA193" TextString="Pass Out"/>
+    <TextStringDefinition InstanceID="0x140BA194" TextString="Check On {1.SimFirstName}"/>
+    <TextStringDefinition InstanceID="0x140BA195" TextString="The operation room is ready for surgery."/>
+    <TextStringDefinition InstanceID="0x140BA196" TextString="Wait For Surgery To Be Done"/>
+    <TextStringDefinition InstanceID="0x140BA197" TextString="Fatal Illness"/>
+    <TextStringDefinition InstanceID="0x140BA198" TextString="Travel To Hospital For Surgery With &lt;font color = '#c47900'&gt;Requires Get To Work Expansion pack&quot;"/>
+    <TextStringDefinition InstanceID="0x140BA199" TextString="Travel To Hospital For Surgery Alone &lt;font color = '#c47900'&gt;Requires Get To Work Expansion pack&quot;"/>
+    <TextStringDefinition InstanceID="0x140BA200" TextString="&lt;font color = '#558DDD'&gt;Turn &lt;/font&gt; Into Armed Robber"/>
+    <TextStringDefinition InstanceID="0x140BA201" TextString="&lt;font color = '#cc3333'&gt;Remove As&lt;/font&gt; Armed Robber"/>
+    <TextStringDefinition InstanceID="0x140BA202" TextString="Shoot Sim"/>
+    <TextStringDefinition InstanceID="0x140BA203" TextString="Threat Sims"/>
+    <TextStringDefinition InstanceID="0x140BA204" TextString="Shoot Adult - Autonomously"/>
+    <TextStringDefinition InstanceID="0x140BA205" TextString="Shoot Child- Autonomously"/>
+    <TextStringDefinition InstanceID="0x140BA206" TextString="Shoot Toddler- Autonomously"/>
+    <TextStringDefinition InstanceID="0x140BA207" TextString="Armed Robber!"/>
+    <TextStringDefinition InstanceID="0x140BA208" TextString="{0.SimFirstName} just witnessed an armed robber! {M0.He}{F0.She} should stay away from them before they do something dangerous!"/>
+    <TextStringDefinition InstanceID="0x140BA209" TextString="Wounded"/>
+    <TextStringDefinition InstanceID="0x140BA210" TextString="{0.SimFirstName} has been fatally injured! {M0.He}{F0.She} needs an urgent surgery before {M0.he}{F0.she} loses {M0.his}{F0.her} life!"/>
+    <TextStringDefinition InstanceID="0x140BA211" TextString="Death By Blood Loss"/>
+    <TextStringDefinition InstanceID="0x140BA212" TextString="{0.SimFirstName} is dying from blood loss!"/>
+    <TextStringDefinition InstanceID="0x140BA213" TextString="Have Surgery At Hospital With &lt;font color = '#cc3333'&gt;90% Chance Of Success&lt;/font&gt; &lt;font color = '#42ecf5'&gt;&quot;Rabbithole&quot;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA214" TextString="Have Surgery At Hospital &lt;font color = '#cc3333'&gt;90% Chance Of Success&lt;/font&gt; &lt;font color = '#42ecf5'&gt;&quot;Rabbithole&quot;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA215" TextString="&lt;font color = '#558DDD'&gt;Give&lt;/font&gt; Bullet Wound"/>
+    <TextStringDefinition InstanceID="0x140BA216" TextString="&lt;font color = '#cc3333'&gt;Remove&lt;/font&gt; Bullet Wound"/>
+    <TextStringDefinition InstanceID="0x140BA217" TextString="What great news! {0.SimFirstName}'s surgery succeeded! {0.SimFirstName} is thrilled over having a second chance at life."/>
+    <TextStringDefinition InstanceID="0x140BA218" TextString="Congratulations {0.SimFirstName}'s surgery was successful! {0.SimFirstName}'s wound has been stitched."/>
+    <TextStringDefinition InstanceID="0x140BA219" TextString="Fatal Wound"/>
+    <TextStringDefinition InstanceID="0x140BA220" TextString="Unfortunately {0.SimFirstName}'s surgery failed! even though the odds of success were high {M0.he}{F0.she} was not fortunate enough to be cured."/>
+    <TextStringDefinition InstanceID="0x140BA221" TextString="Pick Lock"/>
+    <TextStringDefinition InstanceID="0x140BA222" TextString="Unlock door by lock picking."/>
+    <TextStringDefinition InstanceID="0x140BA223" TextString="The door has been unlocked!"/>
+    <TextStringDefinition InstanceID="0x140BA224" TextString="Armed Robber!"/>
+    <TextStringDefinition InstanceID="0x140BA225" TextString="Get Kicked Out!"/>
+    <TextStringDefinition InstanceID="0x140BA226" TextString="{0.SimFirstName} has been kicked out of the house."/>
+    <TextStringDefinition InstanceID="0x140BA227" TextString="Smell Fresh Air"/>
+    <TextStringDefinition InstanceID="0x140BA228" TextString="{0.SimName} is getting kidnapped!!!"/>
+    <TextStringDefinition InstanceID="0x140BA229" TextString="Emergency Alert!"/>
+    <TextStringDefinition InstanceID="0x140BA230" TextString="Kidnapped Sim"/>
+    <TextStringDefinition InstanceID="0x140BA231" TextString="Summon Kidnapped Sim"/>
+    <TextStringDefinition InstanceID="0x140BA232" TextString="Travel To Kidnapped Sim's Location"/>
+    <TextStringDefinition InstanceID="0x140BA233" TextString="Observe {1.SimFirstName}'s Condition "/>
+    <TextStringDefinition InstanceID="0x140BA234" TextString="Kidnapped Sim!"/>
+    <TextStringDefinition InstanceID="0x140BA235" TextString="{0.SimFirstName} just witnessed a kidnapped sim! How terrifying."/>
+    <TextStringDefinition InstanceID="0x140BA236" TextString="Be Greeted By Kidnapper"/>
+    <TextStringDefinition InstanceID="0x140BA237" TextString="Kidnapped Sim Rescue"/>
+    <TextStringDefinition InstanceID="0x140BA238" TextString="You have arrived at the location where {1.SimName} is held hostage, pay the kidnappers the amount of simoleons they've asked for to take {1.SimName} home safely."/>
+    <TextStringDefinition InstanceID="0x140BA239" TextString="§25000 Now! Or both of you are dead!"/>
+    <TextStringDefinition InstanceID="0x140BA240" TextString="Where's the money?!"/>
+    <TextStringDefinition InstanceID="0x140BA241" TextString="Keep us waiting and we'll shoot both of you!"/>
+    <TextStringDefinition InstanceID="0x140BA242" TextString="Run me that money now!"/>
+    <TextStringDefinition InstanceID="0x140BA243" TextString="The clock is ticking, so is your remaining lives..."/>
+    <TextStringDefinition InstanceID="0x140BA244" TextString="GIVE US THE FUCKING MONEY!"/>
+    <TextStringDefinition InstanceID="0x140BA245" TextString="A sim just got kidnapped from the household! Where did they go?!"/>
+    <TextStringDefinition InstanceID="0x140BA246" TextString="KIDNAPPED SIM!?"/>
+    <TextStringDefinition InstanceID="0x140BA247" TextString="Don't worry, we'll be in touch with you soon! Hahahaha"/>
+    <TextStringDefinition InstanceID="0x140BA248" TextString="Pay To Spare Kidnapped Sim"/>
+    <TextStringDefinition InstanceID="0x140BA249" TextString="Remove Collapsed Running Buff"/>
+    <TextStringDefinition InstanceID="0x140BA250" TextString="Cry Over {1.SimFirstName} (Chance Of Cure)"/>
+    <TextStringDefinition InstanceID="0x140BA251" TextString="Be Hugged For Getting Rescued"/>
+    <TextStringDefinition InstanceID="0x140BA252" TextString="You came for me..."/>
+    <TextStringDefinition InstanceID="0x140BA253" TextString="Rescued!"/>
+    <TextStringDefinition InstanceID="0x140BA254" TextString="{0.SimFirstName} has been rescued from a terrifying kidnap! {M0.He}{F0.She} should rest until {M0.his}{F0.her} wounds are healed."/>
+    <TextStringDefinition InstanceID="0x140BA255" TextString="Safe Return!"/>
+    <TextStringDefinition InstanceID="0x140BA256" TextString="{0.SimFirstName} Is thrilled to have the kidnapped sim rescued and safely returning home."/>
+    <TextStringDefinition InstanceID="0x140BA257" TextString="Celebrate {0.SimFirstName}'s Return"/>
+    <TextStringDefinition InstanceID="0x140BA258" TextString="Anonymous Message Recieved "/>
+    <TextStringDefinition InstanceID="0x140BA259" TextString="Have no fear, your loved one is in good hands."/>
+    <TextStringDefinition InstanceID="0x140BA260" TextString="Maybe we should kidnap another one from your household?"/>
+    <TextStringDefinition InstanceID="0x140BA261" TextString="We'll be in touch soon, call the cops &amp; your loved one is dead!"/>
+    <TextStringDefinition InstanceID="0x140BA262" TextString="I hope you're rich enough to pay for our request."/>
+    <TextStringDefinition InstanceID="0x140BA263" TextString="help .held hostage at fobvzxx..........."/>
+    <TextStringDefinition InstanceID="0x140BA264" TextString="Don't even try to locate us through the messages, we're using burner phones."/>
+    <TextStringDefinition InstanceID="0x140BA265" TextString="Knock knock, who's there? your worst nightmare! HAHAHAHAHA"/>
+    <TextStringDefinition InstanceID="0x140BA266" TextString="Perhaps your loved one would look better with a few cuts? "/>
+    <TextStringDefinition InstanceID="0x140BA267" TextString="Voice Message: HELP PLEASE!!!! I DON'T KNOW WHERE I AM, I'VE BEEN KIDNAPPED \n \n Mysterious Voice: How the fuck did you get your hands on this?! *Screaming voice&quot; \n \n Voice message over..."/>
+    <TextStringDefinition InstanceID="0x140BA268" TextString="Contact Kidnappers "/>
+    <TextStringDefinition InstanceID="0x140BA269" TextString="If you want to see your loved one again send us §5000 and no one will get hurt! \n \n We will send you the location to meet at after you send us the §§§! \n \n the credit card number to send the §§§ to (377391148879644)"/>
+    <TextStringDefinition InstanceID="0x140BA270" TextString="Transfer §5000 To Kidnappers"/>
+    <TextStringDefinition InstanceID="0x140BA271" TextString="Great, here's where you can pick up your loved one: \n \n Location: (Cave Of Forgotton Grotto) \n \n Oh, bring §25000 with you and no one will get hurt! "/>
+    <TextStringDefinition InstanceID="0x140BA272" TextString="Kidnapping"/>
+    <TextStringDefinition InstanceID="0x140BA273" TextString="Healing Wounds"/>
+    <TextStringDefinition InstanceID="0x140BA274" TextString="{0.SimFirstName} got a few minor injuries, they will heal up on their own soon."/>
+    <TextStringDefinition InstanceID="0x140BA275" TextString="Congratulations {1.SimFirstName} has been safely rescued and has returned to your household."/>
+    <TextStringDefinition InstanceID="0x140BA276" TextString="This task has been done recently, you have to wait 2 sim hours before doing it again, meanwhile, you can do other actions to proceed."/>
+    <TextStringDefinition InstanceID="0x140BA277" TextString="Cop"/>
+    <TextStringDefinition InstanceID="0x140BA278" TextString="Report Kidnapping To Police"/>
+    <TextStringDefinition InstanceID="0x140BA279" TextString="911 Phone Call"/>
+    <TextStringDefinition InstanceID="0x140BA280" TextString="A police cruiser has been dispatched to your current location, please speak with the police officer and report the kidnapping."/>
+    <TextStringDefinition InstanceID="0x140BA281" TextString="File A Missing Person's Report"/>
+    <TextStringDefinition InstanceID="0x140BA282" TextString="Hello {M1.sir}{F1.mam}, please provide me with the required information about the missing person."/>
+    <TextStringDefinition InstanceID="0x140BA283" TextString="Call The Police"/>
+    <TextStringDefinition InstanceID="0x140BA284" TextString="A police cruiser has been dispatched to your current location, please be cautious and try to hide until the officers arrive."/>
+    <TextStringDefinition InstanceID="0x140BA285" TextString="Hello {M1.sir}{F1.mam}, please step away from the scene, we will handle the situiation."/>
+    <TextStringDefinition InstanceID="0x140BA286" TextString="There's no need for police at the moment."/>
+    <TextStringDefinition InstanceID="0x140BA287" TextString="Thank you for providing us with the information, we will contact you as soon as we have any leads on the situation."/>
+    <TextStringDefinition InstanceID="0x140BA288" TextString="Clone Object"/>
+    <TextStringDefinition InstanceID="0x140BA289" TextString="Burglar!"/>
+    <TextStringDefinition InstanceID="0x140BA290" TextString="Debug"/>
+    <TextStringDefinition InstanceID="0x140BA291" TextString="Surgery Succeeded (Fatal Wound)"/>
+    <TextStringDefinition InstanceID="0x140BA292" TextString="Surgery Failure (Fatal Wound)"/>
+    <TextStringDefinition InstanceID="0x140BA293" TextString="&lt;font color = '#00c9bf'&gt;Coming soon October 7th - 14th&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA294" TextString="Die In {1.SimFirstName}'s Arms"/>
+    <TextStringDefinition InstanceID="0x140BA295" TextString="Talk About Fatal Illness"/>
+    <TextStringDefinition InstanceID="0x140BA296" TextString="Listen To {1.SimFirstName}"/>
+    <TextStringDefinition InstanceID="0x140BA297" TextString="Talk About Kidnapping"/>
+    <TextStringDefinition InstanceID="0x140BA298" TextString="Talk About Burglary"/>
+    <TextStringDefinition InstanceID="0x140BA299" TextString="Talk About Shooting"/>
+    <TextStringDefinition InstanceID="0x140BA300" TextString="Attempt To Contact Kidnapped Sim"/>
+    <TextStringDefinition InstanceID="0x140BA301" TextString="The phone is turned off... \n \n {0.SimFirstName} Should wait until the kidnappers contact {M0.him}{F0.her}"/>
+    <TextStringDefinition InstanceID="0x140BA302" TextString="Post About Kidnapping On Social Media"/>
+    <TextStringDefinition InstanceID="0x140BA303" TextString="{0.SimFirstName} has posted about the situation on social media, hopefully someone will provide helpful information."/>
+    <TextStringDefinition InstanceID="0x140BA304" TextString="Tragedy Occurrence Speed"/>
+    <TextStringDefinition InstanceID="0x140BA305" TextString="OFF"/>
+    <TextStringDefinition InstanceID="0x140BA306" TextString="Slow"/>
+    <TextStringDefinition InstanceID="0x140BA307" TextString="Normal"/>
+    <TextStringDefinition InstanceID="0x140BA308" TextString="Fast"/>
+    <TextStringDefinition InstanceID="0x140BA309" TextString="This is the current speed."/>
+    <TextStringDefinition InstanceID="0x140BA310" TextString="Enable Life Tragedies In This Save File"/>
+    <TextStringDefinition InstanceID="0x140BA311" TextString="Automatic tragic events will now occur to sims in this save file, you can change the tragedy occurrence speed or turn it off from the mod's options."/>
+    <TextStringDefinition InstanceID="0x140BA312" TextString="A burglar has been spotted in the area, lock your doors."/>
+    <TextStringDefinition InstanceID="0x140BA313" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; Reactions For This Sim"/>
+    <TextStringDefinition InstanceID="0x140BA314" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; Reactions For This Sim"/>
+    <TextStringDefinition InstanceID="0x140BA316" TextString="Make Fun Of Sim"/>
+    <TextStringDefinition InstanceID="0x140BA317" TextString="Why do you look like Sims 1 sims???"/>
+    <TextStringDefinition InstanceID="0x140BA318" TextString="You must be randomly generated..."/>
+    <TextStringDefinition InstanceID="0x140BA319" TextString="No amount of CC would make you look better."/>
+    <TextStringDefinition InstanceID="0x140BA320" TextString="Damn! I almost shot you, I legit thought that you were a zombie."/>
+    <TextStringDefinition InstanceID="0x140BA321" TextString="Sims like you is the reason why the Extreme Violence -MOD- exsists."/>
+    <TextStringDefinition InstanceID="0x140BA322" TextString="Hey it's almost halloween, you would be perfect for this year's mod."/>
+    <TextStringDefinition InstanceID="0x140BA323" TextString="What's wrong with your walk?! LOL."/>
+    <TextStringDefinition InstanceID="0x140BA324" TextString="You make Strangerville sims look normal."/>
+    <TextStringDefinition InstanceID="0x140BA325" TextString="Oh no, here's another sim with broken CC."/>
+    <TextStringDefinition InstanceID="0x140BA326" TextString="I didn't know we were in a &quot;Breed Out The Ugly&quot; challenge."/>
+    <TextStringDefinition InstanceID="0x140BA327" TextString="I bet you'd break apart if I touched you."/>
+    <TextStringDefinition InstanceID="0x140BA328" TextString="You'd earn §0.01 tips on the pole."/>
+    <TextStringDefinition InstanceID="0x140BA329" TextString="You're such a loser."/>
+    <TextStringDefinition InstanceID="0x140BA330" TextString="I hope the player will edit you in CAS soon... I mean DAMN."/>
+    <TextStringDefinition InstanceID="0x140BA331" TextString="Get Beaten Down!"/>
+    <TextStringDefinition InstanceID="0x140BA332" TextString="Collapsed"/>
+    <TextStringDefinition InstanceID="0x140BA333" TextString="Armed Robbery"/>
+    <TextStringDefinition InstanceID="0x140BA334" TextString="Bullying"/>
+    <TextStringDefinition InstanceID="0x140BA335" TextString="Bullied"/>
+    <TextStringDefinition InstanceID="0x140BA336" TextString="Some people are evil in nature and would pick on innocent people for no reason... How sad for {0.SimFirstName}."/>
+    <TextStringDefinition InstanceID="0x140BA337" TextString="In Jail"/>
+    <TextStringDefinition InstanceID="0x140BA338" TextString="Get Arrested"/>
+    <TextStringDefinition InstanceID="0x140BA339" TextString="{0.SimFirstName} has been run over by a car!"/>
+    <TextStringDefinition InstanceID="0x140BA340" TextString="Death By Car Accident"/>
+    <TextStringDefinition InstanceID="0x140BA341" TextString="{0.SimFirstName} is the only mature sim in the household, kidnappers would have no one to ask for money from."/>
+    <TextStringDefinition InstanceID="0x140BA342" TextString="Fatal Illness"/>
+    <TextStringDefinition InstanceID="0x140BA343" TextString="&lt;font color = '#558DDD'&gt;Give&lt;/font&gt; &quot;Sim Got Kidnapped From The Household&quot; Buff"/>
+    <TextStringDefinition InstanceID="0x140BA344" TextString="&lt;font color = '#cc3333'&gt;Remove&lt;/font&gt; &quot;Sim Got Kidnapped From The Household&quot; Buff"/>
+    <TextStringDefinition InstanceID="0x140BA345" TextString="&lt;font color = '#cc3333'&gt;Fight {1.SimFirstName} Away!&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA346" TextString="Beat {1.SimFirstName} Down"/>
+    <TextStringDefinition InstanceID="0x140BA347" TextString="Have you ever heard of something called a gym!? Go build up some muscles you weak piece of #@$@!"/>
+    <TextStringDefinition InstanceID="0x140BA348" TextString="I wonder what would you look like without that wig on."/>
+    <TextStringDefinition InstanceID="0x140BA349" TextString="@$@! you're ugly as $@#%"/>
+    <TextStringDefinition InstanceID="0x140BA350" TextString="RUN IT'S BRIDE HANNAH!!!!! Oh wait...."/>
+    <TextStringDefinition InstanceID="0x140BA351" TextString="I never thought a sim would be more hated that Eliza Pancakes."/>
+    <TextStringDefinition InstanceID="0x140BA352" TextString="You've inspired me to start a new LP called &quot;Ugly Losers In The Hoods&quot;"/>
+    <TextStringDefinition InstanceID="0x140BA353" TextString="Hey, listen to this sick freestyle &quot;Boom boom tisk boom bo boom tisk, this bitch right here will put you at risk&quot; pretty sick right?!"/>
+    <TextStringDefinition InstanceID="0x140BA354" TextString="The angry emotion is red, the sad emotion is blue, you're so ratchet you'll never get a boo..."/>
+    <TextStringDefinition InstanceID="0x140BA355" TextString="SUBMIT TO THIS ALPHA BETA B$@% WHOOAAOAOOOOA!"/>
+    <TextStringDefinition InstanceID="0x140BA356" TextString="Hey, would you like to go on a double date? we need someone to wipe the floors."/>
+    <TextStringDefinition InstanceID="0x140BA357" TextString="All I want for christmats is some holy water!!! WHAT ARE YOU?! WTF"/>
+    <TextStringDefinition InstanceID="0x140BA358" TextString="Intimidate"/>
+    <TextStringDefinition InstanceID="0x140BA359" TextString="Make Fun Of {1.SimFirstName}"/>
+    <TextStringDefinition InstanceID="0x140BA360" TextString="&lt;font color = '#558DDD'&gt;Give&lt;/font&gt; &quot;Kidnapped&quot; Trait For This Sim"/>
+    <TextStringDefinition InstanceID="0x140BA361" TextString="&lt;font color = '#cc3333'&gt;Remove&lt;/font&gt; &quot;Kidnapped&quot; Trait For This Sim"/>
+    <TextStringDefinition InstanceID="0x140BA362" TextString="Place Elevator"/>
+    <TextStringDefinition InstanceID="0x140BA363" TextString="Very Slow"/>
+    <TextStringDefinition InstanceID="0x140BA364" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; Automatic Tragedy Occurrence For This Sim"/>
+    <TextStringDefinition InstanceID="0x140BA365" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; Automatic Tragedy Occurrence For This Sim"/>
+    <TextStringDefinition InstanceID="0x140BA366" TextString="{0.SimFirstName} has a deadly disease! You can send {M0.him}{F0.her} to have a surgery at hospital from the &quot;Fatal Disease&quot; pie menu inside the &quot;Life Tragedies&quot; pie menu in hope of a cure."/>
+    <TextStringDefinition InstanceID="0x140BA367" TextString="Threaten Sims!"/>
+    <TextStringDefinition InstanceID="0x140BA368" TextString="Get {1.SimFirstName} Kidnapped"/>
+    <TextStringDefinition InstanceID="0x140BA369" TextString="Give &quot;Sim JustKidnapped Buff&quot; To Active Household"/>
+    <TextStringDefinition InstanceID="0x140BA370" TextString="Very Fast"/>
+    <TextStringDefinition InstanceID="0x140BA371" TextString="There are already police on this lot."/>
+    <TextStringDefinition InstanceID="0x140BA372" TextString="Send To Jail"/>
+    <TextStringDefinition InstanceID="0x140BA373" TextString="Serving Time"/>
+    <TextStringDefinition InstanceID="0x140BA374" TextString="{0.SimFirstName} is in jail and has to serve time for {M0.his}{F0.her} horrible actions, {M0.he}{F0.she} will be sent home once this moodlet timer is over."/>
+    <TextStringDefinition InstanceID="0x140BA375" TextString="UNDER ARREST"/>
+    <TextStringDefinition InstanceID="0x140BA376" TextString="{0.SimFirstName} is getting arrested by the police, {M0.he}{F0.she} will have to serve 24 hours at Expanded Dongs Police Station."/>
+    <TextStringDefinition InstanceID="0x140BA377" TextString="Give &quot;Serving Time&quot; Buff"/>
+    <TextStringDefinition InstanceID="0x140BA378" TextString="{0.SimFirstName} has gotten beaten up by inmates for refusing to clean up the toilets."/>
+    <TextStringDefinition InstanceID="0x140BA379" TextString="Someone in jail spread a rumor about {0.SimFirstName} that she's a snitch! {M0.He}{F0.She} got beaten up by {M0.his}{F0.her} inmates for it!"/>
+    <TextStringDefinition InstanceID="0x140BA380" TextString="{0.SimFirstName} got into a fight with an inmate over a bed!"/>
+    <TextStringDefinition InstanceID="0x140BA381" TextString="Do Prison Chores"/>
+    <TextStringDefinition InstanceID="0x140BA382" TextString="Time Served"/>
+    <TextStringDefinition InstanceID="0x140BA383" TextString="{0.SimFirstName} has been released from jail."/>
+    <TextStringDefinition InstanceID="0x140BA384" TextString="Change Sim's Name  &lt;T&gt;&lt;!--HIDDEN DEBUG ITEM_NO NEED TO TRANSLATE--&gt;&lt;/T&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA385" TextString="Change Slider &lt;T&gt;&lt;!--HIDDEN DEBUG ITEM_NO NEED TO TRANSLATE--&gt;&lt;/T&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA386" TextString="Held Captive (You shouldn't be seeing this as a player- if you can see this interaction then there's something wrong)"/>
+    <TextStringDefinition InstanceID="0x140BA387" TextString="Merge Households  &lt;T&gt;&lt;!--HIDDEN DEBUG ITEM_NO NEED TO TRANSLATE--&gt;&lt;/T&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA388" TextString="Give Kidnapper Buff  &lt;T&gt;&lt;!--HIDDEN DEBUG ITEM_NO NEED TO TRANSLATE--&gt;&lt;/T&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA389" TextString="Looking For Love"/>
+    <TextStringDefinition InstanceID="0x140BA390" TextString="Hey hottie, you're very attractive, would you like to go out on a date?"/>
+    <TextStringDefinition InstanceID="0x140BA391" TextString="Serial Killers"/>
+    <TextStringDefinition InstanceID="0x140BA392" TextString="The Seductive Lover"/>
+    <TextStringDefinition InstanceID="0x140BA393" TextString="Book Worm"/>
+    <TextStringDefinition InstanceID="0x140BA394" TextString="Hi, would you like to hangout? we can talk about videogames and card collections."/>
+    <TextStringDefinition InstanceID="0x140BA395" TextString="Looking For Friends"/>
+    <TextStringDefinition InstanceID="0x140BA396" TextString="The Disliked Bookworm"/>
+    <TextStringDefinition InstanceID="0x140BA397" TextString="{0.SimFirstName} has been murdered!"/>
+    <TextStringDefinition InstanceID="0x140BA398" TextString="Burn In Flames!"/>
+    <TextStringDefinition InstanceID="0x140BA399" TextString="Gun Down Off Bike"/>
+    <TextStringDefinition InstanceID="0x140BA400" TextString="A Victim Of Arson"/>
+    <TextStringDefinition InstanceID="0x140BA401" TextString="The Son Of Flames"/>
+    <TextStringDefinition InstanceID="0x140BA402" TextString="Anyone can start again...\nNot through love but through revenge...\nThrough the fire, we're born again...\nPeace by vengeance brings the end."/>
+    <TextStringDefinition InstanceID="0x140BA403" TextString="Made Of Flames"/>
+    <TextStringDefinition InstanceID="0x140BA404" TextString="University Professor"/>
+    <TextStringDefinition InstanceID="0x140BA405" TextString="The one exclusive sign of thorough knowledge, is the power of teaching."/>
+    <TextStringDefinition InstanceID="0x140BA406" TextString="The Power Of Knowledge"/>
+    <TextStringDefinition InstanceID="0x140BA407" TextString="{0.SimFirstName} has been murdered!"/>
+    <TextStringDefinition InstanceID="0x140BA408" TextString="The University Professor"/>
+    <TextStringDefinition InstanceID="0x140BA409" TextString="Nanny"/>
+    <TextStringDefinition InstanceID="0x140BA410" TextString="Zanny The Nanny"/>
+    <TextStringDefinition InstanceID="0x140BA411" TextString="Looking For Work"/>
+    <TextStringDefinition InstanceID="0x140BA412" TextString="Hello darling, would you like to have a sweet lady care for any children? I can also do housekeeping services and cook you your favourite meal."/>
+    <TextStringDefinition InstanceID="0x140BA413" TextString="Smoke Cigarette"/>
+    <TextStringDefinition InstanceID="0x140BA414" TextString="Hello {M1.sir}{F1.mam}, please provide us with the witness report about the killer."/>
+    <TextStringDefinition InstanceID="0x140BA415" TextString="Thank you for your witness report, we will be romaing the area in search of the killer."/>
+    <TextStringDefinition InstanceID="0x140BA416" TextString="File Witness Statement"/>
+    <TextStringDefinition InstanceID="0x140BA417" TextString="Purchase Serial Killer Posters &amp; Papers"/>
+    <TextStringDefinition InstanceID="0x140BA418" TextString="Witnessed Killer!"/>
+    <TextStringDefinition InstanceID="0x140BA419" TextString="{0.SimFirstName} has just witnessed a wanted killer! Perhaps {M0.he}{F0.she} should stay away from them and call the cops."/>
+    <TextStringDefinition InstanceID="0x140BA420" TextString="{0.SimFirstName} doesn't have a &lt;font color = '#c90000'&gt;(Cigarette)&lt;/font&gt; in {M0.his}{F0.her} inventory."/>
+    <TextStringDefinition InstanceID="0x140BA421" TextString="Accept Date Invitation"/>
+    <TextStringDefinition InstanceID="0x140BA422" TextString="Reject Date Invitation"/>
+    <TextStringDefinition InstanceID="0x140BA423" TextString="Accept Hangout Invitation"/>
+    <TextStringDefinition InstanceID="0x140BA424" TextString="Reject Hangout Invitation"/>
+    <TextStringDefinition InstanceID="0x140BA425" TextString="Calm Sim Down"/>
+    <TextStringDefinition InstanceID="0x140BA426" TextString="Make Fun Of Quote"/>
+    <TextStringDefinition InstanceID="0x140BA427" TextString="Appreciate Knowledge"/>
+    <TextStringDefinition InstanceID="0x140BA428" TextString="Make Fun Knowledge"/>
+    <TextStringDefinition InstanceID="0x140BA429" TextString="Accept Service Offer"/>
+    <TextStringDefinition InstanceID="0x140BA430" TextString="Reject Service Offer"/>
+    <TextStringDefinition InstanceID="0x140BA431" TextString="Burnt To Death"/>
+    <TextStringDefinition InstanceID="0x140BA432" TextString="Murder!!!"/>
+    <TextStringDefinition InstanceID="0x140BA433" TextString="Run To Safety!!"/>
+    <TextStringDefinition InstanceID="0x140BA434" TextString="Stab Throat"/>
+    <TextStringDefinition InstanceID="0x140BA435" TextString="Blaze The Area"/>
+    <TextStringDefinition InstanceID="0x140BA436" TextString="Poisoned!"/>
+    <TextStringDefinition InstanceID="0x140BA437" TextString="{0.SimFirstName} has been poisoned by eating a suspicious apple, there is not time to save {M0.his}{F0.her} life."/>
+    <TextStringDefinition InstanceID="0x140BA438" TextString="Recieve Apple"/>
+    <TextStringDefinition InstanceID="0x140BA439" TextString="{0.SimFirstName} has died from poisoning."/>
+    <TextStringDefinition InstanceID="0x140BA440" TextString="No Mercy"/>
+    <TextStringDefinition InstanceID="0x140BA441" TextString="{0.SimFirstName} doesn't have a &lt;font color = '#c90000'&gt;(Flame Thrower)&lt;/font&gt; in {M0.his}{F0.her} inventory."/>
+    <TextStringDefinition InstanceID="0x140BA442" TextString="Pay To Kill"/>
+    <TextStringDefinition InstanceID="0x140BA443" TextString="Murders"/>
+    <TextStringDefinition InstanceID="0x140BA444" TextString="Gun Down Of Bike"/>
+    <TextStringDefinition InstanceID="0x140BA445" TextString="Stab With Pen"/>
+    <TextStringDefinition InstanceID="0x140BA446" TextString="Suffocate With Diaper"/>
+    <TextStringDefinition InstanceID="0x140BA447" TextString="Give Poisoned Apple"/>
+    <TextStringDefinition InstanceID="0x140BA448" TextString="Murderer"/>
+    <TextStringDefinition InstanceID="0x140BA449" TextString="{0.SimFirstName} has ended the life of another sim, {M0.he}{F0.she} should stay away from cops to avoid getting arrested."/>
+    <TextStringDefinition InstanceID="0x140BA450" TextString="Enable/Disable Certain Tragedies"/>
+    <TextStringDefinition InstanceID="0x140BA451" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; &quot;Kidnapping&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA452" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; &quot;Kidnapping&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA453" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; &quot;Serial Killers&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA454" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; &quot;Serial Killers&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA455" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; &quot;Armed Robbers&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA456" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; &quot;Armed Robbers&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA457" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; &quot;Fatal Illness&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA458" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; &quot;Fatal Illness&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA459" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; &quot;Bullies&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA460" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; &quot;Bullies&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA461" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; &quot;Car Accidents&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA462" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; &quot;Car Accidents&quot; Tragedy"/>
+    <TextStringDefinition InstanceID="0x140BA463" TextString="For This Sim"/>
+    <TextStringDefinition InstanceID="0x140BA464" TextString="Clean &lt;font color = '#cc3333'&gt;Blood&lt;/font&gt; Off"/>
+    <TextStringDefinition InstanceID="0x140BA465" TextString="Kidnap Sim To Cave"/>
+    <TextStringDefinition InstanceID="0x140BA466" TextString="Kidnap Sim At Gunpoint"/>
+    <TextStringDefinition InstanceID="0x140BA467" TextString="Torment"/>
+    <TextStringDefinition InstanceID="0x140BA468" TextString="Lift Up &amp; Stab Guts With Machete"/>
+    <TextStringDefinition InstanceID="0x140BA469" TextString="Push To The Ground And Stab Back"/>
+    <TextStringDefinition InstanceID="0x140BA470" TextString="Smash Head To The Ground"/>
+    <TextStringDefinition InstanceID="0x140BA471" TextString="Stab Guts With Machete"/>
+    <TextStringDefinition InstanceID="0x140BA472" TextString="Stab Guts With Knife From Behind"/>
+    <TextStringDefinition InstanceID="0x140BA473" TextString="Strangle From Behind"/>
+    <TextStringDefinition InstanceID="0x140BA474" TextString="Execute With Gun From Behind"/>
+    <TextStringDefinition InstanceID="0x140BA475" TextString="Serial Killer"/>
+    <TextStringDefinition InstanceID="0x140BA476" TextString="Jason Voorhees"/>
+    <TextStringDefinition InstanceID="0x140BA477" TextString="Camper"/>
+    <TextStringDefinition InstanceID="0x140BA478" TextString="Ask For Ransom Money From Family Members"/>
+    <TextStringDefinition InstanceID="0x140BA479" TextString="OK! We'll transfer the money right now! Please don't hurt them!"/>
+    <TextStringDefinition InstanceID="0x140BA480" TextString="Family Member"/>
+    <TextStringDefinition InstanceID="0x140BA481" TextString="Intimidate Family Member"/>
+    <TextStringDefinition InstanceID="0x140BA482" TextString="Plead For Freedom"/>
+    <TextStringDefinition InstanceID="0x140BA483" TextString="Drug Sim"/>
+    <TextStringDefinition InstanceID="0x140BA484" TextString="Brain Wash"/>
+    <TextStringDefinition InstanceID="0x140BA485" TextString="{0.SimFirstName} has to wait until the kidnappers send {M0.him}{F0.her} a text message before {M0.he}{F0.she} can contact them."/>
+    <TextStringDefinition InstanceID="0x140BA486" TextString="Get Kidnapped"/>
+    <TextStringDefinition InstanceID="0x140BA487" TextString="Interaction is disabled in schools to prevent inspiration or recreation of real life tragic events, thank you for understanding."/>
+    <TextStringDefinition InstanceID="0x140BA488" TextString="&lt;font color = '#cc3333'&gt;Remove&lt;/font&gt; &quot;Kidnapped&quot; Trait For This Sim And Add To Household"/>
+    <TextStringDefinition InstanceID="0x140BA489" TextString="Force Add To Household &lt;font size=&quot;10&quot;&gt;&lt;font color='#a80303'&gt;Ignores maximum 8 sims restriction&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA490" TextString="Witnessed Murder!"/>
+    <TextStringDefinition InstanceID="0x140BA491" TextString="{0.SimFirstName} has just witnessed a murder! Perhaps {M0.he}{F0.she} should stay away from the scene and call the cops."/>
+    <TextStringDefinition InstanceID="0x140BA492" TextString="Killer!"/>
+    <TextStringDefinition InstanceID="0x140BA493" TextString="{0.String} &lt;font size=&quot;10&quot;&gt;&lt;font color='#7d5bba'&gt;(This is the current speed)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA494" TextString="&lt;font color = '#02ab0a'&gt;Protect&lt;/font&gt; Sims From Murder/Death &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;(Default:Un-Protect)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA495" TextString="&lt;font color = '#db1102'&gt;Un-Protect&lt;/font&gt; Sims From Murder/Death &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;(Default:Un-Protect)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA496" TextString="Death Protection&lt;font size=&quot;10&quot;&gt;&lt;font color='#7d5bba'&gt; (Life Tragedies)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA497" TextString="This sim is protected from deaths occuring from Life Tragedies mod."/>
+    <TextStringDefinition InstanceID="0x140BA498" TextString="This sim is protected from death occuring from Life Tragedies mod from the mod's options."/>
+    <TextStringDefinition InstanceID="0x140BA499" TextString="Demand Money Payment"/>
+    <TextStringDefinition InstanceID="0x140BA500" TextString="Follow Doctor"/>
+    <TextStringDefinition InstanceID="0x140BA501" TextString="&lt;font color = '#02ab0a'&gt;Enable&lt;/font&gt; Reactions For &lt;font size=&quot;12&quot;&gt;&lt;font color = '#0495d9'&gt;*Sim Picker*&lt;/font&gt;&lt;/font&gt; &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;(Default:Enabled)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA502" TextString="&lt;font color = '#db1102'&gt;Disable&lt;/font&gt; Reactions For &lt;font size=&quot;12&quot;&gt;&lt;font color = '#0495d9'&gt;*Sim Picker*&lt;/font&gt;&lt;/font&gt; &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;(Default:Enabled)&lt;/font&gt;&lt;/font&gt;"/>
+  </TextStringDefinitions>
+</StblData>
