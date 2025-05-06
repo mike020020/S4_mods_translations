@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x1C490229" TextString="大罐精液"/>
+    <TextStringDefinition InstanceID="0xD8F344EE" TextString="喝精液"/>
+    <TextStringDefinition InstanceID="0xFD5B0D98" TextString="添加到精液罐"/>
+    <TextStringDefinition InstanceID="0x8F894C77" TextString="将精液加入罐中"/>
+    <TextStringDefinition InstanceID="0xE0C73CEB" TextString="半满"/>
+    <TextStringDefinition InstanceID="0x1C48EA6F" TextString="检查精液"/>
+    <TextStringDefinition InstanceID="0xFB5B52E7" TextString="描述"/>
+    <TextStringDefinition InstanceID="0xD3E43C74" TextString="收集超过50份。"/>
+    <TextStringDefinition InstanceID="0x64885D33" TextString="购买Spoo产品"/>
+    <TextStringDefinition InstanceID="0x3C8A885C" TextString="购买全天然精液基底产品"/>
+    <TextStringDefinition InstanceID="0x4B572FB6" TextString="感谢您购买最优质、来源合乎道德的精液基底保健产品。您的订单已处理，并将很快送达您的邮箱！"/>
+    <TextStringDefinition InstanceID="0xC276D2FA" TextString="注册Spoo？"/>
+    <TextStringDefinition InstanceID="0xC8ECB28F" TextString="命令精液欲"/>
+    <TextStringDefinition InstanceID="0x24EECCC0" TextString="点击增加精液量（作弊）"/>
+    <TextStringDefinition InstanceID="0x9763AFAE" TextString="“精液真恶心！”"/>
+    <TextStringDefinition InstanceID="0x8AA27D23" TextString="听 {1.SimFirstName} 表达对精液的厌恶"/>
+    <TextStringDefinition InstanceID="0xE6E79264" TextString="听 {1.SimFirstName} 开关于精液的玩笑"/>
+    <TextStringDefinition InstanceID="0xEA69286D" TextString="开关于精液的玩笑"/>
+    <TextStringDefinition InstanceID="0xB3829FF9" TextString="听 {1.SimFirstName} 表达对精液的热爱"/>
+    <TextStringDefinition InstanceID="0xF38E9764" TextString="表达对精液的热爱"/>
+    <TextStringDefinition InstanceID="0x77A94EFE" TextString="生产精子样本"/>
+    <TextStringDefinition InstanceID="0x6430D72F" TextString="捐赠者：{0.SimName}"/>
+    <TextStringDefinition InstanceID="0x8EDAF3C9" TextString="手工制作"/>
+    <TextStringDefinition InstanceID="0x8FDFEA6C" TextString="中罐精液"/>
+    <TextStringDefinition InstanceID="0x41D50FB1" TextString="数十份最优质的精子样本"/>
+    <TextStringDefinition InstanceID="0xFE1A3C56" TextString="Spoo包裹"/>
+    <TextStringDefinition InstanceID="0x555B6497" TextString="内容物在打开前将保持冷藏"/>
+    <TextStringDefinition InstanceID="0xF915DA54" TextString="打开盒子"/>
+    <TextStringDefinition InstanceID="0x081FFAFC" TextString="一份精子样本"/>
+    <TextStringDefinition InstanceID="0xCEF7F7FC" TextString="它又粘又臭，到处都是！\n{0.SimFirstName} 真是受够了！！"/>
+    <TextStringDefinition InstanceID="0xA8771328" TextString="湿透了！！"/>
+    <TextStringDefinition InstanceID="0xE2730E44" TextString="阴茎（根部）"/>
+    <TextStringDefinition InstanceID="0xDE1570CF" TextString="精液触发器（上背部）"/>
+    <TextStringDefinition InstanceID="0x82AD42A2" TextString="结束可消耗精液过程"/>
+    <TextStringDefinition InstanceID="0x80909A90" TextString="飞溅"/>
+    <TextStringDefinition InstanceID="0xCDA818C3" TextString="别让 {0.SimFirstName} 这样干等着。在这种情况过去之前，{M0.他}{F0.她}无法集中注意力。"/>
+    <TextStringDefinition InstanceID="0xDD1CD2CF" TextString="蓝蛋（性欲未满足的睾丸疼痛）"/>
+    <TextStringDefinition InstanceID="0xB381B87B" TextString="精液……"/>
+    <TextStringDefinition InstanceID="0xFB1195E1" TextString="隐藏_看见精液增益"/>
+    <TextStringDefinition InstanceID="0x98E0810E" TextString="移除精液情绪"/>
+    <TextStringDefinition InstanceID="0xD9CF37F9" TextString="妹子！\n\n是时候洗洗了！"/>
+    <TextStringDefinition InstanceID="0x988F3BA6" TextString="硬壳奶油"/>
+    <TextStringDefinition InstanceID="0xB4B11321" TextString="额外精液"/>
+    <TextStringDefinition InstanceID="0x9748C6EF" TextString="添加精液机器特征"/>
+    <TextStringDefinition InstanceID="0xFDA5BEAD" TextString="除了最淫荡的荡妇，这对谁来说都是不雅的行为！"/>
+    <TextStringDefinition InstanceID="0xAC7D391B" TextString="沾满精液的硬壳抹布"/>
+    <TextStringDefinition InstanceID="0xD41747FB" TextString="{0.SimFirstName} 喜欢被射满黏液的礼物！"/>
+    <TextStringDefinition InstanceID="0xDC71F9FA" TextString="颜射乐趣"/>
+    <TextStringDefinition InstanceID="0x81E9CF53" TextString="隐藏阴道内精液"/>
+    <TextStringDefinition InstanceID="0xC0AC4CC7" TextString="那滩精液味道太差了，即使对 {0.SimFirstName} 这样的精液荡妇来说也是如此。"/>
+    <TextStringDefinition InstanceID="0xF7BA29C6" TextString="腐臭精液"/>
+    <TextStringDefinition InstanceID="0xCDC9B50E" TextString="呃呃呃呃呃……\n那是一滩恶心的精液"/>
+    <TextStringDefinition InstanceID="0xFB975CB2" TextString="恶心喷射"/>
+    <TextStringDefinition InstanceID="0xB0AC8D90" TextString="添加/移除精液"/>
+    <TextStringDefinition InstanceID="0xB10BC7A4" TextString="移除精液"/>
+    <TextStringDefinition InstanceID="0xFF66A76E" TextString="知道{M0.他}{F0.她}的私处带着早些时候的战利品，让 {0.SimFirstName} 脸上露出了微笑。"/>
+    <TextStringDefinition InstanceID="0xED33A969" TextString="被标记的私处"/>
+    <TextStringDefinition InstanceID="0x81B8573A" TextString="精液在 {0.SimFirstName} 皮肤上的感觉让{M0.他}{F0.她}兴奋地颤抖。"/>
+    <TextStringDefinition InstanceID="0xAC4EFBEA" TextString="精液爱好者"/>
+    <TextStringDefinition InstanceID="0xECA2D872" TextString="{0.SimFirstName} 不能让任何人看到{M0.他}{F0.她}这个样子！！"/>
+    <TextStringDefinition InstanceID="0xB1158567" TextString="{0.SimFirstName} 今天上班时带了点额外的“精华”。事实上，可能刚有一点滴到了{M0.他}{F0.她}的腿上！"/>
+    <TextStringDefinition InstanceID="0xCFDA9BEA" TextString="骚气的纪念品"/>
+    <TextStringDefinition InstanceID="0x9D0010B1" TextString="精液心情：讨厌精液"/>
+    <TextStringDefinition InstanceID="0xEFB6E982" TextString="手"/>
+    <TextStringDefinition InstanceID="0x96187B27" TextString="隐藏胸部精液"/>
+    <TextStringDefinition InstanceID="0xE8E94C3E" TextString="让别人舔掉脸上的精液"/>
+    <TextStringDefinition InstanceID="0x829E7DF4" TextString="舔掉脸上的精液"/>
+    <TextStringDefinition InstanceID="0x83A34C2B" TextString="精液量（非常高）"/>
+    <TextStringDefinition InstanceID="0xA4B76382" TextString="听 {1.SimFirstName} 提供精液"/>
+    <TextStringDefinition InstanceID="0xD9BE5791" TextString="提供精液"/>
+    <TextStringDefinition InstanceID="0x97BCB544" TextString="被称为精液荡妇"/>
+    <TextStringDefinition InstanceID="0x93A1C1B2" TextString="侮辱精液荡妇"/>
+    <TextStringDefinition InstanceID="0xC6A3251B" TextString="脱掉衣服增加硬度"/>
+    <TextStringDefinition InstanceID="0xDF16E7F1" TextString="启用额外精液（此市民）"/>
+    <TextStringDefinition InstanceID="0x82FA5FBD" TextString="那是一次惊天动地的高潮和破纪录的射精量。你感觉自己像射精之王。"/>
+    <TextStringDefinition InstanceID="0xB7184CBE" TextString="史诗级射精"/>
+    <TextStringDefinition InstanceID="0xDAD79CC7" TextString="阴茎（全部）"/>
+    <TextStringDefinition InstanceID="0x869DAEAD" TextString="{0.SimFirstName} 怎么都要不够！！"/>
+    <TextStringDefinition InstanceID="0xE8556F50" TextString="腿部额外精液"/>
+    <TextStringDefinition InstanceID="0xFC58BF50" TextString="长期情绪检查"/>
+    <TextStringDefinition InstanceID="0xB26276C8" TextString="定期情绪检查"/>
+    <TextStringDefinition InstanceID="0xBB89F111" TextString="全部"/>
+    <TextStringDefinition InstanceID="0xCDDC30AD" TextString="对精液中性"/>
+    <TextStringDefinition InstanceID="0xFC800A7B" TextString="这些市民接触到精液时可能会很开心，（也可能不会。）"/>
+    <TextStringDefinition InstanceID="0xDB25538D" TextString="移除额外部分"/>
+    <TextStringDefinition InstanceID="0xCF12DA16" TextString="精液女王光环"/>
+    <TextStringDefinition InstanceID="0xCE90D335" TextString="每走一步都晃荡作响，真是让人分心。"/>
+    <TextStringDefinition InstanceID="0xC8C238DB" TextString="黏糊糊的私处"/>
+    <TextStringDefinition InstanceID="0xB88449BC" TextString="{0.SimFirstName} 的私处还没干……\n也许是{M0.他}{F0.她}的体液太多了。"/>
+    <TextStringDefinition InstanceID="0xBB88D1E4" TextString="在精液中游泳"/>
+    <TextStringDefinition InstanceID="0xB434B474" TextString="{0.SimFirstName} 需要发泄一下。"/>
+    <TextStringDefinition InstanceID="0xBC6340D7" TextString="憋着"/>
+    <TextStringDefinition InstanceID="0xFC7645F2" TextString="在工作中"/>
+    <TextStringDefinition InstanceID="0x9192966F" TextString="{0.SimFirstName} 感觉充满了精液的力量！"/>
+    <TextStringDefinition InstanceID="0xF5781010" TextString="蛋白奶昔"/>
+    <TextStringDefinition InstanceID="0x873A4B4A" TextString="这是什么？"/>
+    <TextStringDefinition InstanceID="0xB4AECBE8" TextString="希望 {0.SimFirstName} 能避免成为"/>
+    <TextStringDefinition InstanceID="0x9FED48E8" TextString="精液公牛"/>
+    <TextStringDefinition InstanceID="0xC5327618" TextString="这个市民活着就是为了看到{M0.他}{F0.她}的精液溅到别人身上。"/>
+    <TextStringDefinition InstanceID="0xE36048A3" TextString="精液阳光"/>
+    <TextStringDefinition InstanceID="0x87A25C21" TextString="听 {1.SimFirstName} 滔滔不绝地谈论精液"/>
+    <TextStringDefinition InstanceID="0xB0D40F8A" TextString="提升 {1.SimFirstName} 的精液心情"/>
+    <TextStringDefinition InstanceID="0xFFBBA99C" TextString="移除精液增益"/>
+    <TextStringDefinition InstanceID="0xFF6DDDF4" TextString="隐藏的精液礼物"/>
+    <TextStringDefinition InstanceID="0xC526E2FF" TextString="{0.SimFirstName} 早已超过{M0.他}{F0.她}对鸡巴黏液的承受极限了！！"/>
+    <TextStringDefinition InstanceID="0xA8C06D62" TextString="污秽糖霜"/>
+    <TextStringDefinition InstanceID="0x854C02E3" TextString="蛋蛋收紧，鸡巴痉挛，一波又一波！\n{0.SimFirstName} 对那玩意儿怎么都要不够！"/>
+    <TextStringDefinition InstanceID="0xED888863" TextString="被颜射了"/>
+    <TextStringDefinition InstanceID="0x965EBDAC" TextString="精液欲"/>
+    <TextStringDefinition InstanceID="0xCE9EFD5C" TextString="精液触发器（腹部）"/>
+    <TextStringDefinition InstanceID="0x811FCF26" TextString="这些市民很高兴接触到精液。"/>
+    <TextStringDefinition InstanceID="0xBB95186C" TextString="精液消耗品已解决"/>
+    <TextStringDefinition InstanceID="0xFC64D0F5" TextString="精液！！"/>
+    <TextStringDefinition InstanceID="0x87EE6F35" TextString="{0.SimFirstName} 的嘴里还残留着挥之不去的精液的咸味、金属味和辛辣味。\n"/>
+    <TextStringDefinition InstanceID="0x93CBB001" TextString="恶心的余味"/>
+    <TextStringDefinition InstanceID="0xADB0DCD1" TextString="身上沾着黏稠的液体会让人很不舒服。"/>
+    <TextStringDefinition InstanceID="0x886614D2" TextString="精液容器"/>
+    <TextStringDefinition InstanceID="0xB7E3D671" TextString="选择精液偏好"/>
+    <TextStringDefinition InstanceID="0xDE936C57" TextString="吞了那么多精液后，{0.SimFirstName} 渴望性释放！"/>
+    <TextStringDefinition InstanceID="0xF881162D" TextString="欲望满溢"/>
+    <TextStringDefinition InstanceID="0xFA5B390D" TextString="测试"/>
+    <TextStringDefinition InstanceID="0x9FD6AE15" TextString="精液心情：喜欢精液"/>
+    <TextStringDefinition InstanceID="0x891A7776" TextString="精液触发器（阴道）"/>
+    <TextStringDefinition InstanceID="0xB4B83398" TextString="{0.SimFirstName} 最近接收了很多精液。\n\n{M0.他}{F0.她}应该拥抱{M0.自己}{F0.自己}肉体的渴望，对精液上瘾吗？"/>
+    <TextStringDefinition InstanceID="0xD5352DCF" TextString="精液成瘾"/>
+    <TextStringDefinition InstanceID="0xCC3D94D9" TextString="精液成瘾者"/>
+    <TextStringDefinition InstanceID="0xDCE8E358" TextString="{0.SimFirstName} 不喜欢{M0.他}{F0.她}的脸被当作精液抹布！"/>
+    <TextStringDefinition InstanceID="0xE5ED41F8" TextString="肮脏的结束"/>
+    <TextStringDefinition InstanceID="0x80546B9E" TextString="{0.SimFirstName} 下面该清理一下了。"/>
+    <TextStringDefinition InstanceID="0xE1DCF7A4" TextString="硬壳私处"/>
+    <TextStringDefinition InstanceID="0xE3EF687D" TextString="精液量（中）"/>
+    <TextStringDefinition InstanceID="0xAD4011CD" TextString="精液的味道挥之不去，即使不在 {0.SimFirstName} 的嘴里，也在{M0.他}{F0.她}的脑海里。"/>
+    <TextStringDefinition InstanceID="0xCAF27245" TextString="吞下的骄傲"/>
+    <TextStringDefinition InstanceID="0xC25B19EB" TextString="情绪良好"/>
+    <TextStringDefinition InstanceID="0xD39C5AE4" TextString="{0.SimFirstName} 因感觉到精液在{M0.他}{F0.她}大腿间晃动而分心。"/>
+    <TextStringDefinition InstanceID="0xA376DECF" TextString="黏糊糊的屄"/>
+    <TextStringDefinition InstanceID="0xEF92AEF1" TextString="黏糊糊的景象"/>
+    <TextStringDefinition InstanceID="0xF864A4EE" TextString="互动填满项圈"/>
+    <TextStringDefinition InstanceID="0x98503AB7" TextString="脸上滴着精液在公共场合游行，这可不是 {0.SimFirstName} 认为的好时光！"/>
+    <TextStringDefinition InstanceID="0xD908EC32" TextString="黏糊糊的耻辱游行"/>
+    <TextStringDefinition InstanceID="0xC5ED9916" TextString="特征_Spoo_已注册"/>
+    <TextStringDefinition InstanceID="0xE91BAE59" TextString="隐藏面部精液"/>
+    <TextStringDefinition InstanceID="0xDE4ABF1A" TextString="随着精液在 {0.SimFirstName} 身上停留，{M0.他}{F0.她}觉得现在是时候清理一下了。"/>
+    <TextStringDefinition InstanceID="0xB3E35C9D" TextString="沾满黏液"/>
+    <TextStringDefinition InstanceID="0x89FFB621" TextString="Spoo™ 保健品"/>
+    <TextStringDefinition InstanceID="0xE8B872CC" TextString="阴茎（滴漏）"/>
+    <TextStringDefinition InstanceID="0xC03C6E7F" TextString="精液触发器（脚）"/>
+    <TextStringDefinition InstanceID="0xAC3A018E" TextString="精液触发器（脸）"/>
+    <TextStringDefinition InstanceID="0xB3E90E0B" TextString="被问及关于精液的事"/>
+    <TextStringDefinition InstanceID="0xA61D75C4" TextString="你喜欢精液吗？"/>
+    <TextStringDefinition InstanceID="0xDA8D5DA6" TextString="感觉到{M0.爱人}{F0.爱人}高潮的汁液溅到{M0.自己}{F0.自己}脸上，是 {0.SimFirstName} 的最爱！"/>
+    <TextStringDefinition InstanceID="0xADE66A70" TextString="颜射狂热者"/>
+    <TextStringDefinition InstanceID="0xF7E1AC8E" TextString="吞精"/>
+    <TextStringDefinition InstanceID="0xBC128709" TextString="电脑_自慰_保存精液"/>
+    <TextStringDefinition InstanceID="0xEAC8C2C5" TextString="Spoo™ 商店"/>
+    <TextStringDefinition InstanceID="0xDA0C05AF" TextString="精液机器"/>
+    <TextStringDefinition InstanceID="0xBBE8811A" TextString="被 {1.SimFirstName} 赞美"/>
+    <TextStringDefinition InstanceID="0xA3180081" TextString="赞美精液荡妇"/>
+    <TextStringDefinition InstanceID="0xF2944F57" TextString="手上额外精液"/>
+    <TextStringDefinition InstanceID="0xD5A98FF2" TextString="精液触发器（臀部）"/>
+    <TextStringDefinition InstanceID="0x9707C2EA" TextString="身体"/>
+    <TextStringDefinition InstanceID="0x9DDB812F" TextString="阴茎"/>
+    <TextStringDefinition InstanceID="0xF46B045C" TextString="{0.SimFirstName} 祈祷没人注意到精液从{M0.他}{F0.她}的脸上滴下来。"/>
+    <TextStringDefinition InstanceID="0xD833A958" TextString="工作时脸上沾精"/>
+    <TextStringDefinition InstanceID="0xF20B5CCA" TextString="隐藏已洗脸"/>
+    <TextStringDefinition InstanceID="0xE35E83D7" TextString="{0.SimFirstName} 吞下了一个健康状况有些可疑的市民的精液。"/>
+    <TextStringDefinition InstanceID="0x9B38FA45" TextString="恶心的黏液"/>
+    <TextStringDefinition InstanceID="0xF7FAA13A" TextString="{0.SimFirstName} 的全部注意力都被流淌在{M0.他}{F0.她}脸上的精液吸引了。"/>
+    <TextStringDefinition InstanceID="0xE15BB290" TextString="被溅到了"/>
+    <TextStringDefinition InstanceID="0x88A9234D" TextString="别人能闻到 {1.SimFirstName} 呼吸里的精液味吗？"/>
+    <TextStringDefinition InstanceID="0xF59758DE" TextString="性爱口气"/>
+    <TextStringDefinition InstanceID="0xF6B256D4" TextString="正在琢磨这黏糊糊的东西"/>
+    <TextStringDefinition InstanceID="0xC05CAD0B" TextString="精液！"/>
+    <TextStringDefinition InstanceID="0xED882C4E" TextString="禁用额外精液（此市民）"/>
+    <TextStringDefinition InstanceID="0xEAFAF2D7" TextString="隐藏足部精液"/>
+    <TextStringDefinition InstanceID="0xD70C96D7" TextString="{0.SimFirstName} 处在性交后的迷糊状态。\n……真乱"/>
+    <TextStringDefinition InstanceID="0xDA3F5BEF" TextString="嗯，感觉有点奇怪"/>
+    <TextStringDefinition InstanceID="0x805448AD" TextString="下流胚子"/>
+    <TextStringDefinition InstanceID="0xD1FF1A9A" TextString="这将是漫长的一天，因为 {0.SimFirstName} 忍受着黏糊糊的私处带来的分心。"/>
+    <TextStringDefinition InstanceID="0xFB81951F" TextString="黏糊糊的轮班"/>
+    <TextStringDefinition InstanceID="0xE8B1259D" TextString="额外精液设置"/>
+    <TextStringDefinition InstanceID="0xD858887F" TextString="解锁精液心情（当前已锁定）"/>
+    <TextStringDefinition InstanceID="0xA989293C" TextString="精液戒断反应"/>
+    <TextStringDefinition InstanceID="0x8D2B0B4A" TextString="如同皇家加冕礼一般，{0.SimFirstName} 很荣幸收到来自{M0.他}{F0.她}爱人“家族珠宝”的祝福。"/>
+    <TextStringDefinition InstanceID="0x8788A734" TextString="珍珠项链"/>
+    <TextStringDefinition InstanceID="0xA56A78CB" TextString="隐藏脸上沾满精液（湿透）"/>
+    <TextStringDefinition InstanceID="0xF07445C8" TextString="听 {1.SimFirstName} 的精液忏悔"/>
+    <TextStringDefinition InstanceID="0xD3B67ED0" TextString="坦白精液癖"/>
+    <TextStringDefinition InstanceID="0xBA237B40" TextString="掷骰决定精液心情"/>
+    <TextStringDefinition InstanceID="0xC278AC8C" TextString="唯一比射精更爽的事，就是看着它从美丽的脸庞上滴落。"/>
+    <TextStringDefinition InstanceID="0xBA9BF089" TextString="颜射给予者"/>
+    <TextStringDefinition InstanceID="0x98FC6F3A" TextString="没有什么比得上吞食精液带来的成就感了。"/>
+    <TextStringDefinition InstanceID="0xF143FEE0" TextString="骄傲的吞精者"/>
+    <TextStringDefinition InstanceID="0x80312C7E" TextString="隐藏阴道内精液（湿透）"/>
+    <TextStringDefinition InstanceID="0xCE1B414A" TextString="因被吸血鬼命令"/>
+    <TextStringDefinition InstanceID="0xAD56EA27" TextString="听 {1.SimFirstName} 的自定义互动"/>
+    <TextStringDefinition InstanceID="0xB790357E" TextString="欣赏射精"/>
+    <TextStringDefinition InstanceID="0xAB51749C" TextString="精液清洁"/>
+    <TextStringDefinition InstanceID="0xE52315E4" TextString="精液量（低）"/>
+    <TextStringDefinition InstanceID="0xD40735B1" TextString="真的没事啦……"/>
+    <TextStringDefinition InstanceID="0xA66416FB" TextString="更蓝的蛋（更强的性欲未满足）"/>
+    <TextStringDefinition InstanceID="0xE999694F" TextString="隐藏所有精液"/>
+    <TextStringDefinition InstanceID="0xBCF01686" TextString="精液消耗品处理器"/>
+    <TextStringDefinition InstanceID="0xA0A2DA90" TextString="{0.SimFirstName} 宁愿没人看到{M0.他}{F0.她}这个样子！！！"/>
+    <TextStringDefinition InstanceID="0xDB8FC184" TextString="搞得一团糟"/>
+    <TextStringDefinition InstanceID="0xFB1E2E3A" TextString="{0.SimFirstName} 还在下面吗？\n\n{M0.他}{F0.她}被汹涌的精液淹没了。"/>
+    <TextStringDefinition InstanceID="0xDF6CE982" TextString="精液迷糊"/>
+    <TextStringDefinition InstanceID="0xF01F45F3" TextString="已解决的负面情绪"/>
+    <TextStringDefinition InstanceID="0xF00E7B79" TextString="被溅到{M0.自己}{F0.自己}的脚趾上感觉很刺激！想象它们被舔干净可能会让一些市民兴奋不已。"/>
+    <TextStringDefinition InstanceID="0x8277F9F9" TextString="沾满精液的脚趾"/>
+    <TextStringDefinition InstanceID="0xCD4B93AD" TextString="因吞下爱人的精液"/>
+    <TextStringDefinition InstanceID="0xDEF90E7E" TextString="移除精液成瘾"/>
+    <TextStringDefinition InstanceID="0xD5A7AC2B" TextString="命令渴望精液"/>
+    <TextStringDefinition InstanceID="0xD2786041" TextString="基础"/>
+    <TextStringDefinition InstanceID="0xFF01CE77" TextString="一团团黏液顺着{M0.他}{F0.她}的大腿流下，真是刺激的感觉！"/>
+    <TextStringDefinition InstanceID="0xB123C10F" TextString="滴到膝盖"/>
+    <TextStringDefinition InstanceID="0x8AEF2695" TextString="添加精液成瘾"/>
+    <TextStringDefinition InstanceID="0x961112AD" TextString="被看到脸上沾精"/>
+    <TextStringDefinition InstanceID="0xC6F7AE4F" TextString="蛋蛋空了，头脑清醒……\n小睡时间？"/>
+    <TextStringDefinition InstanceID="0xE4CC9EDE" TextString="被榨干了"/>
+    <TextStringDefinition InstanceID="0xF50ED5A0" TextString="手腿额外精液"/>
+    <TextStringDefinition InstanceID="0xD4E11829" TextString="添加精液成瘾者特征"/>
+    <TextStringDefinition InstanceID="0xB07DC260" TextString="{0.SimFirstName} 的嘴里完全被甜美的精液覆盖了。"/>
+    <TextStringDefinition InstanceID="0x8FD3A69B" TextString="淫荡吮吸"/>
+    <TextStringDefinition InstanceID="0xE5CB3765" TextString="最近风流韵事的黏糊糊的提醒让 {0.SimFirstName} 感觉自己既肮脏又狂野。"/>
+    <TextStringDefinition InstanceID="0xB9387C7D" TextString="黏糊糊的斑点"/>
+    <TextStringDefinition InstanceID="0xB35C4C45" TextString="{0.SimFirstName} 饮下了过量的爱液。"/>
+    <TextStringDefinition InstanceID="0x9AB6DD76" TextString="精液醉"/>
+    <TextStringDefinition InstanceID="0xA013A02B" TextString="精液心情提升"/>
+    <TextStringDefinition InstanceID="0x9080D66C" TextString="WWinProgress"/>
+    <TextStringDefinition InstanceID="0xD8A5E8EF" TextString="隐藏胸部精液（湿透）"/>
+    <TextStringDefinition InstanceID="0xA765F6B9" TextString="既然 {0.SimFirstName} 已经高潮了，{M0.他}{F0.她}能更清晰地看见和感受这个世界了。"/>
+    <TextStringDefinition InstanceID="0xCD6B4F32" TextString="甜蜜的释放"/>
+    <TextStringDefinition InstanceID="0xD66EA829" TextString="调试"/>
+    <TextStringDefinition InstanceID="0xF5EB4D7A" TextString="通过用精液满足{M0.他}{F0.她}植物般对水分的需求，{0.SimFirstName} 将能更好地抵抗脱水。"/>
+    <TextStringDefinition InstanceID="0xF8859FC4" TextString="用手浇灌"/>
+    <TextStringDefinition InstanceID="0xF3393CA6" TextString="隐藏三重精液增益"/>
+    <TextStringDefinition InstanceID="0xA4E02C23" TextString="{0.SimFirstName} 的意识被干涸精液的感觉和气味占据着。{M0.他}{F0.她}很难想象别人没有注意到。"/>
+    <TextStringDefinition InstanceID="0xF294E957" TextString="干涸的精斑"/>
+    <TextStringDefinition InstanceID="0xC805475F" TextString="{0.SimFirstName} 的两腿之间夹着一个注满奶油的糕点。"/>
+    <TextStringDefinition InstanceID="0xC6CDAFB2" TextString="黏糊糊的小穴"/>
+    <TextStringDefinition InstanceID="0x9AD348BF" TextString="！！！"/>
+    <TextStringDefinition InstanceID="0x87EF6207" TextString="吞咽精液"/>
+    <TextStringDefinition InstanceID="0xE955C934" TextString="选择精液心情"/>
+    <TextStringDefinition InstanceID="0xAAC216DC" TextString="嘿嘿嘿，有点痒……"/>
+    <TextStringDefinition InstanceID="0xD9A1175B" TextString="快乐的脚丫"/>
+    <TextStringDefinition InstanceID="0xEB778A54" TextString="特征情绪暂时锁定"/>
+    <TextStringDefinition InstanceID="0x82669FF0" TextString="（因精液成瘾）"/>
+    <TextStringDefinition InstanceID="0xE17E50E2" TextString="{0.SimFirstName} 已经在这滩精液里游了好几个小时了！那里简直就是个精液池塘！"/>
+    <TextStringDefinition InstanceID="0xB93F5A79" TextString="沼泽怪物"/>
+    <TextStringDefinition InstanceID="0x92973BFC" TextString="不管别人看不看得到，这种分心的事情 {0.SimFirstName} 可不需要！"/>
+    <TextStringDefinition InstanceID="0xB664BE36" TextString="尴尬的滴漏"/>
+    <TextStringDefinition InstanceID="0xA82ECAD6" TextString="被精液恶心到"/>
+    <TextStringDefinition InstanceID="0x9BD5A721" TextString="这些市民接触到精液时会感到不舒服或尴尬。"/>
+    <TextStringDefinition InstanceID="0xCA62BE31" TextString="接近双重内射的市民"/>
+    <TextStringDefinition InstanceID="0x97361107" TextString="精液心情"/>
+    <TextStringDefinition InstanceID="0xED64F9CD" TextString="移除额外精液（所有市民）"/>
+    <TextStringDefinition InstanceID="0xA02ABAB9" TextString="{0.SimFirstName} 的胃里有点不对劲……\n{M0.他}{F0.她}大概知道可能是什么了。"/>
+    <TextStringDefinition InstanceID="0x86855533" TextString="*打嗝"/>
+    <TextStringDefinition InstanceID="0xC87B5A39" TextString="黑色精液 1"/>
+    <TextStringDefinition InstanceID="0xB0CB2B87" TextString="移除精液机器特征"/>
+    <TextStringDefinition InstanceID="0xC852782D" TextString="混合精液阴道不适"/>
+    <TextStringDefinition InstanceID="0xC6588A68" TextString="听 {1.SimFirstName} 乞求精液"/>
+    <TextStringDefinition InstanceID="0xFB2D1103" TextString="乞求精液"/>
+    <TextStringDefinition InstanceID="0xA6E0967F" TextString="这些市民从精液中的天然抗抑郁成分中获得自信和快乐。当他们对精液的渴望没有得到充分满足时，他们可能会变得沮丧。\n"/>
+    <TextStringDefinition InstanceID="0xFC07B218" TextString="隐藏_额外精液_已禁用"/>
+    <TextStringDefinition InstanceID="0xD31A9EA0" TextString="精液触发器（胸部）"/>
+    <TextStringDefinition InstanceID="0xE6BB0AFF" TextString="移除额外精液"/>
+    <TextStringDefinition InstanceID="0x9F76C034" TextString="隐藏干涸精液"/>
+    <TextStringDefinition InstanceID="0xF786D93F" TextString="{0.SimFirstName} 一整天都带着一个性感的纪念品。也许是时候清理一下了……或者再来一发。"/>
+    <TextStringDefinition InstanceID="0xE77EB864" TextString="上釉的私处"/>
+    <TextStringDefinition InstanceID="0x8C44AC11" TextString="隐藏双重精液增益"/>
+    <TextStringDefinition InstanceID="0xCAA2840C" TextString="{0.SimFirstName} 的注意力被{M0.他}{F0.她}皮肤上硬邦邦的斑块吸引了。"/>
+    <TextStringDefinition InstanceID="0xDF0A0B08" TextString="干涸黏液"/>
+    <TextStringDefinition InstanceID="0xF14F122E" TextString="滴漏"/>
+    <TextStringDefinition InstanceID="0x91289EC4" TextString="奇耻大辱！！{0.SimFirstName} 宁愿{M0.他}{F0.她}的脸不被当作精液抹布！！"/>
+    <TextStringDefinition InstanceID="0xF15D76AF" TextString="被当作精液抹布"/>
+    <TextStringDefinition InstanceID="0x954730A2" TextString="准备好参加皇家舞会了吗？或者刚从一个……\n或两个舞会回来。"/>
+    <TextStringDefinition InstanceID="0xECA97E31" TextString="哈！？哦，什么？\n啊……\n\n精液。"/>
+    <TextStringDefinition InstanceID="0xF62E8EEC" TextString="精液触发器（下背部）"/>
+    <TextStringDefinition InstanceID="0xA707CDD0" TextString="这个市民受{M0.他}{F0.她}的蛋蛋支配。它们会随时间产生精子，并需要定期释放，尤其是在兴奋之后。"/>
+    <TextStringDefinition InstanceID="0x96BB4B8F" TextString="{0.SimFirstName} 身上结了一层冰冷干硬的精液，"/>
+    <TextStringDefinition InstanceID="0xB46ACCB7" TextString="陈旧精液"/>
+    <TextStringDefinition InstanceID="0xE517588E" TextString="腿部"/>
+    <TextStringDefinition InstanceID="0xD2DD2BC3" TextString="精液心情：中性"/>
+    <TextStringDefinition InstanceID="0xD2CED5C1" TextString="锁定精液心情（当前已解锁）"/>
+    <TextStringDefinition InstanceID="0x9639C364" TextString="有些市民的精液就是特别甜美，想必是生活规律的缘故吧。"/>
+    <TextStringDefinition InstanceID="0x83CA6B1F" TextString="绝佳样本"/>
+    <TextStringDefinition InstanceID="0xEA6B6237" TextString="精液心情降低"/>
+    <TextStringDefinition InstanceID="0xA9502F40" TextString="精液心情：热爱精液"/>
+    <TextStringDefinition InstanceID="0xC28A1FD8" TextString="特征情绪已锁定"/>
+    <TextStringDefinition InstanceID="0xDEF61AAD" TextString=" {0.SimFirstName} 一想到有人看到{M0.他}{F0.她}这个样子就发抖。"/>
+    <TextStringDefinition InstanceID="0x80F453B7" TextString="不体面"/>
+    <TextStringDefinition InstanceID="0x8985817F" TextString="精液量（高）"/>
+    <TextStringDefinition InstanceID="0xE7261E1A" TextString="到处溅一点没伤到任何人。"/>
+    <TextStringDefinition InstanceID="0x9C719C9E" TextString="黏糊糊的勾当"/>
+    <TextStringDefinition InstanceID="0xF568114A" TextString="{0.SimFirstName} 身上沾了那么多精液那么久，{M0.他}{F0.她}几乎都注意不到了。"/>
+    <TextStringDefinition InstanceID="0xF5CEB5AD" TextString="凝固的精斑"/>
+    <TextStringDefinition InstanceID="0x9057E340" TextString="当你身上没有涂满精液的时候，工作都可能是一件苦差事！{0.SimFirstName} 等不及要清理干净了。"/>
+    <TextStringDefinition InstanceID="0x85EBEAED" TextString="测试版"/>
+    <TextStringDefinition InstanceID="0xF555A5AB" TextString="隐藏_湿透"/>
+    <TextStringDefinition InstanceID="0xFD682C71" TextString="精液！！！"/>
+    <TextStringDefinition InstanceID="0xB190D7E8" TextString="{0.SimFirstName} 骄傲地公开{M0.他}{F0.她}对精液的热爱！"/>
+    <TextStringDefinition InstanceID="0xA6549857" TextString="炫耀你的奖励"/>
+    <TextStringDefinition InstanceID="0x926882EE" TextString="测试WWCum"/>
+    <TextStringDefinition InstanceID="0xF1531EBA" TextString="喜欢精液"/>
+    <TextStringDefinition InstanceID="0xCF4EB19C" TextString="这些市民很可能会喜欢接触精液！"/>
+    <TextStringDefinition InstanceID="0xB2F33F92" TextString="精液荡妇装束"/>
+    <TextStringDefinition InstanceID="0xB793AAB2" TextString="阴茎根部额外精液"/>
+    <TextStringDefinition InstanceID="0xD1768BB7" TextString="一层层新鲜的精液重新溶解了 {0.SimFirstName} 身上已经干涸的精液。\n\n这真是非常黏糊糊的一天！"/>
+    <TextStringDefinition InstanceID="0xEFFC387C" TextString="千层糕"/>
+    <TextStringDefinition InstanceID="0xC4FCA1CC" TextString="日日夜夜，{0.SimFirstName} 都过着精液爱好者的生活！"/>
+    <TextStringDefinition InstanceID="0xBBE79BFE" TextString="精液生活"/>
+    <TextStringDefinition InstanceID="0x8FD45B82" TextString="{0.SimFirstName} 不是当精液荡妇的料。"/>
+    <TextStringDefinition InstanceID="0xD9382E04" TextString="重复使用的精液抹布"/>
+    <TextStringDefinition InstanceID="0x91A3E066" TextString="来自精液"/>
+    <TextStringDefinition InstanceID="0x95FC28E7" TextString="来自胸部精液"/>
+    <TextStringDefinition InstanceID="0x9DB69C6F" TextString="全部阴茎额外精液"/>
+    <TextStringDefinition InstanceID="0xC0074BA7" TextString="因接受陌生人内射"/>
+    <TextStringDefinition InstanceID="0xE553F763" TextString="因接受陌生人颜射"/>
+    <TextStringDefinition InstanceID="0x92CE21B7" TextString="50+ 精液心情"/>
+    <TextStringDefinition InstanceID="0x9AEA928D" TextString="-50 精液心情"/>
+    <TextStringDefinition InstanceID="0xC1FBB214" TextString="正面精液心情统计"/>
+    <TextStringDefinition InstanceID="0xCD80F13F" TextString="负面精液心情统计"/>
+    <TextStringDefinition InstanceID="0xAE778055" TextString="因接受射精"/>
+    <TextStringDefinition InstanceID="0xF32CE1CB" TextString="湿透"/>
+    <TextStringDefinition InstanceID="0x8CFFFC64" TextString="因被精液浇灌"/>
+    <TextStringDefinition InstanceID="0xDD0CABEF" TextString="额外精液阴茎滴漏"/>
+    <TextStringDefinition InstanceID="0xD3D12A77" TextString="Spoo品牌保健品利用了男性自身天然精华的力量。我们的乳霜来源合乎道德，并保证新鲜送达。\n\n您想创建一个账户吗？\n\n（测试版）"/>
+    <TextStringDefinition InstanceID="0xFBC3191A" TextString="解锁精液的力量"/>
+    <TextStringDefinition InstanceID="0x9FD205F2" TextString="看见精液"/>
+    <TextStringDefinition InstanceID="0xE0AE1D8A" TextString="{1.SimFirstName} 已经很爱精液了，不过也许不如你那么爱。"/>
+    <TextStringDefinition InstanceID="0xE95181BA" TextString="“我对那些没什么经验”"/>
+    <TextStringDefinition InstanceID="0xCB2C4121" TextString="{0.SimFirstName} 不会再自然地对精液上瘾，但{M0.他}{F0.她}现在可以选择改变{M0.自己}{F0.自己}的想法（在接触精液时点击市民即可选择）。"/>
+    <TextStringDefinition InstanceID="0xCEBFBC61" TextString="拒绝精液成瘾"/>
+    <TextStringDefinition InstanceID="0xA9463BA1" TextString="隐藏_忽略精液成瘾标记"/>
+    <TextStringDefinition InstanceID="0xE7F03BE2" TextString="因接受颜射"/>
+    <TextStringDefinition InstanceID="0xE47B1B8E" TextString="因进行颜射"/>
+    <TextStringDefinition InstanceID="0xF01F18FC" TextString="被精液荡妇迎接"/>
+    <TextStringDefinition InstanceID="0xD8E8A856" TextString="黏糊糊的介绍"/>
+    <TextStringDefinition InstanceID="0x99CCB685" TextString="“我不确定我对精液会有什么反应”"/>
+    <TextStringDefinition InstanceID="0xEEEE1DDB" TextString="没经验的"/>
+    <TextStringDefinition InstanceID="0x9DF0C213" TextString="“你为什么问我那个！”"/>
+    <TextStringDefinition InstanceID="0xC7FF9C3B" TextString="呃！！！"/>
+    <TextStringDefinition InstanceID="0xEF1AA0C8" TextString="“哦！嘿嘿，我想我不介意弄得有点脏。不过那不是我的主要爱好。”"/>
+    <TextStringDefinition InstanceID="0x9438939D" TextString="“嗯，我觉得精液还挺刺激的”"/>
+    <TextStringDefinition InstanceID="0x875BC17C" TextString="嗯嗯嗯"/>
+    <TextStringDefinition InstanceID="0xF20B73E4" TextString="“我爱精液！怎么都要不够！”"/>
+    <TextStringDefinition InstanceID="0xF0CA566C" TextString="♥"/>
+    <TextStringDefinition InstanceID="0x8DC470B4" TextString="“我们还没熟到那种程度！”"/>
+    <TextStringDefinition InstanceID="0xAB7FEACD" TextString="你我都知道，没有源源不断的热辣精液我活不下去！"/>
+    <TextStringDefinition InstanceID="0xC41388EA" TextString="临时_精液询问冷却"/>
+    <TextStringDefinition InstanceID="0xBDA8A2F4" TextString="因足部沾染精液"/>
+    <TextStringDefinition InstanceID="0x896B1B44" TextString="因精液戒断反应"/>
+    <TextStringDefinition InstanceID="0x943C806B" TextString="因被精液浸透"/>
+    <TextStringDefinition InstanceID="0xDD6A20B3" TextString="公开谈论{M0.自己}{F0.自己}的欲望让 {0.SimFirstName} 感到燥热不安。"/>
+    <TextStringDefinition InstanceID="0x98AEF753" TextString="精液忏悔"/>
+    <TextStringDefinition InstanceID="0x9BCF39BE" TextString="隐藏临时精液欲"/>
+    <TextStringDefinition InstanceID="0xE43CFF58" TextString="谁都好，求求了！！\n请让我榨干那根鸡巴！"/>
+    <TextStringDefinition InstanceID="0xB88D4468" TextString="渴望精液！"/>
+    <TextStringDefinition InstanceID="0xC823A569" TextString="{0.SimFirstName} 感觉被营养丰富的精液滋养了。{M0.他}{F0.她}的"/>
+    <TextStringDefinition InstanceID="0xC9243F6F" TextString="精液欲得到满足"/>
+    <TextStringDefinition InstanceID="0x815A6FD8" TextString="喝掉它，被它覆盖，被它填满。{0.SimFirstName} 的脑子里全是吞食精液的想法！"/>
+    <TextStringDefinition InstanceID="0xECFEEB7C" TextString="需要精液"/>
+    <TextStringDefinition InstanceID="0x944E8FAF" TextString="{0.SimFirstName} 最近没喝够精液。"/>
+    <TextStringDefinition InstanceID="0xEAA8873A" TextString="渴望精液"/>
+    <TextStringDefinition InstanceID="0xB8DD5455" TextString="因吞下美味精液"/>
+    <TextStringDefinition InstanceID="0xA5F55FB9" TextString="因吞下精液"/>
+    <TextStringDefinition InstanceID="0x9A31CADB" TextString="因吞下怪味精液"/>
+    <TextStringDefinition InstanceID="0xF355FEE6" TextString="因吞下恶心精液"/>
+    <TextStringDefinition InstanceID="0xBCA6B448" TextString="因吞下太多精液"/>
+    <TextStringDefinition InstanceID="0xCCF43E62" TextString="因吞下幽灵精液"/>
+    <TextStringDefinition InstanceID="0xED7EF87D" TextString="因吞下冬天老人的精液"/>
+    <TextStringDefinition InstanceID="0xE8FE43DF" TextString="精液病呕吐物"/>
+    <TextStringDefinition InstanceID="0xAA40DBF6" TextString="因精液成瘾"/>
+    <TextStringDefinition InstanceID="0x97A35F7E" TextString="{0.SimFirstName} 意识到{M0.他}{F0.她}对那黏糊糊的东西怎么都要不够！"/>
+    <TextStringDefinition InstanceID="0xEED01AE0" TextString="{0.SimFirstName} 热爱精液！"/>
+    <TextStringDefinition InstanceID="0xC7306009" TextString="“我能习惯这个！”\n如果 {0.SimFirstName} 每次接触精液的经历都这么愉快，{M0.他}{F0.她}可能就要开始主动要那黏糊糊的东西了。"/>
+    <TextStringDefinition InstanceID="0x9E4CBFB6" TextString="{0.SimFirstName} 喜欢精液"/>
+    <TextStringDefinition InstanceID="0xAD68446F" TextString="“还不算太糟”\n尽管 {0.SimFirstName} 不喜欢精液，但{M0.他}{F0.她}还是度过了一段不错的时光。将来，当被精液溅到时，{M0.他}{F0.她}会更愿意享受其中。"/>
+    <TextStringDefinition InstanceID="0xA3C65D63" TextString="{0.SimFirstName} 对精液还行"/>
+    <TextStringDefinition InstanceID="0xF1B9E9F9" TextString="吞下{M0.自己}{F0.自己}的精液"/>
+    <TextStringDefinition InstanceID="0xB0073B75" TextString="精液太多"/>
+    <TextStringDefinition InstanceID="0xEB1EF1AA" TextString="因干涸精液"/>
+    <TextStringDefinition InstanceID="0xB500C4C3" TextString="因不喜欢精液"/>
+    <TextStringDefinition InstanceID="0xCE6C8CD6" TextString="恋物癖看见颜射"/>
+    <TextStringDefinition InstanceID="0xF2FAB7A4" TextString="因射出大量精液"/>
+    <TextStringDefinition InstanceID="0xF8C4C69B" TextString="因做爱未射精"/>
+    <TextStringDefinition InstanceID="0x95A60BA8" TextString="“嗯，那可真糟”\n{0.SimFirstName} 没玩好，{M0.他}{F0.她}现在不喜欢精液了。"/>
+    <TextStringDefinition InstanceID="0xCD68FD0F" TextString="{0.SimFirstName} 讨厌精液"/>
+    <TextStringDefinition InstanceID="0xADD4FC91" TextString="“那不太好玩”\n{0.SimFirstName} 没玩好，{M0.他}{F0.她}现在对精液持矛盾态度。将来{M0.他}{F0.她}可能更愿意洗掉那黏糊糊的东西。"/>
+    <TextStringDefinition InstanceID="0xC82BEBE3" TextString="{0.SimFirstName} 对精液不那么热衷了"/>
+    <TextStringDefinition InstanceID="0x993E8585" TextString="“还挺不错的”\n{0.SimFirstName} 这次黏糊糊的体验不如平时那么享受。{M0.他}{F0.她}对精液的热情可能在减退。"/>
+    <TextStringDefinition InstanceID="0xB7CCDC69" TextString="{0.SimFirstName} 喜欢精液"/>
+    <TextStringDefinition InstanceID="0xF199EB81" TextString="{0.SimFirstName} 最近与幽灵的经历让{M0.他}{F0.她}感到刺痛。当被灵质覆盖时，{M0.他}{F0.她}将成为更强大的灵媒。"/>
+    <TextStringDefinition InstanceID="0x929F0E42" TextString="被黏液覆盖了！！"/>
+    <TextStringDefinition InstanceID="0xE2F21C6D" TextString="暂时性爱诱惑"/>
+    <TextStringDefinition InstanceID="0xD97E25AE" TextString="喝精液负面情绪"/>
+    <TextStringDefinition InstanceID="0x97DAEFA2" TextString="隐藏精液女王光环"/>
+    <TextStringDefinition InstanceID="0xFAAB1255" TextString="后天习得的品味"/>
+    <TextStringDefinition InstanceID="0xA613E5F5" TextString="正面饮用精液情绪"/>
+    <TextStringDefinition InstanceID="0xD7F4EB32" TextString="饮用精液冷却时间"/>
+    <TextStringDefinition InstanceID="0xA2714D34" TextString="性爱气味"/>
+    <TextStringDefinition InstanceID="0xE7D1CF22" TextString="{0.SimFirstName} 有一种奇怪的渴望。\n就在{M0.他}{F0.她}的舌尖。\n"/>
+    <TextStringDefinition InstanceID="0xDF7FACC7" TextString="好奇的渴望"/>
+    <TextStringDefinition InstanceID="0xA525162A" TextString="隐藏情绪检查延迟"/>
+    <TextStringDefinition InstanceID="0xD86DDAFE" TextString="隐藏_臀部精液"/>
+    <TextStringDefinition InstanceID="0x8E3A4157" TextString="在我喝到精液之前别跟我说话！"/>
+    <TextStringDefinition InstanceID="0x89F29FAA" TextString="干涸期"/>
+    <TextStringDefinition InstanceID="0x88921861" TextString="哪个更可悲？是 {0.SimFirstName} 渴望精液，还是似乎没人愿意给{M0.他}{F0.她}？"/>
+    <TextStringDefinition InstanceID="0xA4D983D1" TextString="是我的问题吗？"/>
+    <TextStringDefinition InstanceID="0x86DF5BB0" TextString="没事！我又不是什么精液瘾君子…… 无所谓！"/>
+    <TextStringDefinition InstanceID="0x90DF11D2" TextString="沮丧"/>
+    <TextStringDefinition InstanceID="0xDBFB2331" TextString="这个市民获得1.5倍满意度点数"/>
+    <TextStringDefinition InstanceID="0x88F2489E" TextString="冬天老人的精液"/>
+    <TextStringDefinition InstanceID="0xAA97AFDD" TextString="看起来 {1.SimFirstName} 非常淘气！尽管如此，{M0.他}{F0.她}今年肯定会在乖孩子名单上！"/>
+    <TextStringDefinition InstanceID="0x82778233" TextString="来自圣诞老人的奶"/>
+    <TextStringDefinition InstanceID="0xDB868B21" TextString="{0.SimFirstName} 感觉精力充沛！\n{M0.他}{F0.她}的灵力将得到提升，并且在降神会桌上能更快地获得技能。"/>
+    <TextStringDefinition InstanceID="0xA26092AA" TextString="吞下的灵质"/>
+    <TextStringDefinition InstanceID="0xD8588AAD" TextString="临时吞咽精液"/>
+    <TextStringDefinition InstanceID="0xD2B2AB5F" TextString="隐藏_精液消耗品_最短时间"/>
+    <TextStringDefinition InstanceID="0xEBFA7A4B" TextString="因精液回涌"/>
+    <TextStringDefinition InstanceID="0xD2984074" TextString="内射"/>
+    <TextStringDefinition InstanceID="0xC35FE2AA" TextString="WW结果统计"/>
+    <TextStringDefinition InstanceID="0xD01EC5BB" TextString="计算精液质量"/>
+    <TextStringDefinition InstanceID="0xCE1592B3" TextString="接近三重内射的市民"/>
+    <TextStringDefinition InstanceID="0xE44D7D0A" TextString="接受颜射"/>
+    <TextStringDefinition InstanceID="0xAC4B8B78" TextString="万能精液去除剂"/>
+    <TextStringDefinition InstanceID="0xB95012D5" TextString="额外精液阴茎黑色 1"/>
+    <TextStringDefinition InstanceID="0xA23FDF38" TextString="{0.SimFirstName} 能感觉到节日气氛顺着{M0.他}{F0.她}的喉咙滑下。来年一定会更有收获！\n\n（{0.SimFirstName} 在接下来的28天内将获得50%更多的满意度点数）"/>
+    <TextStringDefinition InstanceID="0xFF16805D" TextString="嗬嗬嗬，的确如此！"/>
+  </TextStringDefinitions>
+</StblData>
