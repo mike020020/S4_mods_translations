@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x4992E851" TextString="{0.SimFirstName} is not pregnant."/>
+    <TextStringDefinition InstanceID="0xFB6158D8" TextString="{0.String}{1.String}"/>
+    <TextStringDefinition InstanceID="0xCE1FDE37" TextString="&lt;font color='#199C2C'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x31CC8E32" TextString="&lt;font color='#9C1919'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x59C14C34" TextString="&lt;font color='#19269C'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0xCE1B477F" TextString="&lt;font color='#FFF720'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x990BE95E" TextString="&lt;font color='#FF7900'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x4A8DC6B8" TextString="(From Sims 4 Community Library)"/>
+    <TextStringDefinition InstanceID="0x62BA80CD" TextString="A problem occurred, locate the log file at &quot;{0.String}&quot;."/>
+    <TextStringDefinition InstanceID="0xA03ED8D7" TextString="Break Object"/>
+    <TextStringDefinition InstanceID="0xA48766A3" TextString="Cancel"/>
+    <TextStringDefinition InstanceID="0x963ACF86" TextString="Confirmation"/>
+    <TextStringDefinition InstanceID="0x0C611C41" TextString="Done logging all interactions for the target location or object. Please locate a log file at {0.String}."/>
+    <TextStringDefinition InstanceID="0xD1015CE7" TextString="Exception detected!"/>
+    <TextStringDefinition InstanceID="0x5BE27BFF" TextString="Exception detected in {0.String}!"/>
+    <TextStringDefinition InstanceID="0x275DAF8F" TextString="Fix Object"/>
+    <TextStringDefinition InstanceID="0xEA7DDDFF" TextString="Go To: {0.String}"/>
+    <TextStringDefinition InstanceID="0xA329A277" TextString="Induce Labor"/>
+    <TextStringDefinition InstanceID="0xB508AAE9" TextString="LOCALIZED_STRING_NOT_FOUND_{0.String}"/>
+    <TextStringDefinition InstanceID="0x7A51E481" TextString="Log All Game Tags"/>
+    <TextStringDefinition InstanceID="0xBABE8AF7" TextString="Log All Interactions"/>
+    <TextStringDefinition InstanceID="0x4847D964" TextString="Make Clean"/>
+    <TextStringDefinition InstanceID="0xD08F95BF" TextString="Make Dirty"/>
+    <TextStringDefinition InstanceID="0x3A94474A" TextString="Next"/>
+    <TextStringDefinition InstanceID="0x6377188C" TextString="No"/>
+    <TextStringDefinition InstanceID="0xFAF9BBF6" TextString="Previous"/>
+    <TextStringDefinition InstanceID="0xB5ADADF0" TextString="Random"/>
+    <TextStringDefinition InstanceID="0x857FAADC" TextString="S4CL Main Trait"/>
+    <TextStringDefinition InstanceID="0xBDE8BD32" TextString="Show Active Buffs"/>
+    <TextStringDefinition InstanceID="0xE98ECC12" TextString="Show Running and Queued Interactions"/>
+    <TextStringDefinition InstanceID="0xBF460A22" TextString="Show Running Situations"/>
+    <TextStringDefinition InstanceID="0x29D3AE09" TextString="Show Traits"/>
+    <TextStringDefinition InstanceID="0x61AA6CCB" TextString="Sims 4 Community Library"/>
+    <TextStringDefinition InstanceID="0x50A4AFDF" TextString="Some Text For Testing"/>
+    <TextStringDefinition InstanceID="0x5266EA90" TextString="State"/>
+    <TextStringDefinition InstanceID="0x15E8FBCE" TextString="Test Button 1"/>
+    <TextStringDefinition InstanceID="0x15E8FBCD" TextString="Test Button 2"/>
+    <TextStringDefinition InstanceID="0xEDB21976" TextString="Test Text"/>
+    <TextStringDefinition InstanceID="0xF6A4E3C3" TextString="Test Text: {0.Number}"/>
+    <TextStringDefinition InstanceID="0xFF21D2D2" TextString="Test Text: {0.SimFirstName} {0.SimLastName}"/>
+    <TextStringDefinition InstanceID="0xB1746497" TextString="Test Text: {0.String}"/>
+    <TextStringDefinition InstanceID="0xF3BE1E0A" TextString="This trait adds interactions from Sims 4 Community Library to this Sim."/>
+    <TextStringDefinition InstanceID="0x5B7E7761" TextString="Toilet Use Unknown Posture"/>
+    <TextStringDefinition InstanceID="0x3A6189A6" TextString="Yes"/>
+    <TextStringDefinition InstanceID="0x6284ACBA" TextString="{0.String}: {1.String}"/>
+    <TextStringDefinition InstanceID="0x1429B07C" TextString="{0.String}, {1.String}"/>
+    <TextStringDefinition InstanceID="0x0699D5F4" TextString="{0.String} {1.String}"/>
+    <TextStringDefinition InstanceID="0x1A406429" TextString="{0.String} ({1.String})"/>
+    <TextStringDefinition InstanceID="0xCE1E042E" TextString="{0.String}\n{1.String}"/>
+    <TextStringDefinition InstanceID="0x032A81F9" TextString="{0.String}-{1.String}"/>
+    <TextStringDefinition InstanceID="0x2CA33BDB" TextString="None"/>
+    <TextStringDefinition InstanceID="0x5FD633CB" TextString="Declined"/>
+    <TextStringDefinition InstanceID="0xB667ABF6" TextString="Accepted"/>
+    <TextStringDefinition InstanceID="0xD0F420D1" TextString="Accept"/>
+    <TextStringDefinition InstanceID="0xA60FC6F5" TextString="Decline"/>
+    <TextStringDefinition InstanceID="0x2EA8FB98" TextString="Default"/>
+    <TextStringDefinition InstanceID="0xF2237D1E" TextString="Please Wait"/>
+    <TextStringDefinition InstanceID="0x8ABA94C5" TextString="Randomization Complete"/>
+    <TextStringDefinition InstanceID="0x860F13B5" TextString="Current: {0.String}"/>
+    <TextStringDefinition InstanceID="0x7EC77EF6" TextString="Object is in use."/>
+    <TextStringDefinition InstanceID="0x48245F2A" TextString="{0.SimFirstName} is not allowed there."/>
+    <TextStringDefinition InstanceID="0x6B324A52" TextString="{0.SimFirstName} cannot reach that spot."/>
+    <TextStringDefinition InstanceID="0x36EB7A72" TextString="Not enough room for {0.SimFirstName} here."/>
+    <TextStringDefinition InstanceID="0x3F70BCAA" TextString="Pregnancy"/>
+    <TextStringDefinition InstanceID="0x0313D2A0" TextString="UID: {0.String}"/>
+    <TextStringDefinition InstanceID="0x955D0179" TextString="Restart Required"/>
+    <TextStringDefinition InstanceID="0x6B5119FB" TextString="In order for some changes to fully apply, please save and restart your game."/>
+    <TextStringDefinition InstanceID="0x5C6C2580" TextString="Remove All"/>
+    <TextStringDefinition InstanceID="0x8B3681B1" TextString="Remove"/>
+    <TextStringDefinition InstanceID="0x423122EB" TextString="Count: {0.String}"/>
+    <TextStringDefinition InstanceID="0x38C2E6F7" TextString="(From Debug)"/>
+    <TextStringDefinition InstanceID="0xF3C59252" TextString="Purchase Successful"/>
+    <TextStringDefinition InstanceID="0x5A8D580D" TextString="Your purchased items are on the way! Look for them when the mail arrives. They may also be put in your Household Inventory upon receiving the mail!"/>
+    <TextStringDefinition InstanceID="0xF33F9A95" TextString="Your purchased items may be found within the inventory of the Sim who bought them."/>
+    <TextStringDefinition InstanceID="0x59F9C698" TextString="Too expensive."/>
+    <TextStringDefinition InstanceID="0x556801EE" TextString="This feature is not yet implemented."/>
+    <TextStringDefinition InstanceID="0xAC8F626F" TextString="{0.SimFirstName} {0.SimLastName}"/>
+    <TextStringDefinition InstanceID="0xD8740FE4" TextString="{0.SimFirstName} {0.SimLastName} and {1.SimFirstName} {1.SimLastName}"/>
+    <TextStringDefinition InstanceID="0x2EACE203" TextString="{0.String}, and {1.SimFirstName} {1.SimLastName}"/>
+    <TextStringDefinition InstanceID="0x2A8148D8" TextString="{0.SimFirstName} {0.SimLastName}, and {1.String}"/>
+    <TextStringDefinition InstanceID="0xC1166AC4" TextString="{0.String} is {1.String}"/>
+    <TextStringDefinition InstanceID="0x92AF2862" TextString="{0.String} are {1.String}"/>
+    <TextStringDefinition InstanceID="0xA1C925BC" TextString="ERROR: {0.String}"/>
+    <TextStringDefinition InstanceID="0x0F818D6F" TextString="FAILED: {0.String}"/>
+    <TextStringDefinition InstanceID="0xC6D15497" TextString="SUCCESS: {0.String}"/>
+    <TextStringDefinition InstanceID="0x33A94544" TextString="FAILURE: {0.String}"/>
+    <TextStringDefinition InstanceID="0xD74B6B28" TextString="Go Back"/>
+    <TextStringDefinition InstanceID="0xA07FA6C6" TextString="!! {0.String}"/>
+    <TextStringDefinition InstanceID="0x20953C2D" TextString="Dog"/>
+    <TextStringDefinition InstanceID="0x82ED46EB" TextString="{0.String}+{1.String}"/>
+    <TextStringDefinition InstanceID="0x419C2C6E" TextString="All"/>
+    <TextStringDefinition InstanceID="0x3F9C28A5" TextString="Any"/>
+    <TextStringDefinition InstanceID="0x419E6969" TextString="{0.String}, and {1.String}"/>
+    <TextStringDefinition InstanceID="0xCFB35A51" TextString="{0.String} and {1.String}"/>
+    <TextStringDefinition InstanceID="0x1DC61DF5" TextString="{0.String} or {1.String}"/>
+    <TextStringDefinition InstanceID="0x34E0269D" TextString="{0.String}, or {1.String}"/>
+    <TextStringDefinition InstanceID="0xBA331D00" TextString="{0.String}\n\n{1.String}"/>
+    <TextStringDefinition InstanceID="0xD7FDCAF5" TextString="({0.String})"/>
+    <TextStringDefinition InstanceID="0xAF2C121C" TextString="Change Object States"/>
+    <TextStringDefinition InstanceID="0xAB3DD412" TextString="{0.SimFirstName} {0.SimLastName} cannot be picked up."/>
+    <TextStringDefinition InstanceID="0x599432EA" TextString="Custom Breed"/>
+    <TextStringDefinition InstanceID="0x340EA312" TextString="Alien"/>
+    <TextStringDefinition InstanceID="0xEFCD14BE" TextString="Ghost"/>
+    <TextStringDefinition InstanceID="0x9E3A9746" TextString="Mermaid"/>
+    <TextStringDefinition InstanceID="0x2763B1A0" TextString="Non Occult"/>
+    <TextStringDefinition InstanceID="0x64E66FA1" TextString="Plant Sim"/>
+    <TextStringDefinition InstanceID="0x730D2277" TextString="Robot"/>
+    <TextStringDefinition InstanceID="0x3AFF1B32" TextString="Scarecrow"/>
+    <TextStringDefinition InstanceID="0xCF5256A8" TextString="Skeleton"/>
+    <TextStringDefinition InstanceID="0x760EC7C9" TextString="Vampire"/>
+    <TextStringDefinition InstanceID="0xA3E400E6" TextString="Werewolf"/>
+    <TextStringDefinition InstanceID="0x2D55956A" TextString="Witch"/>
+    <TextStringDefinition InstanceID="0x846D3A8C" TextString="Household"/>
+    <TextStringDefinition InstanceID="0xC3AAF6A2" TextString="Non-Household"/>
+    <TextStringDefinition InstanceID="0x0EF5C39D" TextString="Currently Controlled"/>
+    <TextStringDefinition InstanceID="0xC04E5A9E" TextString="If selected, if a Sim is a Household Member (They appear at the bottom of the UI), they will be included."/>
+    <TextStringDefinition InstanceID="0xBF7B9D74" TextString="If selected, if a Sim is Currently Controlled by the Player (Has a plumbob above their head), they will be included."/>
+    <TextStringDefinition InstanceID="0xC07E9015" TextString="If selected, if a Sim is NOT a Household Member (They DO NOT appear at the bottom of the UI), they will be included."/>
+    <TextStringDefinition InstanceID="0xF7FE735C" TextString="If chosen, no options will be included."/>
+    <TextStringDefinition InstanceID="0x36CAAB74" TextString="If chosen, all options will be included."/>
+    <TextStringDefinition InstanceID="0x90F0B600" TextString="No Sims"/>
+    <TextStringDefinition InstanceID="0x6B670346" TextString="All Sims"/>
+    <TextStringDefinition InstanceID="0x1134087B" TextString="{0.SimFirstName} {0.SimLastName} cannot reach {1.SimFirstName} {1.SimLastName}."/>
+    <TextStringDefinition InstanceID="0x854F2F29" TextString="{0.SimFirstName} {0.SimLastName} already has this trait."/>
+    <TextStringDefinition InstanceID="0x663E6FD7" TextString="{0.SimFirstName} {0.SimLastName} does not have this trait."/>
+    <TextStringDefinition InstanceID="0x54860E10" TextString="Not Implemented"/>
+    <TextStringDefinition InstanceID="0x003EB432" TextString="Left"/>
+    <TextStringDefinition InstanceID="0xE816F049" TextString="Right"/>
+    <TextStringDefinition InstanceID="0x4B21A032" TextString="Front"/>
+    <TextStringDefinition InstanceID="0x5CF9CF48" TextString="Back"/>
+    <TextStringDefinition InstanceID="0x406CCC4A" TextString="Top"/>
+    <TextStringDefinition InstanceID="0xE864BA60" TextString="Bottom"/>
+    <TextStringDefinition InstanceID="0x5C770DAE" TextString="Up"/>
+    <TextStringDefinition InstanceID="0x87EDD469" TextString="Down"/>
+    <TextStringDefinition InstanceID="0x45C62969" TextString="Info"/>
+    <TextStringDefinition InstanceID="0xD0D04D65" TextString="Infant"/>
+    <TextStringDefinition InstanceID="0x8FF2738C" TextString="S4CL Main Trait (Human)"/>
+    <TextStringDefinition InstanceID="0xA1AE5A4C" TextString="S4CL Main Trait (Large Dog)"/>
+    <TextStringDefinition InstanceID="0x0FC85BE4" TextString="S4CL Main Trait (Small Dog)"/>
+    <TextStringDefinition InstanceID="0x514D1E59" TextString="S4CL Main Trait (Cat)"/>
+    <TextStringDefinition InstanceID="0x3A0E5DF8" TextString="S4CL Main Trait (Fox)"/>
+    <TextStringDefinition InstanceID="0x42586D60" TextString="S4CL Main Trait (Horse)"/>
+  </TextStringDefinitions>
+</StblData>
