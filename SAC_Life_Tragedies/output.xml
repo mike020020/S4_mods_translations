@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x7D90524F" TextString="人生悲剧 -MOD-"/>
+    <TextStringDefinition InstanceID="0x39769F43" TextString="-隐藏信息- 如果你是一名翻译者，非常感谢你花时间翻译我的模组。我允许完整翻译我的任何模组。当模组在Patreon上处于抢先体验阶段时，你只可以分享STBL翻译文件；当模组向公众免费发布后，你可以上传包含你的翻译的完整模组。再次感谢你，祝翻译顺利 ♥ "/>
+    <TextStringDefinition InstanceID="0x140BA127" TextString="人生悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA128" TextString="添加统计增益"/>
+    <TextStringDefinition InstanceID="0x140BA129" TextString="绑架市民"/>
+    <TextStringDefinition InstanceID="0x140BA130" TextString="车祸"/>
+    <TextStringDefinition InstanceID="0x140BA131" TextString="这个市民什么都见过了！{0.SimFirstName} 应该远离危险的境地。"/>
+    <TextStringDefinition InstanceID="0x140BA132" TextString="恐惧"/>
+    <TextStringDefinition InstanceID="0x140BA133" TextString="被绑架"/>
+    <TextStringDefinition InstanceID="0x140BA134" TextString="（来自人生悲剧）"/>
+    <TextStringDefinition InstanceID="0x140BA135" TextString="哦不！{0.SimFirstName} 被劫持了！{M0.他}{F0.她} 应该制定一个逃跑计划，报警会是个好主意。"/>
+    <TextStringDefinition InstanceID="0x140BA136" TextString="恐怖场景"/>
+    <TextStringDefinition InstanceID="0x140BA137" TextString="{0.SimFirstName} 正在被绑架！"/>
+    <TextStringDefinition InstanceID="0x140BA138" TextString="绑匪"/>
+    <TextStringDefinition InstanceID="0x140BA139" TextString="悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA140" TextString="绑匪"/>
+    <TextStringDefinition InstanceID="0x140BA141" TextString="恶霸"/>
+    <TextStringDefinition InstanceID="0x140BA142" TextString="武装劫匪"/>
+    <TextStringDefinition InstanceID="0x140BA143" TextString="患有致命疾病"/>
+    <TextStringDefinition InstanceID="0x140BA144" TextString="垂死"/>
+    <TextStringDefinition InstanceID="0x140BA145" TextString="（因患有致命疾病）"/>
+    <TextStringDefinition InstanceID="0x140BA146" TextString="{0.SimFirstName} 正度过{M0.他}{F0.她}最后的日子……此时最好的做法就是休息并与亲人道别。"/>
+    <TextStringDefinition InstanceID="0x140BA147" TextString="{0.SimFirstName} 因致命疾病而垂死。"/>
+    <TextStringDefinition InstanceID="0x140BA148" TextString="剩余生命"/>
+    <TextStringDefinition InstanceID="0x140BA149" TextString="{0.SimFirstName} 正因致命疾病而垂死，一旦这个进度条结束，你的市民的生命也将结束……"/>
+    <TextStringDefinition InstanceID="0x140BA150" TextString="&lt;font color = '#558DDD'&gt;给予致命疾病&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA151" TextString="&lt;font color = '#cc3333'&gt;移除致命疾病&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA152" TextString="选项"/>
+    <TextStringDefinition InstanceID="0x140BA153" TextString="因致命疾病死亡"/>
+    <TextStringDefinition InstanceID="0x140BA154" TextString="{0.SimName} 正因致命疾病而垂死……"/>
+    <TextStringDefinition InstanceID="0x140BA155" TextString="道别"/>
+    <TextStringDefinition InstanceID="0x140BA156" TextString="偷窃物品"/>
+    <TextStringDefinition InstanceID="0x140BA157" TextString="&lt;font color = '#cc3333'&gt;赶走窃贼！&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA158" TextString="&lt;font color = '#cc3333'&gt;失血过多&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA159" TextString="{0.SimFirstName} 被枪杀了！"/>
+    <TextStringDefinition InstanceID="0x140BA160" TextString="&lt;font color = '#a9bccb'&gt;垂死&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA161" TextString="痛苦中"/>
+    <TextStringDefinition InstanceID="0x140BA162" TextString="感觉不适"/>
+    <TextStringDefinition InstanceID="0x140BA163" TextString="（来自人生悲剧模组）"/>
+    <TextStringDefinition InstanceID="0x140BA164" TextString="{0.SimFirstName} 感觉不舒服，{M0.他}{F0.她} 可能生病了。"/>
+    <TextStringDefinition InstanceID="0x140BA165" TextString="&lt;font color = '#558DDD'&gt;给予致命疾病症状&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA166" TextString="&lt;font color = '#cc3333'&gt;移除疾病症状&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA167" TextString="发现疾病"/>
+    <TextStringDefinition InstanceID="0x140BA168" TextString="去医院检查"/>
+    <TextStringDefinition InstanceID="0x140BA169" TextString="与…一同去医院检查"/>
+    <TextStringDefinition InstanceID="0x140BA170" TextString="去医院"/>
+    <TextStringDefinition InstanceID="0x140BA171" TextString="致命疾病"/>
+    <TextStringDefinition InstanceID="0x140BA172" TextString="{0.SimFirstName} 因另一位市民患上致命疾病而感到不安。"/>
+    <TextStringDefinition InstanceID="0x140BA173" TextString="在医院进行手术 &lt;font color = '#cc3333'&gt;20% 成功率&lt;/font&gt; &lt;font color = '#42ecf5'&gt;“兔子洞”&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA174" TextString="与…一同在医院进行手术 &lt;font color = '#cc3333'&gt;20% 成功率&lt;/font&gt; &lt;font color = '#42ecf5'&gt;“兔子洞”&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA175" TextString="手术成功（致命疾病）"/>
+    <TextStringDefinition InstanceID="0x140BA176" TextString="恭喜 {0.SimFirstName} 的手术成功了！{0.SimFirstName} 已从致命疾病中痊愈。"/>
+    <TextStringDefinition InstanceID="0x140BA177" TextString="手术失败（致命疾病）"/>
+    <TextStringDefinition InstanceID="0x140BA178" TextString="不幸的是，{0.SimFirstName} 的手术失败了！{0.SimFirstName} 正度过{M0.他}{F0.她}最后的日子……此时最好的做法就是休息并与亲人道别。"/>
+    <TextStringDefinition InstanceID="0x140BA179" TextString="医生"/>
+    <TextStringDefinition InstanceID="0x140BA180" TextString="生成医生"/>
+    <TextStringDefinition InstanceID="0x140BA181" TextString="关键手术"/>
+    <TextStringDefinition InstanceID="0x140BA182" TextString="进行手术"/>
+    <TextStringDefinition InstanceID="0x140BA183" TextString="为市民庆祝"/>
+    <TextStringDefinition InstanceID="0x140BA184" TextString="哀悼市民"/>
+    <TextStringDefinition InstanceID="0x140BA185" TextString="不幸的是，{0.SimFirstName} 的手术失败了！尽管成功几率很低，{M0.他}{F0.她} 曾希望{M0.自己}{F0.自己}能够痊愈。"/>
+    <TextStringDefinition InstanceID="0x140BA186" TextString="为致命疾病哭泣"/>
+    <TextStringDefinition InstanceID="0x140BA187" TextString="真是个好消息！{0.SimFirstName} 的手术成功了！尽管成功几率很低！{0.SimFirstName} 为能有第二次生命机会而激动不已。"/>
+    <TextStringDefinition InstanceID="0x140BA188" TextString="庆祝手术成功"/>
+    <TextStringDefinition InstanceID="0x140BA189" TextString="悲伤的"/>
+    <TextStringDefinition InstanceID="0x140BA190" TextString="{0.SimFirstName} 刚刚目睹了一位患有致命疾病的市民，这样的悲剧会使{M0.他}{F0.她}在一段时间内情绪低落。"/>
+    <TextStringDefinition InstanceID="0x140BA191" TextString="心潮澎湃的"/>
+    <TextStringDefinition InstanceID="0x140BA192" TextString="{0.SimFirstName} 刚刚目睹了一位战胜致命疾病的市民，真是令人高兴！"/>
+    <TextStringDefinition InstanceID="0x140BA193" TextString="昏倒"/>
+    <TextStringDefinition InstanceID="0x140BA194" TextString="查看 {1.SimFirstName} 的状况"/>
+    <TextStringDefinition InstanceID="0x140BA195" TextString="手术室已准备好进行手术。"/>
+    <TextStringDefinition InstanceID="0x140BA196" TextString="等待手术完成"/>
+    <TextStringDefinition InstanceID="0x140BA197" TextString="致命疾病"/>
+    <TextStringDefinition InstanceID="0x140BA198" TextString="与…一同前往医院进行手术 &lt;font color = '#c47900'&gt;需要“来去上班”扩展包&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA199" TextString="独自前往医院进行手术 &lt;font color = '#c47900'&gt;需要“来去上班”扩展包&lt;/font&gt;"/> 
+    <TextStringDefinition InstanceID="0x140BA200" TextString="&lt;font color = '#558DDD'&gt;转变为&lt;/font&gt;武装劫匪"/>
+    <TextStringDefinition InstanceID="0x140BA201" TextString="&lt;font color = '#cc3333'&gt;移除身份&lt;/font&gt;武装劫匪"/>
+    <TextStringDefinition InstanceID="0x140BA202" TextString="射击市民"/>
+    <TextStringDefinition InstanceID="0x140BA203" TextString="威胁市民"/>
+    <TextStringDefinition InstanceID="0x140BA204" TextString="射杀成人 - 自动"/>
+    <TextStringDefinition InstanceID="0x140BA205" TextString="射杀儿童 - 自动"/>
+    <TextStringDefinition InstanceID="0x140BA206" TextString="射杀幼儿 - 自动"/>
+    <TextStringDefinition InstanceID="0x140BA207" TextString="武装劫匪！"/>
+    <TextStringDefinition InstanceID="0x140BA208" TextString="{0.SimFirstName} 刚刚目睹了一名武装劫匪！{M0.他}{F0.她} 应该远离他们，以免他们做出危险举动！"/>
+    <TextStringDefinition InstanceID="0x140BA209" TextString="受伤"/>
+    <TextStringDefinition InstanceID="0x140BA210" TextString="{0.SimFirstName} 受了致命伤！{M0.他}{F0.她} 需要紧急手术，否则将有生命危险！"/>
+    <TextStringDefinition InstanceID="0x140BA211" TextString="失血过多而死"/>
+    <TextStringDefinition InstanceID="0x140BA212" TextString="{0.SimFirstName} 正因失血过多而垂死！"/>
+    <TextStringDefinition InstanceID="0x140BA213" TextString="与…一同在医院进行手术 &lt;font color = '#cc3333'&gt;90% 成功率&lt;/font&gt; &lt;font color = '#42ecf5'&gt;“兔子洞”&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA214" TextString="在医院进行手术 &lt;font color = '#cc3333'&gt;90% 成功率&lt;/font&gt; &lt;font color = '#42ecf5'&gt;“兔子洞”&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA215" TextString="&lt;font color = '#558DDD'&gt;造成&lt;/font&gt;枪伤"/>
+    <TextStringDefinition InstanceID="0x140BA216" TextString="&lt;font color = '#cc3333'&gt;移除&lt;/font&gt;枪伤"/>
+    <TextStringDefinition InstanceID="0x140BA217" TextString="真是个好消息！{0.SimFirstName} 的手术成功了！{0.SimFirstName} 为能有第二次生命机会而激动不已。"/>
+    <TextStringDefinition InstanceID="0x140BA218" TextString="恭喜 {0.SimFirstName} 的手术成功了！{0.SimFirstName} 的伤口已经缝合。"/>
+    <TextStringDefinition InstanceID="0x140BA219" TextString="致命伤口"/>
+    <TextStringDefinition InstanceID="0x140BA220" TextString="不幸的是，{0.SimFirstName} 的手术失败了！尽管成功几率很高，但{M0.他}{F0.她}没有那么幸运能够痊愈。"/>
+    <TextStringDefinition InstanceID="0x140BA221" TextString="撬锁"/>
+    <TextStringDefinition InstanceID="0x140BA222" TextString="通过撬锁打开门。"/>
+    <TextStringDefinition InstanceID="0x140BA223" TextString="门已经打开了！"/>
+    <TextStringDefinition InstanceID="0x140BA224" TextString="武装劫匪！"/>
+    <TextStringDefinition InstanceID="0x140BA225" TextString="被赶出去！"/>
+    <TextStringDefinition InstanceID="0x140BA226" TextString="{0.SimFirstName} 被赶出了房子。"/>
+    <TextStringDefinition InstanceID="0x140BA227" TextString="呼吸新鲜空气"/>
+    <TextStringDefinition InstanceID="0x140BA228" TextString="{0.SimName} 正在被绑架！！！"/>
+    <TextStringDefinition InstanceID="0x140BA229" TextString="紧急警报！"/>
+    <TextStringDefinition InstanceID="0x140BA230" TextString="被绑架的市民"/>
+    <TextStringDefinition InstanceID="0x140BA231" TextString="召唤被绑架的市民"/>
+    <TextStringDefinition InstanceID="0x140BA232" TextString="前往被绑架市民的地点"/>
+    <TextStringDefinition InstanceID="0x140BA233" TextString="观察 {1.SimFirstName} 的状况"/>
+    <TextStringDefinition InstanceID="0x140BA234" TextString="被绑架的市民！"/>
+    <TextStringDefinition InstanceID="0x140BA235" TextString="{0.SimFirstName} 刚刚目睹了一名被绑架的市民！太可怕了。"/>
+    <TextStringDefinition InstanceID="0x140BA236" TextString="被绑匪迎接"/>
+    <TextStringDefinition InstanceID="0x140BA237" TextString="营救被绑架市民"/>
+    <TextStringDefinition InstanceID="0x140BA238" TextString="你已到达 {1.SimName} 被劫持的地点，支付绑匪要求的赎金数额，才能安全带 {1.SimName} 回家。"/>
+    <TextStringDefinition InstanceID="0x140BA239" TextString="马上付 §25000！否则你们俩都得死！"/>
+    <TextStringDefinition InstanceID="0x140BA240" TextString="钱呢？！"/>
+    <TextStringDefinition InstanceID="0x140BA241" TextString="再让我们等，我们就毙了你们俩！"/>
+    <TextStringDefinition InstanceID="0x140BA242" TextString="现在就把钱给我！"/>
+    <TextStringDefinition InstanceID="0x140BA243" TextString="时间一分一秒过去，你们的生命也一样……"/>
+    <TextStringDefinition InstanceID="0x140BA244" TextString="把那该死的钱给我们！"/>
+    <TextStringDefinition InstanceID="0x140BA245" TextString="家里有个市民被绑架了！他们去哪儿了？！"/>
+    <TextStringDefinition InstanceID="0x140BA246" TextString="市民被绑架了？！"/>
+    <TextStringDefinition InstanceID="0x140BA247" TextString="别担心，我们很快就会联系你！哈哈哈哈"/>
+    <TextStringDefinition InstanceID="0x140BA248" TextString="付钱赎回被绑架的市民"/>
+    <TextStringDefinition InstanceID="0x140BA249" TextString="移除跑路虚脱增益"/>
+    <TextStringDefinition InstanceID="0x140BA250" TextString="为 {1.SimFirstName} 哭泣（有几率治愈）"/>
+    <TextStringDefinition InstanceID="0x140BA251" TextString="因获救而被拥抱"/>
+    <TextStringDefinition InstanceID="0x140BA252" TextString="你来救我了……"/>
+    <TextStringDefinition InstanceID="0x140BA253" TextString="获救了！"/>
+    <TextStringDefinition InstanceID="0x140BA254" TextString="{0.SimFirstName} 从一次可怕的绑架中获救了！{M0.他}{F0.她} 应该好好休息，直到伤口愈合。"/>
+    <TextStringDefinition InstanceID="0x140BA255" TextString="安全归来！"/>
+    <TextStringDefinition InstanceID="0x140BA256" TextString="{0.SimFirstName} 因被绑架的市民获救并安全回家而激动不已。"/>
+    <TextStringDefinition InstanceID="0x140BA257" TextString="庆祝 {0.SimFirstName} 回归"/>
+    <TextStringDefinition InstanceID="0x140BA258" TextString="收到匿名信息"/>
+    <TextStringDefinition InstanceID="0x140BA259" TextString="别害怕，你爱的人安然无恙。"/>
+    <TextStringDefinition InstanceID="0x140BA260" TextString="也许我们应该从你家再绑一个？"/>
+    <TextStringDefinition InstanceID="0x140BA261" TextString="我们很快会联系你，如果报警，你爱的人就死定了！"/>
+    <TextStringDefinition InstanceID="0x140BA262" TextString="我希望你足够有钱来支付我们的要求。"/>
+    <TextStringDefinition InstanceID="0x140BA263" TextString="救命 .在fobvzxx被劫持..........."/>
+    <TextStringDefinition InstanceID="0x140BA264" TextString="别想通过信息定位我们，我们用的是一次性手机。"/>
+    <TextStringDefinition InstanceID="0x140BA265" TextString="咚咚咚，谁啊？你最可怕的噩梦！哈哈哈哈哈"/>
+    <TextStringDefinition InstanceID="0x140BA266" TextString="也许你爱的人身上多几道伤口会更好看？"/>
+    <TextStringDefinition InstanceID="0x140BA267" TextString="语音留言：救命啊！！！！我不知道我在哪里，我被绑架了\n \n神秘的声音：你他妈怎么拿到这个的？！*尖叫声*\n \n语音留言结束……"/>
+    <TextStringDefinition InstanceID="0x140BA268" TextString="联系绑匪"/>
+    <TextStringDefinition InstanceID="0x140BA269" TextString="如果你想再见到你爱的人，给我们寄 §5000，没人会受伤！\n \n你把钱寄过来后，我们会把见面地点发给你！\n \n汇款的信用卡号是 (377391148879644)"/>
+    <TextStringDefinition InstanceID="0x140BA270" TextString="转账 §5000 给绑匪"/>
+    <TextStringDefinition InstanceID="0x140BA271" TextString="很好，这是你接回你爱的人的地点：\n \n地点：（被遗忘的石窟的洞穴）\n \n哦，带上 §25000，这样就没人会受伤了！"/>
+    <TextStringDefinition InstanceID="0x140BA272" TextString="绑架"/>
+    <TextStringDefinition InstanceID="0x140BA273" TextString="治疗伤口"/>
+    <TextStringDefinition InstanceID="0x140BA274" TextString="{0.SimFirstName} 受了些轻伤，很快会自行愈合。"/>
+    <TextStringDefinition InstanceID="0x140BA275" TextString="恭喜 {1.SimFirstName} 已安全获救并返回你的家庭。"/>
+    <TextStringDefinition InstanceID="0x140BA276" TextString="此任务最近已完成，你必须等待2个市民小时才能再次执行，在此期间，你可以执行其他操作以继续。"/>
+    <TextStringDefinition InstanceID="0x140BA277" TextString="警察"/>
+    <TextStringDefinition InstanceID="0x140BA278" TextString="向警方报告绑架案"/>
+    <TextStringDefinition InstanceID="0x140BA279" TextString="911电话"/>
+    <TextStringDefinition InstanceID="0x140BA280" TextString="一辆警车已派往你当前位置，请与警官交谈并报告绑架事件。"/>
+    <TextStringDefinition InstanceID="0x140BA281" TextString="提交失踪人口报告"/>
+    <TextStringDefinition InstanceID="0x140BA282" TextString="你好，{M1.先生}{F1.女士}，请向我提供有关失踪人员的所需信息。"/>
+    <TextStringDefinition InstanceID="0x140BA283" TextString="报警"/>
+    <TextStringDefinition InstanceID="0x140BA284" TextString="一辆警车已派往你当前位置，请小心并尽量躲藏，直到警官到达。"/>
+    <TextStringDefinition InstanceID="0x140BA285" TextString="你好，{M1.先生}{F1.女士}，请远离现场，我们将处理情况。"/>
+    <TextStringDefinition InstanceID="0x140BA286" TextString="目前不需要警察。"/>
+    <TextStringDefinition InstanceID="0x140BA287" TextString="感谢你提供信息，一旦有任何线索，我们会尽快与你联系。"/>
+    <TextStringDefinition InstanceID="0x140BA288" TextString="克隆物品"/>
+    <TextStringDefinition InstanceID="0x140BA289" TextString="窃贼！"/>
+    <TextStringDefinition InstanceID="0x140BA290" TextString="调试"/>
+    <TextStringDefinition InstanceID="0x140BA291" TextString="手术成功（致命伤口）"/>
+    <TextStringDefinition InstanceID="0x140BA292" TextString="手术失败（致命伤口）"/>
+    <TextStringDefinition InstanceID="0x140BA293" TextString="&lt;font color = '#00c9bf'&gt;即将推出 10月7日至14日&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA294" TextString="在 {1.SimFirstName} 的怀里死去"/>
+    <TextStringDefinition InstanceID="0x140BA295" TextString="谈论致命疾病"/>
+    <TextStringDefinition InstanceID="0x140BA296" TextString="听 {1.SimFirstName} 说"/>
+    <TextStringDefinition InstanceID="0x140BA297" TextString="谈论绑架"/>
+    <TextStringDefinition InstanceID="0x140BA298" TextString="谈论入室盗窃"/>
+    <TextStringDefinition InstanceID="0x140BA299" TextString="谈论枪击事件"/>
+    <TextStringDefinition InstanceID="0x140BA300" TextString="尝试联系被绑架的市民"/>
+    <TextStringDefinition InstanceID="0x140BA301" TextString="电话已关机……\n \n {0.SimFirstName} 应该等待绑匪联系{M0.他}{F0.她}"/>
+    <TextStringDefinition InstanceID="0x140BA302" TextString="在社交媒体上发布关于绑架的帖子"/>
+    <TextStringDefinition InstanceID="0x140BA303" TextString="{0.SimFirstName} 已在社交媒体上发布了有关情况的帖子，希望有人能提供有用的信息。"/>
+    <TextStringDefinition InstanceID="0x140BA304" TextString="悲剧发生速度"/>
+    <TextStringDefinition InstanceID="0x140BA305" TextString="关"/>
+    <TextStringDefinition InstanceID="0x140BA306" TextString="慢"/>
+    <TextStringDefinition InstanceID="0x140BA307" TextString="正常"/>
+    <TextStringDefinition InstanceID="0x140BA308" TextString="快"/>
+    <TextStringDefinition InstanceID="0x140BA309" TextString="这是当前速度。"/>
+    <TextStringDefinition InstanceID="0x140BA310" TextString="在此存档文件中启用人生悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA311" TextString="自动悲剧事件现在将在此存档文件中的市民身上发生，你可以从模组选项中更改悲剧发生速度或将其关闭。"/>
+    <TextStringDefinition InstanceID="0x140BA312" TextString="在该地区发现窃贼，请锁好门。"/>
+    <TextStringDefinition InstanceID="0x140BA313" TextString="&lt;font color = '#558DDD'&gt;为此市民启用&lt;/font&gt;反应"/>
+    <TextStringDefinition InstanceID="0x140BA314" TextString="&lt;font color = '#cc3333'&gt;为此市民禁用&lt;/font&gt;反应"/>
+    <TextStringDefinition InstanceID="0x140BA316" TextString="取笑市民"/>
+    <TextStringDefinition InstanceID="0x140BA317" TextString="你为什么看起来像模拟人生1的市民？？？"/>
+    <TextStringDefinition InstanceID="0x140BA318" TextString="你一定是随机生成的……"/>
+    <TextStringDefinition InstanceID="0x140BA319" TextString="再多的自定义内容也无法让你看起来更好。"/>
+    <TextStringDefinition InstanceID="0x140BA320" TextString="该死！我差点射了你，我真的以为你是僵尸。"/>
+    <TextStringDefinition InstanceID="0x140BA321" TextString="像你这样的市民就是“极端暴力-MOD-”存在的原因。"/>
+    <TextStringDefinition InstanceID="0x140BA322" TextString="嘿，快到万圣节了，你非常适合今年的模组。"/>
+    <TextStringDefinition InstanceID="0x140BA323" TextString="你走路姿势怎么了？！笑死。"/>
+    <TextStringDefinition InstanceID="0x140BA324" TextString="你让斯特兰奇维尔的市民看起来都正常了。"/>
+    <TextStringDefinition InstanceID="0x140BA325" TextString="哦不，又一个自定义内容坏掉的市民。"/>
+    <TextStringDefinition InstanceID="0x140BA326" TextString="我不知道我们正在进行“淘汰丑陋基因”挑战。"/>
+    <TextStringDefinition InstanceID="0x140BA327" TextString="我打赌如果我碰你一下，你就会散架。"/>
+    <TextStringDefinition InstanceID="0x140BA328" TextString="你在钢管上跳舞只能赚到 §0.01 的小费。"/>
+    <TextStringDefinition InstanceID="0x140BA329" TextString="你真是个失败者。"/>
+    <TextStringDefinition InstanceID="0x140BA330" TextString="我希望玩家很快会在CAS里编辑你……我的意思是，天啊。"/>
+    <TextStringDefinition InstanceID="0x140BA331" TextString="被打倒！"/>
+    <TextStringDefinition InstanceID="0x140BA332" TextString="虚脱"/>
+    <TextStringDefinition InstanceID="0x140BA333" TextString="武装抢劫"/>
+    <TextStringDefinition InstanceID="0x140BA334" TextString="欺凌"/>
+    <TextStringDefinition InstanceID="0x140BA335" TextString="被欺负"/>
+    <TextStringDefinition InstanceID="0x140BA336" TextString="有些人天性邪恶，会无缘无故地欺负无辜的人……{0.SimFirstName} 真可悲。"/>
+    <TextStringDefinition InstanceID="0x140BA337" TextString="坐牢"/>
+    <TextStringDefinition InstanceID="0x140BA338" TextString="被逮捕"/>
+    <TextStringDefinition InstanceID="0x140BA339" TextString="{0.SimFirstName} 被车撞了！"/>
+    <TextStringDefinition InstanceID="0x140BA340" TextString="车祸死亡"/>
+    <TextStringDefinition InstanceID="0x140BA341" TextString="{0.SimFirstName} 是家庭中唯一成熟的市民，绑匪找不到人要钱。"/>
+    <TextStringDefinition InstanceID="0x140BA342" TextString="致命疾病"/>
+    <TextStringDefinition InstanceID="0x140BA343" TextString="&lt;font color = '#558DDD'&gt;给予&lt;/font&gt;“市民被从家庭中绑架”增益"/>
+    <TextStringDefinition InstanceID="0x140BA344" TextString="&lt;font color = '#cc3333'&gt;移除&lt;/font&gt;“市民被从家庭中绑架”增益"/>
+    <TextStringDefinition InstanceID="0x140BA345" TextString="&lt;font color = '#cc3333'&gt;赶走 {1.SimFirstName}！&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA346" TextString="打倒 {1.SimFirstName}"/>
+    <TextStringDefinition InstanceID="0x140BA347" TextString="你听说过健身房这种东西吗！？去练点肌肉吧，你这个软弱的#@$@！"/>
+    <TextStringDefinition InstanceID="0x140BA348" TextString="我想知道你不戴那顶假发会是什么样子。"/>
+    <TextStringDefinition InstanceID="0x140BA349" TextString="你他妈的丑得像坨屎！"/>
+    <TextStringDefinition InstanceID="0x140BA350" TextString="快跑，是新娘汉娜！！！！哦等等……"/>
+    <TextStringDefinition InstanceID="0x140BA351" TextString="我从没想过一个市民会比伊丽莎·煎饼更令人讨厌。"/>
+    <TextStringDefinition InstanceID="0x140BA352" TextString="你启发了我开始一个新的实况系列，叫做“社区里的丑陋失败者”。"/>
+    <TextStringDefinition InstanceID="0x140BA353" TextString="嘿，听听这个超赞的即兴说唱：“Boom boom tisk boom bo boom tisk, 这边的婊子会让你身陷险境”，很棒对吧？！"/>
+    <TextStringDefinition InstanceID="0x140BA354" TextString="愤怒的情绪是红色的，悲伤的情绪是蓝色的，你这么邋遢永远也找不到对象……"/>
+    <TextStringDefinition InstanceID="0x140BA355" TextString="向这个阿尔法贝塔B$@%屈服吧，喔喔喔喔喔喔喔！"/>
+    <TextStringDefinition InstanceID="0x140BA356" TextString="嘿，想不想来个四人约会？我们需要有人擦地板。"/>
+    <TextStringDefinition InstanceID="0x140BA357" TextString="我圣诞节只想要一些圣水！！！你是什么鬼东西？！搞什么"/>
+    <TextStringDefinition InstanceID="0x140BA358" TextString="恐吓"/>
+    <TextStringDefinition InstanceID="0x140BA359" TextString="取笑 {1.SimFirstName}"/>
+    <TextStringDefinition InstanceID="0x140BA360" TextString="&lt;font color = '#558DDD'&gt;为此市民添加&lt;/font&gt;“被绑架”特征"/>
+    <TextStringDefinition InstanceID="0x140BA361" TextString="&lt;font color = '#cc3333'&gt;为此市民移除&lt;/font&gt;“被绑架”特征"/>
+    <TextStringDefinition InstanceID="0x140BA362" TextString="放置电梯"/>
+    <TextStringDefinition InstanceID="0x140BA363" TextString="非常慢"/>
+    <TextStringDefinition InstanceID="0x140BA364" TextString="&lt;font color = '#558DDD'&gt;为此市民启用&lt;/font&gt;自动悲剧发生"/>
+    <TextStringDefinition InstanceID="0x140BA365" TextString="&lt;font color = '#cc3333'&gt;为此市民禁用&lt;/font&gt;自动悲剧发生"/>
+    <TextStringDefinition InstanceID="0x140BA366" TextString="{0.SimFirstName} 患有致命疾病！你可以从“人生悲剧”饼状菜单中的“致命疾病”饼状菜单将{M0.他}{F0.她}送往医院进行手术，以期治愈。"/>
+    <TextStringDefinition InstanceID="0x140BA367" TextString="威胁市民！"/>
+    <TextStringDefinition InstanceID="0x140BA368" TextString="让 {1.SimFirstName} 被绑架"/>
+    <TextStringDefinition InstanceID="0x140BA369" TextString="给予当前家庭“市民刚被绑架增益”"/>
+    <TextStringDefinition InstanceID="0x140BA370" TextString="非常快"/>
+    <TextStringDefinition InstanceID="0x140BA371" TextString="这块地上已经有警察了。"/>
+    <TextStringDefinition InstanceID="0x140BA372" TextString="送进监狱"/>
+    <TextStringDefinition InstanceID="0x140BA373" TextString="服刑中"/>
+    <TextStringDefinition InstanceID="0x140BA374" TextString="{0.SimFirstName} 正在监狱里为{M0.他}{F0.她}可怕的行为服刑，这个情绪指示器计时结束后{M0.他}{F0.她}将被送回家。"/>
+    <TextStringDefinition InstanceID="0x140BA375" TextString="逮捕中"/>
+    <TextStringDefinition InstanceID="0x140BA376" TextString="{0.SimFirstName} 正在被警察逮捕，{M0.他}{F0.她}将不得不在“Expanded Dongs”警察局服刑24小时。"/>
+    <TextStringDefinition InstanceID="0x140BA377" TextString="给予“服刑中”增益"/>
+    <TextStringDefinition InstanceID="0x140BA378" TextString="{0.SimFirstName} 因拒绝打扫厕所而被狱友殴打。"/>
+    <TextStringDefinition InstanceID="0x140BA379" TextString="监狱里有人散布谣言说 {0.SimFirstName} 是告密者！{M0.他}{F0.她}因此被狱友殴打！"/>
+    <TextStringDefinition InstanceID="0x140BA380" TextString="{0.SimFirstName} 为了一张床和狱友打起来了！"/>
+    <TextStringDefinition InstanceID="0x140BA381" TextString="做监狱杂活"/>
+    <TextStringDefinition InstanceID="0x140BA382" TextString="刑满释放"/>
+    <TextStringDefinition InstanceID="0x140BA383" TextString="{0.SimFirstName} 已从监狱释放。"/>
+    <TextStringDefinition InstanceID="0x140BA384" TextString="更改市民姓名 &lt;T&gt;&lt;!--隐藏的调试项目_无需翻译--&gt;&lt;/T&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA385" TextString="更改滑块 &lt;T&gt;&lt;!--隐藏的调试项目_无需翻译--&gt;&lt;/T&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA386" TextString="被囚禁（作为玩家你不应该看到这个——如果你能看到这个互动，说明出错了）"/>
+    <TextStringDefinition InstanceID="0x140BA387" TextString="合并家庭 &lt;T&gt;&lt;!--隐藏的调试项目_无需翻译--&gt;&lt;/T&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA388" TextString="给予绑匪增益 &lt;T&gt;&lt;!--隐藏的调试项目_无需翻译--&gt;&lt;/T&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA389" TextString="寻找爱情"/>
+    <TextStringDefinition InstanceID="0x140BA390" TextString="嘿，辣妹，你真有魅力，想不想出去约会？"/>
+    <TextStringDefinition InstanceID="0x140BA391" TextString="连环杀手"/>
+    <TextStringDefinition InstanceID="0x140BA392" TextString="诱惑情人"/>
+    <TextStringDefinition InstanceID="0x140BA393" TextString="书虫"/>
+    <TextStringDefinition InstanceID="0x140BA394" TextString="嗨，想不想一起玩？我们可以聊聊电子游戏和卡牌收藏。"/>
+    <TextStringDefinition InstanceID="0x140BA395" TextString="寻找朋友"/>
+    <TextStringDefinition InstanceID="0x140BA396" TextString="不受欢迎的书呆子"/>
+    <TextStringDefinition InstanceID="0x140BA397" TextString="{0.SimFirstName} 被谋杀了！"/>
+    <TextStringDefinition InstanceID="0x140BA398" TextString="在烈焰中燃烧！"/>
+    <TextStringDefinition InstanceID="0x140BA399" TextString="从自行车上射杀"/>
+    <TextStringDefinition InstanceID="0x140BA400" TextString="纵火案受害者"/>
+    <TextStringDefinition InstanceID="0x140BA401" TextString="火焰之子"/>
+    <TextStringDefinition InstanceID="0x140BA402" TextString="任何人都可以重新开始……\n不是通过爱，而是通过复仇……\n通过火焰，我们得以重生……\n复仇带来的和平终结一切。"/>
+    <TextStringDefinition InstanceID="0x140BA403" TextString="火焰构成"/>
+    <TextStringDefinition InstanceID="0x140BA404" TextString="大学教授"/>
+    <TextStringDefinition InstanceID="0x140BA405" TextString="渊博知识的唯一标志，是教学的力量。"/>
+    <TextStringDefinition InstanceID="0x140BA406" TextString="知识的力量"/>
+    <TextStringDefinition InstanceID="0x140BA407" TextString="{0.SimFirstName} 被谋杀了！"/>
+    <TextStringDefinition InstanceID="0x140BA408" TextString="大学教授"/>
+    <TextStringDefinition InstanceID="0x140BA409" TextString="保姆"/>
+    <TextStringDefinition InstanceID="0x140BA410" TextString="古怪保姆赞妮"/>
+    <TextStringDefinition InstanceID="0x140BA411" TextString="找工作"/>
+    <TextStringDefinition InstanceID="0x140BA412" TextString="你好，亲爱的，需要一位可爱的女士照顾孩子吗？我也可以提供家政服务，为你烹制你最喜欢的饭菜。"/>
+    <TextStringDefinition InstanceID="0x140BA413" TextString="抽香烟"/>
+    <TextStringDefinition InstanceID="0x140BA414" TextString="你好，{M1.先生}{F1.女士}，请向我们提供关于凶手的目击报告。"/>
+    <TextStringDefinition InstanceID="0x140BA415" TextString="感谢你的目击报告，我们将在该区域巡逻搜寻凶手。"/>
+    <TextStringDefinition InstanceID="0x140BA416" TextString="提交目击证词"/>
+    <TextStringDefinition InstanceID="0x140BA417" TextString="购买连环杀手海报和文件"/>
+    <TextStringDefinition InstanceID="0x140BA418" TextString="目击杀手！"/>
+    <TextStringDefinition InstanceID="0x140BA419" TextString="{0.SimFirstName} 刚刚目击了一名通缉杀手！也许{M0.他}{F0.她}应该远离他们并报警。"/>
+    <TextStringDefinition InstanceID="0x140BA420" TextString="{0.SimFirstName} 的物品栏里没有&lt;font color = '#c90000'&gt;（香烟）&lt;/font&gt;。"/>
+    <TextStringDefinition InstanceID="0x140BA421" TextString="接受约会邀请"/>
+    <TextStringDefinition InstanceID="0x140BA422" TextString="拒绝约会邀请"/>
+    <TextStringDefinition InstanceID="0x140BA423" TextString="接受聚会邀请"/>
+    <TextStringDefinition InstanceID="0x140BA424" TextString="拒绝聚会邀请"/>
+    <TextStringDefinition InstanceID="0x140BA425" TextString="让市民冷静下来"/>
+    <TextStringDefinition InstanceID="0x140BA426" TextString="取笑名言"/>
+    <TextStringDefinition InstanceID="0x140BA427" TextString="欣赏知识"/>
+    <TextStringDefinition InstanceID="0x140BA428" TextString="取笑知识"/>
+    <TextStringDefinition InstanceID="0x140BA429" TextString="接受服务提议"/>
+    <TextStringDefinition InstanceID="0x140BA430" TextString="拒绝服务提议"/>
+    <TextStringDefinition InstanceID="0x140BA431" TextString="烧死"/>
+    <TextStringDefinition InstanceID="0x140BA432" TextString="谋杀！！！"/>
+    <TextStringDefinition InstanceID="0x140BA433" TextString="快逃到安全的地方！！"/>
+    <TextStringDefinition InstanceID="0x140BA434" TextString="刺喉"/>
+    <TextStringDefinition InstanceID="0x140BA435" TextString="焚烧该区域"/>
+    <TextStringDefinition InstanceID="0x140BA436" TextString="中毒了！"/>
+    <TextStringDefinition InstanceID="0x140BA437" TextString="{0.SimFirstName} 因吃了一个可疑的苹果而中毒，已经没有时间挽救{M0.他}{F0.她}的生命了。"/>
+    <TextStringDefinition InstanceID="0x140BA438" TextString="收到苹果"/>
+    <TextStringDefinition InstanceID="0x140BA439" TextString="{0.SimFirstName} 因中毒死亡。"/>
+    <TextStringDefinition InstanceID="0x140BA440" TextString="毫不留情"/>
+    <TextStringDefinition InstanceID="0x140BA441" TextString="{0.SimFirstName} 的物品栏里没有&lt;font color = '#c90000'&gt;（火焰喷射器）&lt;/font&gt;。"/>
+    <TextStringDefinition InstanceID="0x140BA442" TextString="买凶杀人"/>
+    <TextStringDefinition InstanceID="0x140BA443" TextString="谋杀"/>
+    <TextStringDefinition InstanceID="0x140BA444" TextString="从自行车上射杀"/>
+    <TextStringDefinition InstanceID="0x140BA445" TextString="用钢笔刺杀"/>
+    <TextStringDefinition InstanceID="0x140BA446" TextString="用尿布窒息"/>
+    <TextStringDefinition InstanceID="0x140BA447" TextString="给予毒苹果"/>
+    <TextStringDefinition InstanceID="0x140BA448" TextString="杀人犯"/>
+    <TextStringDefinition InstanceID="0x140BA449" TextString="{0.SimFirstName} 结束了另一个市民的生命，{M0.他}{F0.她} 应该远离警察以避免被捕。"/>
+    <TextStringDefinition InstanceID="0x140BA450" TextString="启用/禁用某些悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA451" TextString="&lt;font color = '#cc3333'&gt;禁用&lt;/font&gt;“绑架”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA452" TextString="&lt;font color = '#558DDD'&gt;启用&lt;/font&gt;“绑架”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA453" TextString="&lt;font color = '#cc3333'&gt;禁用&lt;/font&gt;“连环杀手”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA454" TextString="&lt;font color = '#558DDD'&gt;启用&lt;/font&gt;“连环杀手”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA455" TextString="&lt;font color = '#cc3333'&gt;禁用&lt;/font&gt;“武装劫匪”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA456" TextString="&lt;font color = '#558DDD'&gt;启用&lt;/font&gt;“武装劫匪”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA457" TextString="&lt;font color = '#cc3333'&gt;禁用&lt;/font&gt;“致命疾病”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA458" TextString="&lt;font color = '#558DDD'&gt;启用&lt;/font&gt;“致命疾病”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA459" TextString="&lt;font color = '#cc3333'&gt;禁用&lt;/font&gt;“恶霸”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA460" TextString="&lt;font color = '#558DDD'&gt;启用&lt;/font&gt;“恶霸”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA461" TextString="&lt;font color = '#cc3333'&gt;禁用&lt;/font&gt;“车祸”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA462" TextString="&lt;font color = '#558DDD'&gt;启用&lt;/font&gt;“车祸”悲剧"/>
+    <TextStringDefinition InstanceID="0x140BA463" TextString="为此市民"/>
+    <TextStringDefinition InstanceID="0x140BA464" TextString="擦掉&lt;font color = '#cc3333'&gt;血迹&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA465" TextString="将市民绑架到洞穴"/>
+    <TextStringDefinition InstanceID="0x140BA466" TextString="在枪口下绑架市民"/>
+    <TextStringDefinition InstanceID="0x140BA467" TextString="折磨"/>
+    <TextStringDefinition InstanceID="0x140BA468" TextString="举起并用砍刀刺入腹部"/>
+    <TextStringDefinition InstanceID="0x140BA469" TextString="推倒在地并从背后刺伤"/>
+    <TextStringDefinition InstanceID="0x140BA470" TextString="将头部撞向地面"/>
+    <TextStringDefinition InstanceID="0x140BA471" TextString="用砍刀刺入腹部"/>
+    <TextStringDefinition InstanceID="0x140BA472" TextString="从背后用刀刺入腹部"/>
+    <TextStringDefinition InstanceID="0x140BA473" TextString="从背后勒死"/>
+    <TextStringDefinition InstanceID="0x140BA474" TextString="从背后用枪处决"/>
+    <TextStringDefinition InstanceID="0x140BA475" TextString="连环杀手"/>
+    <TextStringDefinition InstanceID="0x140BA476" TextString="杰森·沃尔希"/>
+    <TextStringDefinition InstanceID="0x140BA477" TextString="露营者"/>
+    <TextStringDefinition InstanceID="0x140BA478" TextString="向家庭成员索要赎金"/>
+    <TextStringDefinition InstanceID="0x140BA479" TextString="好的！我们马上转钱！请不要伤害他们！"/>
+    <TextStringDefinition InstanceID="0x140BA480" TextString="家庭成员"/>
+    <TextStringDefinition InstanceID="0x140BA481" TextString="恐吓家庭成员"/>
+    <TextStringDefinition InstanceID="0x140BA482" TextString="恳求自由"/>
+    <TextStringDefinition InstanceID="0x140BA483" TextString="给市民下药"/>
+    <TextStringDefinition InstanceID="0x140BA484" TextString="洗脑"/>
+    <TextStringDefinition InstanceID="0x140BA485" TextString="{0.SimFirstName} 必须等到绑匪给{M0.他}{F0.她}发短信后才能联系他们。"/>
+    <TextStringDefinition InstanceID="0x140BA486" TextString="被绑架"/>
+    <TextStringDefinition InstanceID="0x140BA487" TextString="为防止引发或重现现实生活中的悲剧事件，学校内已禁用此互动，感谢理解。"/>
+    <TextStringDefinition InstanceID="0x140BA488" TextString="&lt;font color = '#cc3333'&gt;为此市民移除&lt;/font&gt;“被绑架”特征并添加到家庭"/>
+    <TextStringDefinition InstanceID="0x140BA489" TextString="强制添加到家庭 &lt;font size=&quot;10&quot;&gt;&lt;font color='#a80303'&gt;忽略最多8个市民的限制&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA490" TextString="目击谋杀！"/>
+    <TextStringDefinition InstanceID="0x140BA491" TextString="{0.SimFirstName} 刚刚目击了一场谋杀！也许{M0.他}{F0.她}应该远离现场并报警。"/>
+    <TextStringDefinition InstanceID="0x140BA492" TextString="杀手！"/>
+    <TextStringDefinition InstanceID="0x140BA493" TextString="{0.String} &lt;font size=&quot;10&quot;&gt;&lt;font color='#7d5bba'&gt;（这是当前速度）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA494" TextString="&lt;font color = '#02ab0a'&gt;保护&lt;/font&gt;市民免遭谋杀/死亡 &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;（默认：不保护）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA495" TextString="&lt;font color = '#db1102'&gt;不保护&lt;/font&gt;市民免遭谋杀/死亡 &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;（默认：不保护）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA496" TextString="死亡保护&lt;font size=&quot;10&quot;&gt;&lt;font color='#7d5bba'&gt;（人生悲剧）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA497" TextString="此市民受到保护，不会因人生悲剧模组而死亡。"/>
+    <TextStringDefinition InstanceID="0x140BA498" TextString="根据模组选项，此市民受到保护，不会因人生悲剧模组而死亡。"/>
+    <TextStringDefinition InstanceID="0x140BA499" TextString="要求支付款项"/>
+    <TextStringDefinition InstanceID="0x140BA500" TextString="跟随医生"/>
+    <TextStringDefinition InstanceID="0x140BA501" TextString="&lt;font color = '#02ab0a'&gt;为&lt;/font&gt;&lt;font size=&quot;12&quot;&gt;&lt;font color = '#0495d9'&gt;*市民选择器*&lt;/font&gt;&lt;/font&gt;&lt;font color = '#02ab0a'&gt;启用&lt;/font&gt;反应 &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;（默认：启用）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x140BA502" TextString="&lt;font color = '#db1102'&gt;为&lt;/font&gt;&lt;font size=&quot;12&quot;&gt;&lt;font color = '#0495d9'&gt;*市民选择器*&lt;/font&gt;&lt;/font&gt;&lt;font color = '#db1102'&gt;禁用&lt;/font&gt;反应 &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;（默认：启用）&lt;/font&gt;&lt;/font&gt;"/>
+ </TextStringDefinitions>
+</StblData>
