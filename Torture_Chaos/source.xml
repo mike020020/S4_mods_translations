@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x2197D23D" TextString="The Book Of Chaos BOC"/>
+    <TextStringDefinition InstanceID="0x9A4F83F0" TextString="Torture &amp; cause chaos to those who are unworthy to live."/>
+    <TextStringDefinition InstanceID="0x4EC64383" TextString="The Book Of Chaos"/>
+    <TextStringDefinition InstanceID="0x1FAD8D83" TextString="Torture &amp; cause chaos to those who are un-worthy to live !"/>
+    <TextStringDefinition InstanceID="0x3E05A9A7" TextString="Throw Poisoned Drink At"/>
+    <TextStringDefinition InstanceID="0x605ADCF9" TextString="Be Poisoned"/>
+    <TextStringDefinition InstanceID="0xD417E237" TextString="The Kiss Of Death"/>
+    <TextStringDefinition InstanceID="0x215B1C2B" TextString="The Kiss Of Flames"/>
+    <TextStringDefinition InstanceID="0x957BA75B" TextString="Burn Sim"/>
+    <TextStringDefinition InstanceID="0xAA3FE07D" TextString="Freeze Sim"/>
+    <TextStringDefinition InstanceID="0x868B78B0" TextString="Give A Heart Attack To"/>
+    <TextStringDefinition InstanceID="0x5CA3C03E" TextString="Electrocute A Sim"/>
+    <TextStringDefinition InstanceID="0xC7EDCF58" TextString="Make Sim Streak"/>
+    <TextStringDefinition InstanceID="0x4D1812D3" TextString="Get A Sim Abducted"/>
+    <TextStringDefinition InstanceID="0x9B664D40" TextString="Drown A Sim In Pee"/>
+    <TextStringDefinition InstanceID="0x93AFD964" TextString="Make A Sim Puke"/>
+    <TextStringDefinition InstanceID="0x3027E645" TextString="Embarrass A Sim To Death"/>
+    <TextStringDefinition InstanceID="0xCBB4A8F5" TextString="Make A Sim Pee Self"/>
+    <TextStringDefinition InstanceID="0x5A3205B2" TextString="Start Chaos To"/>
+    <TextStringDefinition InstanceID="0x68D9D23E" TextString="What Just Happened?"/>
+    <TextStringDefinition InstanceID="0x98777F87" TextString="That was strange, I felt something take over me."/>
+    <TextStringDefinition InstanceID="0x09DB4E4C" TextString="From Being Targeted"/>
+    <TextStringDefinition InstanceID="0xF250D24E" TextString="That Felt Good!"/>
+    <TextStringDefinition InstanceID="0x670BC1F7" TextString="It's always fun to mess with Sims, especially the ones You hate "/>
+    <TextStringDefinition InstanceID="0xCA874B63" TextString="From Messing With A Sim"/>
+    <TextStringDefinition InstanceID="0xDDC95E93" TextString="Torture &amp; Chaos"/>
+    <TextStringDefinition InstanceID="0xF3A92B63" TextString="{0.SimName} has lived a good life, but {M0.his}{F0.her} time has finally come. {M0.He}{F0.She} is dying of overheating."/>
+    <TextStringDefinition InstanceID="0xB5EB5222" TextString="{0.SimName} is dying from a heart attack!"/>
+    <TextStringDefinition InstanceID="0x6772281C" TextString="From Sad Events"/>
+    <TextStringDefinition InstanceID="0xF3ADA7F2" TextString="Read Sad Memories"/>
+    <TextStringDefinition InstanceID="0x33FE645B" TextString="Depressed"/>
+    <TextStringDefinition InstanceID="0x32610DF4" TextString="{0.SimName} Is in a very dark place right now, everything in life looks black in {M0.his}{F0.her} eyes."/>
+    <TextStringDefinition InstanceID="0xD1BCD9A7" TextString="Sad Sim"/>
+    <TextStringDefinition InstanceID="0xB8550B08" TextString="Seeing that sim's sadness touched My heart, I wish I could help them somehow"/>
+    <TextStringDefinition InstanceID="0xA303787E" TextString="Make A Sim Depressed"/>
+    <TextStringDefinition InstanceID="0xBB61796A" TextString="Get Depressed"/>
+    <TextStringDefinition InstanceID="0x5CD9E5D3" TextString="Torture &amp; Chaos"/>
+    <TextStringDefinition InstanceID="0x2E40354A" TextString="Torture A Sim"/>
+    <TextStringDefinition InstanceID="0x952F73FB" TextString="Fight Everyone!!!"/>
+    <TextStringDefinition InstanceID="0xBE876914" TextString="Everyone SUCKS!!! ARGHHHH!!  BLAAAAARGH!!!!!!!"/>
+    <TextStringDefinition InstanceID="0xCDA45F5C" TextString="Spread Hatred"/>
+    <TextStringDefinition InstanceID="0x6524C7C0" TextString="End Criminal Partnership!"/>
+    <TextStringDefinition InstanceID="0x3B575FAA" TextString="Ask To Be Partners In Crime"/>
+    <TextStringDefinition InstanceID="0x63686FB5" TextString="{0.SimName} is no longer a partner in crime with a holder of &quot;The Book Of Chaos&quot; &amp; will now be scared of their mischief actions"/>
+    <TextStringDefinition InstanceID="0x6E4DF8AB" TextString="{0.SimName} has become a partner in crime with a holder of &quot;The Book Of Chaos&quot; &amp; will now cheer their mischief actions"/>
+  </TextStringDefinitions>
+</StblData>
