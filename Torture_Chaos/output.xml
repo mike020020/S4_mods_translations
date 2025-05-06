@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x2197D23D" TextString="混沌之书 BOC"/>
+    <TextStringDefinition InstanceID="0x9A4F83F0" TextString="折磨并给那些不配活着的人制造混乱。"/>
+    <TextStringDefinition InstanceID="0x4EC64383" TextString="混沌之书"/>
+    <TextStringDefinition InstanceID="0x1FAD8D83" TextString="折磨并给那些不配活着的人制造混乱！"/>
+    <TextStringDefinition InstanceID="0x3E05A9A7" TextString="朝…扔毒饮料"/>
+    <TextStringDefinition InstanceID="0x605ADCF9" TextString="被下毒"/>
+    <TextStringDefinition InstanceID="0xD417E237" TextString="死亡之吻"/>
+    <TextStringDefinition InstanceID="0x215B1C2B" TextString="火焰之吻"/>
+    <TextStringDefinition InstanceID="0x957BA75B" TextString="烧死市民"/>
+    <TextStringDefinition InstanceID="0xAA3FE07D" TextString="冻住市民"/>
+    <TextStringDefinition InstanceID="0x868B78B0" TextString="让…心脏病发作"/>
+    <TextStringDefinition InstanceID="0x5CA3C03E" TextString="电击一个市民"/>
+    <TextStringDefinition InstanceID="0xC7EDCF58" TextString="让市民裸奔"/>
+    <TextStringDefinition InstanceID="0x4D1812D3" TextString="让一个市民被绑架"/>
+    <TextStringDefinition InstanceID="0x9B664D40" TextString="在尿液中淹死一个市民"/>
+    <TextStringDefinition InstanceID="0x93AFD964" TextString="让一个市民呕吐"/>
+    <TextStringDefinition InstanceID="0x3027E645" TextString="让一个市民尴尬至死"/>
+    <TextStringDefinition InstanceID="0xCBB4A8F5" TextString="让一个市民尿裤子"/>
+    <TextStringDefinition InstanceID="0x5A3205B2" TextString="开始对…制造混乱"/>
+    <TextStringDefinition InstanceID="0x68D9D23E" TextString="刚才发生了什么？"/>
+    <TextStringDefinition InstanceID="0x98777F87" TextString="那很奇怪，我感觉有什么东西控制了我。"/>
+    <TextStringDefinition InstanceID="0x09DB4E4C" TextString="（因成为目标）"/>
+    <TextStringDefinition InstanceID="0xF250D24E" TextString="感觉真好！"/>
+    <TextStringDefinition InstanceID="0x670BC1F7" TextString="捉弄市民总是很有趣，尤其是那些你讨厌的。"/>
+    <TextStringDefinition InstanceID="0xCA874B63" TextString="（因捉弄市民）"/>
+    <TextStringDefinition InstanceID="0xDDC95E93" TextString="折磨与混乱"/>
+    <TextStringDefinition InstanceID="0xF3A92B63" TextString="{0.SimName} 度过了美好的一生，但{M0.他}{F0.她}的时间终于到了。{M0.他}{F0.她}正死于过热。"/>
+    <TextStringDefinition InstanceID="0xB5EB5222" TextString="{0.SimName} 正死于心脏病发作！"/>
+    <TextStringDefinition InstanceID="0x6772281C" TextString="（因悲伤事件）"/>
+    <TextStringDefinition InstanceID="0xF3ADA7F2" TextString="阅读悲伤记忆"/>
+    <TextStringDefinition InstanceID="0x33FE645B" TextString="沮丧"/>
+    <TextStringDefinition InstanceID="0x32610DF4" TextString="{0.SimName} 现在心情非常低落，生活中的一切在{M0.他}{F0.她}眼中都是黑色的。"/>
+    <TextStringDefinition InstanceID="0xD1BCD9A7" TextString="悲伤的市民"/>
+    <TextStringDefinition InstanceID="0xB8550B08" TextString="看到那个市民的悲伤触动了我的心，我希望我能以某种方式帮助他们。"/>
+    <TextStringDefinition InstanceID="0xA303787E" TextString="让一个市民沮丧"/>
+    <TextStringDefinition InstanceID="0xBB61796A" TextString="变得沮丧"/>
+    <TextStringDefinition InstanceID="0x5CD9E5D3" TextString="折磨与混乱"/>
+    <TextStringDefinition InstanceID="0x2E40354A" TextString="折磨一个市民"/>
+    <TextStringDefinition InstanceID="0x952F73FB" TextString="跟所有人打架！！！"/>
+    <TextStringDefinition InstanceID="0xBE876914" TextString="所有人都糟透了！！！啊啊啊啊啊！！ 啊啊啊啊啊啊啊啊！！！！！！！"/>
+    <TextStringDefinition InstanceID="0xCDA45F5C" TextString="散播仇恨"/>
+    <TextStringDefinition InstanceID="0x6524C7C0" TextString="结束犯罪伙伴关系！"/>
+    <TextStringDefinition InstanceID="0x3B575FAA" TextString="请求成为犯罪伙伴"/>
+    <TextStringDefinition InstanceID="0x63686FB5" TextString="{0.SimName} 不再是“混沌之书”持有者的犯罪伙伴，并且现在会害怕他们的恶作剧行为。"/>
+    <TextStringDefinition InstanceID="0x6E4DF8AB" TextString="{0.SimName} 已成为“混沌之书”持有者的犯罪伙伴，并且现在会为他们的恶作剧行为欢呼。"/>
+  </TextStringDefinitions>
+</StblData>
