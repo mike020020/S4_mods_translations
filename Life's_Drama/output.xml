@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x87EE3105" TextString="生活戏剧"/>
+    <TextStringDefinition InstanceID="0x87EE3103" TextString="{0.SimFirstName} 说服了 {1.SimFirstName} 离开{M1.他的}{F1.她的}另一半！"/>
+    <TextStringDefinition InstanceID="0x87EE3104" TextString="{0.SimFirstName} 未能说服 {1.SimFirstName} 离开{M1.他的}{F1.她的}另一半！"/>
+    <TextStringDefinition InstanceID="0x87EE3107" TextString="揭发爱人"/>
+    <TextStringDefinition InstanceID="0x87EE3108" TextString="{0.SimFirstName} 应该揭发谁？"/>
+    <TextStringDefinition InstanceID="0x65CCC667" TextString="一对约会的情侣"/>
+    <TextStringDefinition InstanceID="0x65CCC668" TextString="情侣分手事件"/>
+    <TextStringDefinition InstanceID="0x65CCC669" TextString="一对约会的情侣 2"/>
+    <TextStringDefinition InstanceID="0x65CCC670" TextString="新郎"/>
+    <TextStringDefinition InstanceID="0x65CCC671" TextString="落跑新娘"/>
+    <TextStringDefinition InstanceID="0x65CCC672" TextString="落跑新娘事件"/>
+    <TextStringDefinition InstanceID="0x65CCC673" TextString="调情情侣事件"/>
+    <TextStringDefinition InstanceID="0x65CCC674" TextString="此事件已在运行中。"/>
+    <TextStringDefinition InstanceID="0x65CCC675" TextString="求婚情侣事件"/>
+    <TextStringDefinition InstanceID="0x65CCC676" TextString="出轨者"/>
+    <TextStringDefinition InstanceID="0x65CCC677" TextString="被出轨者"/>
+    <TextStringDefinition InstanceID="0x65CCC678" TextString="出轨者的另一半"/>
+    <TextStringDefinition InstanceID="0x65CCC679" TextString="揭发小三事件"/>
+    <TextStringDefinition InstanceID="0x65CCC680" TextString="出轨者的秘密情人"/>
+    <TextStringDefinition InstanceID="0x65CCC681" TextString="帮派成员"/>
+    <TextStringDefinition InstanceID="0x65CCC682" TextString="受害者"/>
+    <TextStringDefinition InstanceID="0x65CCC683" TextString="帮派集结事件"/>
+    <TextStringDefinition InstanceID="0x65CCC684" TextString="捣蛋鬼"/>
+    <TextStringDefinition InstanceID="0x65CCC685" TextString="熊孩子捣蛋事件"/>
+    <TextStringDefinition InstanceID="0x65CCC686" TextString="走失的幼儿"/>
+    <TextStringDefinition InstanceID="0x65CCC687" TextString="走失幼儿的父母"/>
+    <TextStringDefinition InstanceID="0x65CCC688" TextString="你有没有看到一个到处乱跑的幼儿？我的宝贝丢了！！"/>
+    <TextStringDefinition InstanceID="0x65CCC689" TextString="幼儿走失事件"/>
+    <TextStringDefinition InstanceID="0x65CCC690" TextString=" 通知父母"/>
+    <TextStringDefinition InstanceID="0x65CCC691" TextString="市民着火事件"/>
+    <TextStringDefinition InstanceID="0x65CCC692" TextString="着火的市民"/>
+    <TextStringDefinition InstanceID="0x65CCC693" TextString="市民分娩事件"/>
+    <TextStringDefinition InstanceID="0x65CCC694" TextString="怀孕 - 阵痛中"/>
+    <TextStringDefinition InstanceID="0x65CCC695" TextString=" 送往医院"/>
+    <TextStringDefinition InstanceID="0x65CCC696" TextString="在医院"/>
+    <TextStringDefinition InstanceID="0x65CCC697" TextString="{0.SimFirstName} 因帮助该市民而获得奖励。"/>
+    <TextStringDefinition InstanceID="0x65CCC698" TextString="劫匪"/>
+    <TextStringDefinition InstanceID="0x65CCC699" TextString="劫匪事件"/>
+    <TextStringDefinition InstanceID="0x65CCC700" TextString="选项"/>
+    <TextStringDefinition InstanceID="0x65CCC701" TextString="在此市民周围启用戏剧性事件"/>
+    <TextStringDefinition InstanceID="0x65CCC702" TextString="在此市民周围禁用戏剧性事件"/>
+    <TextStringDefinition InstanceID="0x65CCC703" TextString="太感谢你了！你救了我的命！"/>
+    <TextStringDefinition InstanceID="0x65CCC704" TextString="为此市民禁用反应"/>
+    <TextStringDefinition InstanceID="0x65CCC705" TextString="为此市民启用反应"/>
+    <TextStringDefinition InstanceID="0x65CCC706" TextString="对晕倒的市民作出反应"/>
+    <TextStringDefinition InstanceID="0x65CCC707" TextString=" 归还偷来的钱"/>
+    <TextStringDefinition InstanceID="0xF902CDC9" TextString="让 {1.SimFirstName} 离开"/>
+    <TextStringDefinition InstanceID="0x65CCC708" TextString="*隐藏* V 2.0 字符串从下方开始"/>
+    <TextStringDefinition InstanceID="0x65CCC709" TextString="“羽毛帮”女王"/>
+    <TextStringDefinition InstanceID="0x65CCC710" TextString="“羽毛帮”"/>
+    <TextStringDefinition InstanceID="0x65CCC711" TextString="“羽毛帮”成员"/>
+    <TextStringDefinition InstanceID="0x65CCC712" TextString="社交声望"/>
+    <TextStringDefinition InstanceID="0x65CCC713" TextString="{0.SimFirstName} 的声望是 ({1.Number})。"/>
+    <TextStringDefinition InstanceID="0x65CCC714" TextString="（来自生活戏剧）"/>
+    <TextStringDefinition InstanceID="0x65CCC715" TextString="{0.SimFirstName} 的社交声望达到了新水平，这将开启新的社交可能性。"/>
+    <TextStringDefinition InstanceID="0x65CCC716" TextString="查看社交声望状态"/>
+    <TextStringDefinition InstanceID="0x65CCC717" TextString="接受整形手术 &lt;font color = '#E22DE7'&gt;(+20 SP ☆)&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC718" TextString="恢复时间"/>
+    <TextStringDefinition InstanceID="0x65CCC719" TextString="{0.SimFirstName} 必须等待一段时间，直到{M0.他}{F0.她}手术后的瘀伤痊愈。这会很困难，但结果是值得的。"/>
+    <TextStringDefinition InstanceID="0x65CCC720" TextString="手术完成"/>
+    <TextStringDefinition InstanceID="0x65CCC721" TextString="{0.SimFirstName} 必须等待一段时间，直到{M0.他}{F0.她}手术后的瘀伤痊愈。这会很困难，但结果是值得的。"/>
+    <TextStringDefinition InstanceID="0x65CCC722" TextString="惊艳！"/>
+    <TextStringDefinition InstanceID="0x65CCC723" TextString="多亏了整形手术，{0.SimFirstName} 现在看起来比以往任何时候都好！"/>
+    <TextStringDefinition InstanceID="0x65CCC724" TextString="正在进行手术"/>
+    <TextStringDefinition InstanceID="0x65CCC725" TextString="{0.SimFirstName} 正在接受手术，以焕然一新！"/>
+    <TextStringDefinition InstanceID="0x65CCC726" TextString="接受整形手术"/>
+    <TextStringDefinition InstanceID="0x65CCC727" TextString="打架 &lt;font color = '#E22DE7'&gt;(+10 SP ☆ ) &lt;/font&gt; 或 &lt;font color = '#940A0A'&gt;(-10 SP ☆ ) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC728" TextString="社交戏剧"/>
+    <TextStringDefinition InstanceID="0x65CCC729" TextString="获得社交戏剧技能"/>
+    <TextStringDefinition InstanceID="0x65CCC730" TextString="达到社交戏剧等级2"/>
+    <TextStringDefinition InstanceID="0x65CCC731" TextString="达到社交戏剧等级3"/>
+    <TextStringDefinition InstanceID="0x65CCC732" TextString="达到社交戏剧等级4"/>
+    <TextStringDefinition InstanceID="0x65CCC733" TextString="达到社交戏剧等级5"/>
+    <TextStringDefinition InstanceID="0x65CCC734" TextString="社交戏剧技能描述等级1"/>
+    <TextStringDefinition InstanceID="0x65CCC735" TextString="社交戏剧技能描述等级2"/>
+    <TextStringDefinition InstanceID="0x65CCC736" TextString="社交戏剧技能描述等级3"/>
+    <TextStringDefinition InstanceID="0x65CCC737" TextString="社交戏剧技能描述等级4"/>
+    <TextStringDefinition InstanceID="0x65CCC738" TextString="社交戏剧技能描述等级5"/>
+    <TextStringDefinition InstanceID="0x65CCC739" TextString="通过收集最劲爆的戏剧性事件和传播最热门的八卦来揭露市民并毁掉他们的生活！"/>
+    <TextStringDefinition InstanceID="0x65CCC740" TextString="阅读肮脏市民八卦 &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC741" TextString="肮脏市民八卦"/>
+    <TextStringDefinition InstanceID="0x65CCC742" TextString="有人看见 {2.SimName} 从一个无家可归的市民那里偷东西。"/>
+    <TextStringDefinition InstanceID="0x65CCC743" TextString="有人看见 {2.SimName} 打了一个小孩。"/>
+    <TextStringDefinition InstanceID="0x65CCC744" TextString="有人举报 {2.SimName} 试图强迫{M2.他}{F2.她}们。"/>
+    <TextStringDefinition InstanceID="0x65CCC745" TextString="一家餐厅举报 {2.SimName} 试图吃霸王餐。"/>
+    <TextStringDefinition InstanceID="0x65CCC746" TextString="{2.SimName} 曾因逃税入狱。"/>
+    <TextStringDefinition InstanceID="0x65CCC747" TextString="{2.SimName} 的前任说{M2.他}{F2.她}好几周不洗澡！"/>
+    <TextStringDefinition InstanceID="0x65CCC748" TextString="{2.SimName} 的朋友们说，每次他们在{M2.他}{F2.她}家过夜时，{M2.他}{F2.她}都会让他们挨饿。"/>
+    <TextStringDefinition InstanceID="0x65CCC749" TextString="{2.SimName} 曾经得过性病。"/>
+    <TextStringDefinition InstanceID="0x65CCC750" TextString="一位DJ举报说 {2.SimName} 不停地提供性服务，想让他在俱乐部播放{M2.他}{F2.她}的录音。"/>
+    <TextStringDefinition InstanceID="0x65CCC751" TextString="有人曾看见 {2.SimName} 在垃圾桶里翻东西。"/>
+    <TextStringDefinition InstanceID="0x65CCC752" TextString="{2.SimName} 的一个朋友说，{M2.他}{F2.她}曾经因为嫌弃她穿的衣服太土而抛弃了她。"/>
+    <TextStringDefinition InstanceID="0x65CCC753" TextString="{2.SimName} 曾在网上发布了自己的裸照。"/>
+    <TextStringDefinition InstanceID="0x65CCC754" TextString="{2.SimName} 曾推倒一位老太太，导致她摔断了腿。"/>
+    <TextStringDefinition InstanceID="0x65CCC755" TextString="有人看见 {2.SimName} 在当地一家俱乐部吸毒。"/>
+    <TextStringDefinition InstanceID="0x65CCC756" TextString="{2.SimName} 的前任说他们分手是因为{M2.他}{F2.她}同时和5个不同的市民出轨。"/>
+    <TextStringDefinition InstanceID="0x65CCC757" TextString="{2.SimName} 曾在别人的婚礼上尿了裤子。"/>
+    <TextStringDefinition InstanceID="0x65CCC758" TextString="{2.SimName} 曾喝得酩酊大醉，最后在俱乐部里朝别的市民撒尿。"/>
+    <TextStringDefinition InstanceID="0x65CCC759" TextString="一群孩子说 {2.SimName} 曾试图引诱他们上{M2.他}{F2.她}的车，声称{M2.他}{F2.她}有免费糖果。"/>
+    <TextStringDefinition InstanceID="0x65CCC760" TextString="{2.SimName} 的老师说{M2.他}{F2.她}所有课程都不及格，但是花钱买通了学校拿到了假文凭。"/>
+    <TextStringDefinition InstanceID="0x65CCC761" TextString="{2.SimName} 的养父母说，当初决定收养{M2.他}{F2.她}时，{M2.他}{F2.她}是在一个垃圾桶旁被发现的。"/>
+    <TextStringDefinition InstanceID="0x65CCC762" TextString="街头传言说 {2.SimName} 秘密谋杀了一个人并且逃脱了惩罚。"/>
+    <TextStringDefinition InstanceID="0x65CCC763" TextString="观看戏剧视频 &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC764" TextString="观看热门话题 &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC765" TextString="上社交戏剧课 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC766" TextString="课程完成"/>
+    <TextStringDefinition InstanceID="0x65CCC767" TextString="{0.SimFirstName} 完成了{F0.她的}社交戏剧课程并获得了一些技能。"/>
+    <TextStringDefinition InstanceID="0x65CCC768" TextString="练习散播谣言 &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC769" TextString="练习戏剧性姿势 &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC770" TextString="肮脏的秘密"/>
+    <TextStringDefinition InstanceID="0x65CCC771" TextString="与 {1.SimFirstName} 建立友谊"/>
+    <TextStringDefinition InstanceID="0x65CCC772" TextString="尝试获取 {1.SimFirstName} 的信任"/>
+    <TextStringDefinition InstanceID="0x65CCC773" TextString="获得信任"/>
+    <TextStringDefinition InstanceID="0x65CCC774" TextString="{1.SimFirstName} 现在信任 {0.SimFirstName}，应该可以放心地揭露{M1.他}{F1.她}的肮脏秘密了！"/>
+    <TextStringDefinition InstanceID="0x65CCC775" TextString="尝试失败"/>
+    <TextStringDefinition InstanceID="0x65CCC776" TextString="{1.SimFirstName} 还不信任 {0.SimFirstName}！先尝试与{M1.他}{F1.她}建立友谊。"/>
+    <TextStringDefinition InstanceID="0x65CCC777" TextString="询问关于 {1.SimFirstName} 的肮脏秘密"/>
+    <TextStringDefinition InstanceID="0x65CCC778" TextString="获得肮脏秘密"/>
+    <TextStringDefinition InstanceID="0x65CCC779" TextString="{0.SimFirstName} 现在掌握了 {1.SimFirstName} 的肮脏秘密，{M0.他}{F0.她}可以选择保守秘密、向其他市民揭露，或者将其添加到&lt;font color = '#E22DE7'&gt;“刻薄话之书”&lt;/font&gt;中！"/>
+    <TextStringDefinition InstanceID="0x65CCC780" TextString="{0.SimFirstName} 未获得 {1.SimFirstName} 的信任来揭露他们的秘密。"/>
+    <TextStringDefinition InstanceID="0x65CCC781" TextString="{0.SimFirstName} 已经获得了 {1.SimFirstName} 的信任。"/>
+    <TextStringDefinition InstanceID="0x65CCC782" TextString="社交帮助"/>
+    <TextStringDefinition InstanceID="0x65CCC783" TextString="支持 LGBTQIA2S+ 社群 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC784" TextString="参与活动"/>
+    <TextStringDefinition InstanceID="0x65CCC785" TextString="已参加活动"/>
+    <TextStringDefinition InstanceID="0x65CCC786" TextString="{0.SimFirstName} 从 LGBTQIA2S+ 支持活动回到家中，{M0.他}{F0.她}获得了 &lt;font color = '#fc90fb'&gt;(+5 社交声望 ☆) &lt;/font&gt;以及许多市民的喜爱。"/>
+    <TextStringDefinition InstanceID="0x65CCC787" TextString="反对家庭暴力 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC788" TextString="{0.SimFirstName} 从反家庭暴力活动回到家中，{M0.他}{F0.她}获得了 &lt;font color = '#fc90fb'&gt;(+5 社交声望 ☆) &lt;/font&gt;以及许多市民的喜爱。"/>
+    <TextStringDefinition InstanceID="0x65CCC789" TextString="反对虐待动物 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC790" TextString="{0.SimFirstName} 从反虐待动物活动回到家中，{M0.他}{F0.她}获得了 &lt;font color = '#cd96cc'&gt;(+5 社交声望 ☆) &lt;/font&gt;以及许多市民的喜爱。"/>
+    <TextStringDefinition InstanceID="0x65CCC791" TextString="反对欺凌 &lt;font color = '#fc90fb'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC792" TextString="{0.SimFirstName} 从反欺凌活动回到家中，{M0.他}{F0.她}获得了 &lt;font color = '#cd96cc'&gt;(+5 社交声望 ☆) &lt;/font&gt;以及许多市民的喜爱。"/>
+    <TextStringDefinition InstanceID="0x65CCC793" TextString="反对种族歧视&lt;font color = '#fc90fb'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC794" TextString="{0.SimFirstName} 从反种族歧视活动回到家中，{M0.他}{F0.她}获得了 &lt;font color = '#cd96cc'&gt;(+5 社交声望 ☆) &lt;/font&gt;以及许多市民的喜爱。"/>
+    <TextStringDefinition InstanceID="0x65CCC796" TextString="向市民提供社交建议（当面） &lt;font color = '#fc90fb'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC795" TextString="寻求建议的市民"/>
+    <TextStringDefinition InstanceID="0x65CCC797" TextString="被征求建议"/>
+    <TextStringDefinition InstanceID="0x65CCC798" TextString="你好，我在交新朋友方面遇到了困难，你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC799" TextString="你好，我在吸引异性方面遇到了困难，你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC800" TextString="寻求建议"/>
+    <TextStringDefinition InstanceID="0x65CCC801" TextString="你好，我在照顾孩子方面遇到了困难，你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC802" TextString="你好，我在自信方面遇到了困难，你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC803" TextString="你好，我在戒毒方面遇到了困难，你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC804" TextString="你好，我在搞好关系方面遇到了困难！你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC805" TextString="你好，我有愤怒控制问题！你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC806" TextString="你好，我在床上增添情趣方面遇到了困难，你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC807" TextString="你好，我皮肤有些问题，你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC808" TextString="你好，我有些饮食失调的问题，你能给我一些建议帮助我吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC809" TextString="给出积极建议 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC810" TextString="已给出建议"/>
+    <TextStringDefinition InstanceID="0x65CCC811" TextString="太感谢你了！我会完全按照你说的去做。"/>
+    <TextStringDefinition InstanceID="0x65CCC812" TextString="给出消极建议 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC813" TextString="向市民提供社交建议（通过电话） &lt;font color = '#E22DE7'&gt;(+2 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC814" TextString="寻求造型建议"/>
+    <TextStringDefinition InstanceID="0x65CCC815" TextString="向市民提供造型建议 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC816" TextString="你好，我一直对自己的时尚选择感到不自信……\n你能告诉我我的这身衣服好看吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC818" TextString="认可这套装扮"/>
+    <TextStringDefinition InstanceID="0x65CCC819" TextString="不认可这套装扮（要求更换）"/>
+    <TextStringDefinition InstanceID="0x65CCC820" TextString="被问及新装扮"/>
+    <TextStringDefinition InstanceID="0x65CCC821" TextString="这件怎么样？"/>
+    <TextStringDefinition InstanceID="0x65CCC822" TextString="谢谢你！我很高兴你喜欢它。"/>
+    <TextStringDefinition InstanceID="0x65CCC823" TextString="在CAS中提供改头换面"/>
+    <TextStringDefinition InstanceID="0x65CCC824" TextString="太感谢你了！我现在对自己感觉自信多了。"/>
+    <TextStringDefinition InstanceID="0x65CCC825" TextString="悲伤的市民"/>
+    <TextStringDefinition InstanceID="0x65CCC826" TextString="帮助悲伤的市民振作起来（当面） &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC827" TextString="帮助悲伤的市民振作起来（通过电话） &lt;font color = '#E22DE7'&gt;(+2 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC828" TextString="你好，我今天过得很糟糕……\n你能让我开心起来吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC829" TextString="寻求社交咨询"/>
+    <TextStringDefinition InstanceID="0x65CCC830" TextString="哇，你真好！太感谢你了！我现在感觉好多了。"/>
+    <TextStringDefinition InstanceID="0x65CCC831" TextString="打起精神了！"/>
+    <TextStringDefinition InstanceID="0x65CCC832" TextString="朝…大喊 &lt;font color = '#c90000'&gt;(-5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC833" TextString="加油打气 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC834" TextString="帮助悲伤的市民振作起来（通过电话） &lt;font color = '#E22DE7'&gt;(+2 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC835" TextString="帮助蹭热度的人获得人气 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC836" TextString="蹭热度的人"/>
+    <TextStringDefinition InstanceID="0x65CCC837" TextString="你好，我一直在努力获得人气，我想你能帮我……\n我想要的只是一张和你的自拍。"/>
+    <TextStringDefinition InstanceID="0x65CCC838" TextString="被要求自拍"/>
+    <TextStringDefinition InstanceID="0x65CCC839" TextString="自拍 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC840" TextString="谢谢你！我相信这会给我带来很多粉丝。"/>
+    <TextStringDefinition InstanceID="0x65CCC841" TextString="拒绝自拍"/>
+    <TextStringDefinition InstanceID="0x65CCC842" TextString="暗恋中的市民"/>
+    <TextStringDefinition InstanceID="0x65CCC843" TextString="帮助市民处理暗恋问题 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC844" TextString="帮助处理暗恋"/>
+    <TextStringDefinition InstanceID="0x65CCC845" TextString="你好，我暗恋一个市民很久了，但我太害怕让他们知道了……\n \n你能告诉他们我的感受吗？我会非常感激的！"/>
+    <TextStringDefinition InstanceID="0x65CCC846" TextString="被请求帮助"/>
+    <TextStringDefinition InstanceID="0x65CCC847" TextString="{M0.他}{F0.她}的名字是 {0.SimName}，{M0.他}{F0.她}就站在那里。"/>
+    <TextStringDefinition InstanceID="0x65CCC848" TextString="暗恋对象信息"/>
+    <TextStringDefinition InstanceID="0x65CCC849" TextString="被暗恋的市民"/>
+    <TextStringDefinition InstanceID="0x65CCC850" TextString="与暗恋的市民勾搭 &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC851" TextString="{0.SimFirstName} 说服了 {1.SimFirstName} 与暗恋的市民勾搭！"/>
+    <TextStringDefinition InstanceID="0x65CCC852" TextString="哇！你太棒了！！！我的爱情幻想现在要实现了！"/>
+    <TextStringDefinition InstanceID="0x65CCC853" TextString="破坏与暗恋市民的关系"/>
+    <TextStringDefinition InstanceID="0x65CCC854" TextString="{0.SimFirstName} 破坏了 {1.SimFirstName} 与暗恋市民的关系！"/>
+    <TextStringDefinition InstanceID="0x65CCC856" TextString="抢走暗恋对象"/>
+    <TextStringDefinition InstanceID="0x65CCC857" TextString="为了更美好的世界"/>
+    <TextStringDefinition InstanceID="0x65CCC858" TextString="{0.SimFirstName} 为参与旨在让世界更美好的社交活动而感到自豪，{M0.他}{F0.她}的这一举动非常棒！"/>
+    <TextStringDefinition InstanceID="0x65CCC859" TextString="社交帮手"/>
+    <TextStringDefinition InstanceID="0x65CCC860" TextString="{0.SimFirstName} 为自己在社交场合帮助了一位市民而感到自豪，真可爱。"/>
+    <TextStringDefinition InstanceID="0x65CCC861" TextString="{0.SimFirstName} 没有足够的&lt;font color = '#E22DE7'&gt;（社交声望 ☆）&lt;/font&gt;。"/>
+    <TextStringDefinition InstanceID="0x65CCC862" TextString="社交帮手"/>
+    <TextStringDefinition InstanceID="0x65CCC863" TextString="购买&lt;font color = '#E22DE7'&gt;“刻薄话之书”&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC864" TextString="已购买“刻薄话之书”"/>
+    <TextStringDefinition InstanceID="0x65CCC865" TextString="感谢你在“塑料姐妹花”网店购物，虽然你这么做有点赶时髦……但你还是不能和我们坐在一起。"/>
+    <TextStringDefinition InstanceID="0x65CCC866" TextString="戏剧"/>
+    <TextStringDefinition InstanceID="0x65CCC867" TextString="{0.SimFirstName} 沉浸在戏剧和八卦的世界中，尽管这有点令人尴尬，但{M0.他}{F0.她}从中获得了肾上腺素飙升的快感。"/>
+    <TextStringDefinition InstanceID="0x65CCC868" TextString="肮脏的秘密"/>
+    <TextStringDefinition InstanceID="0x65CCC869" TextString="{0.SimFirstName} 对{M0.他}{F0.她}获得的新肮脏秘密感到非常兴奋，太劲爆了！"/>
+    <TextStringDefinition InstanceID="0x65CCC870" TextString="请求访问&lt;font color = '#E22DE7'&gt;“塑料姐妹花”&lt;/font&gt;网站的权限"/>
+    <TextStringDefinition InstanceID="0x65CCC871" TextString="没那么快，宝贝，我只给受欢迎的人授权。\n{0.SimFirstName} 需要 &lt;font color = '#fc90fb'&gt;(25 SP ☆ )&lt;/font&gt;才能获得访问权限。"/>
+    <TextStringDefinition InstanceID="0x65CCC872" TextString="给你，小甜心，你现在可以从手机访问网站了。\n{0.SimFirstName} 现在可以购买&lt;font color = '#fc90fb'&gt;“刻薄话之书”&lt;/font&gt;了。"/>
+    <TextStringDefinition InstanceID="0x65CCC873" TextString="{0.SimFirstName} 必须先从梅琳达·罗杰斯&lt;font color = '#E22DE7'&gt;“羽毛帮女王”&lt;/font&gt;那里学习这项技能。\n你可以通过“社交声望”菜单邀请&lt;font color = '#E22DE7'&gt;“羽毛帮”&lt;/font&gt;俱乐部过来与梅琳达·罗杰斯交谈。"/>
+    <TextStringDefinition InstanceID="0x65CCC874" TextString="请求学习如何建立友谊"/>
+    <TextStringDefinition InstanceID="0x65CCC875" TextString="你想让我教你？！做梦去吧……\n{0.SimFirstName} 需要 &lt;font color = '#fc90fb'&gt;(25 SP ☆ )&lt;/font&gt;才能被教导。"/>
+    <TextStringDefinition InstanceID="0x65CCC876" TextString="{0.SimFirstName} 学会了如何快速与其他市民建立友谊。\n你可以在点击目标市民时，在“生活戏剧的肮脏秘密”饼状菜单中找到新的互动选项。"/>
+    <TextStringDefinition InstanceID="0x65CCC877" TextString="{0.SimFirstName} 必须先获得梅琳达·罗杰斯&lt;font color = '#E22DE7'&gt;“羽毛帮女王”&lt;/font&gt;的授权。\n你可以通过“社交声望”菜单邀请&lt;font color = '#E22DE7'&gt;“羽毛帮”&lt;/font&gt;俱乐部过来与梅琳达·罗杰斯交谈。"/>
+    <TextStringDefinition InstanceID="0x65CCC878" TextString="邀请“羽毛帮”俱乐部过来"/>
+    <TextStringDefinition InstanceID="0x65CCC879" TextString="社交声望提升！"/>
+    <TextStringDefinition InstanceID="0x65CCC880" TextString="决定如何处理肮脏的秘密"/>
+    <TextStringDefinition InstanceID="0x65CCC881" TextString="扇市民耳光"/>
+    <TextStringDefinition InstanceID="0x65CCC882" TextString="踢市民的要害"/>
+    <TextStringDefinition InstanceID="0x65CCC883" TextString="最大化此市民的&lt;font color = '#E22DE7'&gt;“社交声望 ☆”&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC884" TextString="&lt;font color = '#cc3333'&gt;为此市民禁用&lt;/font&gt;自动社交求助请求"/>
+    <TextStringDefinition InstanceID="0x65CCC885" TextString="&lt;font color = '#558DDD'&gt;为此市民启用&lt;/font&gt;自动社交求助请求"/>
+    <TextStringDefinition InstanceID="0x65CCC886" TextString="新相识！"/>
+    <TextStringDefinition InstanceID="0x65CCC887" TextString="{0.SimFirstName} 在社交活动中遇到了 {2.SimName}。"/>
+    <TextStringDefinition InstanceID="0x65CCC888" TextString="对……说些刻薄话"/>
+    <TextStringDefinition InstanceID="0x65CCC889" TextString="在此处输入演讲标题：&lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;（可选）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC890" TextString="在此处输入演讲正文：&lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;（可选）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC891" TextString="对……说些话（自定义文本输入框）"/>
+    <TextStringDefinition InstanceID="0x65CCC892" TextString="对……说些好话"/>
+    <TextStringDefinition InstanceID="0x65CCC893" TextString="对……说些调情的话"/>
+    <TextStringDefinition InstanceID="0x65CCC894" TextString="你与此市民的&lt;font color = '#FF00D1'&gt;浪漫关系不够高&lt;/font&gt;，无法执行此互动。"/>
+    <TextStringDefinition InstanceID="0x65CCC895" TextString="打架"/>
+    <TextStringDefinition InstanceID="0x65CCC896" TextString="销毁附近的肮脏秘密文件"/>
+    <TextStringDefinition InstanceID="0x65CCC897" TextString="你确定要销毁附近所有肮脏的秘密文件吗？"/>
+    <TextStringDefinition InstanceID="0x65CCC898" TextString="对……说些好话并保存对话 &lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;（从/到文本文件）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC899" TextString="从已保存的对话中随机选择"/>
+    <TextStringDefinition InstanceID="0x65CCC900" TextString="在文本文件中编辑对话"/>
+    <TextStringDefinition InstanceID="0x65CCC901" TextString="说出&lt;font color = '#009eba'&gt;（并保存）&lt;/font&gt;对话"/>
+    <TextStringDefinition InstanceID="0x65CCC902" TextString="对……说些刻薄话并保存对话 &lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;（从/到文本文件）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC903" TextString="&lt;font color = '#ffffff'&gt;对……说些刻薄话&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC904" TextString="&lt;font color = '#ffffff'&gt;在此处输入演讲标题：&lt;/font&gt; &lt;font size=&quot;12&quot;&gt;&lt;font color = '#5cddf7'&gt;（可选）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC905" TextString="&lt;font color = '#ffffff'&gt;在此处输入演讲正文：&lt;/font&gt; &lt;font size=&quot;12&quot;&gt;&lt;font color = '#5cddf7'&gt;（可选）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC906" TextString="对……说些调情的话并保存对话 &lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;（从/到文本文件）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC907" TextString="&lt;font color = '#ffffff'&gt;对……说些调情的话&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC908" TextString="&lt;font color = '#ffffff'&gt;对……说些好话&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC909" TextString="&lt;font color = '#db1102'&gt;禁用&lt;/font&gt;作弊菜单中的文本框输入互动 &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;（默认：启用）&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC910" TextString="&lt;font color = '#02ab0a'&gt;启用&lt;/font&gt;作弊菜单中的文本框输入互动 &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;（默认：启用）&lt;/font&gt;&lt;/font&gt;"/>
+  </TextStringDefinitions>
+</StblData>
