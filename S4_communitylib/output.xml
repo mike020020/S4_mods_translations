@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x4992E851" TextString="{0.SimFirstName} 没有怀孕。"/>
+    <TextStringDefinition InstanceID="0xFB6158D8" TextString="{0.String}{1.String}"/>
+    <TextStringDefinition InstanceID="0xCE1FDE37" TextString="&lt;font color='#199C2C'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x31CC8E32" TextString="&lt;font color='#9C1919'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x59C14C34" TextString="&lt;font color='#19269C'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0xCE1B477F" TextString="&lt;font color='#FFF720'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x990BE95E" TextString="&lt;font color='#FF7900'&gt;{0.String}&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x4A8DC6B8" TextString="（来自 Sims 4 Community Library）"/>
+    <TextStringDefinition InstanceID="0x62BA80CD" TextString="出现问题，请在“{0.String}”查找日志文件。"/>
+    <TextStringDefinition InstanceID="0xA03ED8D7" TextString="破坏物品"/>
+    <TextStringDefinition InstanceID="0xA48766A3" TextString="取消"/>
+    <TextStringDefinition InstanceID="0x963ACF86" TextString="确认"/>
+    <TextStringDefinition InstanceID="0x0C611C41" TextString="已完成记录目标地点或物品的所有互动。请在 {0.String} 查找日志文件。"/>
+    <TextStringDefinition InstanceID="0xD1015CE7" TextString="检测到异常！"/>
+    <TextStringDefinition InstanceID="0x5BE27BFF" TextString="在 {0.String} 中检测到异常！"/>
+    <TextStringDefinition InstanceID="0x275DAF8F" TextString="修复物品"/>
+    <TextStringDefinition InstanceID="0xEA7DDDFF" TextString="前往：{0.String}"/>
+    <TextStringDefinition InstanceID="0xA329A277" TextString="催产"/>
+    <TextStringDefinition InstanceID="0xB508AAE9" TextString="未找到本地化字符串_{0.String}"/>
+    <TextStringDefinition InstanceID="0x7A51E481" TextString="记录所有游戏标签"/>
+    <TextStringDefinition InstanceID="0xBABE8AF7" TextString="记录所有互动"/>
+    <TextStringDefinition InstanceID="0x4847D964" TextString="弄干净"/>
+    <TextStringDefinition InstanceID="0xD08F95BF" TextString="弄脏"/>
+    <TextStringDefinition InstanceID="0x3A94474A" TextString="下一个"/>
+    <TextStringDefinition InstanceID="0x6377188C" TextString="否"/>
+    <TextStringDefinition InstanceID="0xFAF9BBF6" TextString="上一个"/>
+    <TextStringDefinition InstanceID="0xB5ADADF0" TextString="随机"/>
+    <TextStringDefinition InstanceID="0x857FAADC" TextString="S4CL 主要特征"/>
+    <TextStringDefinition InstanceID="0xBDE8BD32" TextString="显示活动增益"/>
+    <TextStringDefinition InstanceID="0xE98ECC12" TextString="显示正在运行和队列中的互动"/>
+    <TextStringDefinition InstanceID="0xBF460A22" TextString="显示正在运行的情境"/>
+    <TextStringDefinition InstanceID="0x29D3AE09" TextString="显示特征"/>
+    <TextStringDefinition InstanceID="0x61AA6CCB" TextString="Sims 4 Community Library"/>
+    <TextStringDefinition InstanceID="0x50A4AFDF" TextString="一些用于测试的文本"/>
+    <TextStringDefinition InstanceID="0x5266EA90" TextString="状态"/>
+    <TextStringDefinition InstanceID="0x15E8FBCE" TextString="测试按钮 1"/>
+    <TextStringDefinition InstanceID="0x15E8FBCD" TextString="测试按钮 2"/>
+    <TextStringDefinition InstanceID="0xEDB21976" TextString="测试文本"/>
+    <TextStringDefinition InstanceID="0xF6A4E3C3" TextString="测试文本：{0.Number}"/>
+    <TextStringDefinition InstanceID="0xFF21D2D2" TextString="测试文本：{0.SimFirstName} {0.SimLastName}"/>
+    <TextStringDefinition InstanceID="0xB1746497" TextString="测试文本：{0.String}"/>
+    <TextStringDefinition InstanceID="0xF3BE1E0A" TextString="此特征将 Sims 4 Community Library 的互动添加到该市民。"/>
+    <TextStringDefinition InstanceID="0x5B7E7761" TextString="未知姿势使用厕所"/>
+    <TextStringDefinition InstanceID="0x3A6189A6" TextString="是"/>
+    <TextStringDefinition InstanceID="0x6284ACBA" TextString="{0.String}：{1.String}"/>
+    <TextStringDefinition InstanceID="0x1429B07C" TextString="{0.String}，{1.String}"/>
+    <TextStringDefinition InstanceID="0x0699D5F4" TextString="{0.String} {1.String}"/>
+    <TextStringDefinition InstanceID="0x1A406429" TextString="{0.String}（{1.String}）"/>
+    <TextStringDefinition InstanceID="0xCE1E042E" TextString="{0.String}\n{1.String}"/>
+    <TextStringDefinition InstanceID="0x032A81F9" TextString="{0.String}-{1.String}"/>
+    <TextStringDefinition InstanceID="0x2CA33BDB" TextString="无"/>
+    <TextStringDefinition InstanceID="0x5FD633CB" TextString="已拒绝"/>
+    <TextStringDefinition InstanceID="0xB667ABF6" TextString="已接受"/>
+    <TextStringDefinition InstanceID="0xD0F420D1" TextString="接受"/>
+    <TextStringDefinition InstanceID="0xA60FC6F5" TextString="拒绝"/>
+    <TextStringDefinition InstanceID="0x2EA8FB98" TextString="默认"/>
+    <TextStringDefinition InstanceID="0xF2237D1E" TextString="请稍候"/>
+    <TextStringDefinition InstanceID="0x8ABA94C5" TextString="随机化完成"/>
+    <TextStringDefinition InstanceID="0x860F13B5" TextString="当前：{0.String}"/>
+    <TextStringDefinition InstanceID="0x7EC77EF6" TextString="物品正在使用中。"/>
+    <TextStringDefinition InstanceID="0x48245F2A" TextString="{0.SimFirstName} 不被允许进入那里。"/>
+    <TextStringDefinition InstanceID="0x6B324A52" TextString="{0.SimFirstName} 无法到达那个位置。"/>
+    <TextStringDefinition InstanceID="0x36EB7A72" TextString="这里没有足够的空间容纳 {0.SimFirstName}。"/>
+    <TextStringDefinition InstanceID="0x3F70BCAA" TextString="怀孕"/>
+    <TextStringDefinition InstanceID="0x0313D2A0" TextString="用户ID：{0.String}"/>
+    <TextStringDefinition InstanceID="0x955D0179" TextString="需要重启"/>
+    <TextStringDefinition InstanceID="0x6B5119FB" TextString="为了使某些更改完全生效，请保存并重新启动您的游戏。"/>
+    <TextStringDefinition InstanceID="0x5C6C2580" TextString="全部移除"/>
+    <TextStringDefinition InstanceID="0x8B3681B1" TextString="移除"/>
+    <TextStringDefinition InstanceID="0x423122EB" TextString="计数：{0.String}"/>
+    <TextStringDefinition InstanceID="0x38C2E6F7" TextString="（来自调试）"/>
+    <TextStringDefinition InstanceID="0xF3C59252" TextString="购买成功"/>
+    <TextStringDefinition InstanceID="0x5A8D580D" TextString="您购买的物品正在路上！请在邮件送达时查收。收到邮件后，它们也可能被放入您的家庭物品栏中！"/>
+    <TextStringDefinition InstanceID="0xF33F9A95" TextString="您购买的物品可能在购买它们的市民的物品栏中找到。"/>
+    <TextStringDefinition InstanceID="0x59F9C698" TextString="太贵了。"/>
+    <TextStringDefinition InstanceID="0x556801EE" TextString="此功能尚未实现。"/>
+    <TextStringDefinition InstanceID="0xAC8F626F" TextString="{0.SimFirstName} {0.SimLastName}"/>
+    <TextStringDefinition InstanceID="0xD8740FE4" TextString="{0.SimFirstName} {0.SimLastName} 和 {1.SimFirstName} {1.SimLastName}"/>
+    <TextStringDefinition InstanceID="0x2EACE203" TextString="{0.String}，和 {1.SimFirstName} {1.SimLastName}"/>
+    <TextStringDefinition InstanceID="0x2A8148D8" TextString="{0.SimFirstName} {0.SimLastName}，和 {1.String}"/>
+    <TextStringDefinition InstanceID="0xC1166AC4" TextString="{0.String} 是 {1.String}"/>
+    <TextStringDefinition InstanceID="0x92AF2862" TextString="{0.String} 是 {1.String} (复数)"/>
+    <TextStringDefinition InstanceID="0xA1C925BC" TextString="错误：{0.String}"/>
+    <TextStringDefinition InstanceID="0x0F818D6F" TextString="失败：{0.String}"/>
+    <TextStringDefinition InstanceID="0xC6D15497" TextString="成功：{0.String}"/>
+    <TextStringDefinition InstanceID="0x33A94544" TextString="失败：{0.String}"/>
+    <TextStringDefinition InstanceID="0xD74B6B28" TextString="返回"/>
+    <TextStringDefinition InstanceID="0xA07FA6C6" TextString="！！{0.String}"/>
+    <TextStringDefinition InstanceID="0x20953C2D" TextString="狗"/>
+    <TextStringDefinition InstanceID="0x82ED46EB" TextString="{0.String}+{1.String}"/>
+    <TextStringDefinition InstanceID="0x419C2C6E" TextString="全部"/>
+    <TextStringDefinition InstanceID="0x3F9C28A5" TextString="任何"/>
+    <TextStringDefinition InstanceID="0x419E6969" TextString="{0.String}，和 {1.String}"/>
+    <TextStringDefinition InstanceID="0xCFB35A51" TextString="{0.String} 和 {1.String}"/>
+    <TextStringDefinition InstanceID="0x1DC61DF5" TextString="{0.String} 或 {1.String}"/>
+    <TextStringDefinition InstanceID="0x34E0269D" TextString="{0.String}，或 {1.String}"/>
+    <TextStringDefinition InstanceID="0xBA331D00" TextString="{0.String}\n\n{1.String}"/>
+    <TextStringDefinition InstanceID="0xD7FDCAF5" TextString="（{0.String}）"/>
+    <TextStringDefinition InstanceID="0xAF2C121C" TextString="更改物品状态"/>
+    <TextStringDefinition InstanceID="0xAB3DD412" TextString="{0.SimFirstName} {0.SimLastName} 无法被抱起。"/>
+    <TextStringDefinition InstanceID="0x599432EA" TextString="自定义品种"/>
+    <TextStringDefinition InstanceID="0x340EA312" TextString="外星人"/>
+    <TextStringDefinition InstanceID="0xEFCD14BE" TextString="鬼魂"/>
+    <TextStringDefinition InstanceID="0x9E3A9746" TextString="人鱼"/>
+    <TextStringDefinition InstanceID="0x2763B1A0" TextString="非超自然生物"/>
+    <TextStringDefinition InstanceID="0x64E66FA1" TextString="植物模拟市民"/>
+    <TextStringDefinition InstanceID="0x730D2277" TextString="机器人"/>
+    <TextStringDefinition InstanceID="0x3AFF1B32" TextString="稻草人"/>
+    <TextStringDefinition InstanceID="0xCF5256A8" TextString="骷髅"/>
+    <TextStringDefinition InstanceID="0x760EC7C9" TextString="吸血鬼"/>
+    <TextStringDefinition InstanceID="0xA3E400E6" TextString="狼人"/>
+    <TextStringDefinition InstanceID="0x2D55956A" TextString="魔法师"/>
+    <TextStringDefinition InstanceID="0x846D3A8C" TextString="家庭成员"/>
+    <TextStringDefinition InstanceID="0xC3AAF6A2" TextString="非家庭成员"/>
+    <TextStringDefinition InstanceID="0x0EF5C39D" TextString="当前控制"/>
+    <TextStringDefinition InstanceID="0xC04E5A9E" TextString="如果选中，若市民是家庭成员（他们出现在界面底部），则将被包括在内。"/>
+    <TextStringDefinition InstanceID="0xBF7B9D74" TextString="如果选中，若市民当前由玩家控制（头顶有晶锥），则将被包括在内。"/>
+    <TextStringDefinition InstanceID="0xC07E9015" TextString="如果选中，若市民不是家庭成员（他们不出现在界面底部），则将被包括在内。"/>
+    <TextStringDefinition InstanceID="0xF7FE735C" TextString="如果选择此项，将不包括任何选项。"/>
+    <TextStringDefinition InstanceID="0x36CAAB74" TextString="如果选择此项，将包括所有选项。"/>
+    <TextStringDefinition InstanceID="0x90F0B600" TextString="无市民"/>
+    <TextStringDefinition InstanceID="0x6B670346" TextString="所有市民"/>
+    <TextStringDefinition InstanceID="0x1134087B" TextString="{0.SimFirstName} {0.SimLastName} 无法到达 {1.SimFirstName} {1.SimLastName}。"/>
+    <TextStringDefinition InstanceID="0x854F2F29" TextString="{0.SimFirstName} {0.SimLastName} 已经拥有此特征。"/>
+    <TextStringDefinition InstanceID="0x663E6FD7" TextString="{0.SimFirstName} {0.SimLastName} 没有此特征。"/>
+    <TextStringDefinition InstanceID="0x54860E10" TextString="未执行"/>
+    <TextStringDefinition InstanceID="0x003EB432" TextString="Left"/>
+    <TextStringDefinition InstanceID="0xE816F049" TextString="Right"/>
+    <TextStringDefinition InstanceID="0x4B21A032" TextString="Front"/>
+    <TextStringDefinition InstanceID="0x5CF9CF48" TextString="Back"/>
+    <TextStringDefinition InstanceID="0x406CCC4A" TextString="Top"/>
+    <TextStringDefinition InstanceID="0xE864BA60" TextString="Bottom"/>
+    <TextStringDefinition InstanceID="0x5C770DAE" TextString="Up"/>
+    <TextStringDefinition InstanceID="0x87EDD469" TextString="Down"/>
+    <TextStringDefinition InstanceID="0x45C62969" TextString="Info"/>
+    <TextStringDefinition InstanceID="0xD0D04D65" TextString="Infant"/>
+    <TextStringDefinition InstanceID="0x8FF2738C" TextString="S4CL Main Trait (Human)"/>
+    <TextStringDefinition InstanceID="0xA1AE5A4C" TextString="S4CL Main Trait (Large Dog)"/>
+    <TextStringDefinition InstanceID="0x0FC85BE4" TextString="S4CL Main Trait (Small Dog)"/>
+    <TextStringDefinition InstanceID="0x514D1E59" TextString="S4CL Main Trait (Cat)"/>
+    <TextStringDefinition InstanceID="0x3A0E5DF8" TextString="S4CL Main Trait (Fox)"/>
+    <TextStringDefinition InstanceID="0x42586D60" TextString="S4CL Main Trait (Horse)"/>
+  </TextStringDefinitions>
+</StblData>
