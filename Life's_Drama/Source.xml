@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x87EE3105" TextString="Life's Drama"/>
+    <TextStringDefinition InstanceID="0x87EE3103" TextString="{0.SimFirstName} has convinced {1.SimFirstName} to leave {M1.his}{F1.her} significant other!"/>
+    <TextStringDefinition InstanceID="0x87EE3104" TextString="{0.SimFirstName} has failed to convince {1.SimFirstName} to leave {M1.his}{F1.her} significant other!"/>
+    <TextStringDefinition InstanceID="0x87EE3107" TextString="Expose Loved One"/>
+    <TextStringDefinition InstanceID="0x87EE3108" TextString="Who should {0.SimFirstName} expose?"/>
+    <TextStringDefinition InstanceID="0x65CCC667" TextString="A Dating Couple"/>
+    <TextStringDefinition InstanceID="0x65CCC668" TextString="Couple Breakup Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC669" TextString="A Dating Couple 2"/>
+    <TextStringDefinition InstanceID="0x65CCC670" TextString="Groom"/>
+    <TextStringDefinition InstanceID="0x65CCC671" TextString="Runaway Bride"/>
+    <TextStringDefinition InstanceID="0x65CCC672" TextString="Runaway Bride Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC673" TextString="Flirty Couple Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC674" TextString="This situation is already running."/>
+    <TextStringDefinition InstanceID="0x65CCC675" TextString="Proposing Couple Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC676" TextString="Cheater"/>
+    <TextStringDefinition InstanceID="0x65CCC677" TextString="Cheated On"/>
+    <TextStringDefinition InstanceID="0x65CCC678" TextString="Cheater's Significant Other"/>
+    <TextStringDefinition InstanceID="0x65CCC679" TextString="Exposed Cheater Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC680" TextString="Cheater's Secret Relationship"/>
+    <TextStringDefinition InstanceID="0x65CCC681" TextString="Gang Member"/>
+    <TextStringDefinition InstanceID="0x65CCC682" TextString="Victim"/>
+    <TextStringDefinition InstanceID="0x65CCC683" TextString="Gang Up Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC684" TextString="Troublemaker"/>
+    <TextStringDefinition InstanceID="0x65CCC685" TextString="Troublemaking Kids Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC686" TextString="Lost Toddler"/>
+    <TextStringDefinition InstanceID="0x65CCC687" TextString="Lost Toddler's Parent"/>
+    <TextStringDefinition InstanceID="0x65CCC688" TextString="Have you seen a toddler wondering around? I've lost my sweet baby!!"/>
+    <TextStringDefinition InstanceID="0x65CCC689" TextString="Lost Toddler Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC690" TextString=" Inform Parent"/>
+    <TextStringDefinition InstanceID="0x65CCC691" TextString="Sim On Fire Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC692" TextString="Sim On Fire"/>
+    <TextStringDefinition InstanceID="0x65CCC693" TextString="Sim Giving Birth Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC694" TextString="Pregnant - In Labor"/>
+    <TextStringDefinition InstanceID="0x65CCC695" TextString=" Take To Hospital"/>
+    <TextStringDefinition InstanceID="0x65CCC696" TextString="At Hospital"/>
+    <TextStringDefinition InstanceID="0x65CCC697" TextString="{0.SimFirstName} Has been rewarded for helping the sim."/>
+    <TextStringDefinition InstanceID="0x65CCC698" TextString="Robber"/>
+    <TextStringDefinition InstanceID="0x65CCC699" TextString="Robber Situation"/>
+    <TextStringDefinition InstanceID="0x65CCC700" TextString="Options"/>
+    <TextStringDefinition InstanceID="0x65CCC701" TextString="Enable Dramatic Situations Around This Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC702" TextString="Disable Dramatic Situations Around This Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC703" TextString="Thank you so much! You have saved my life!"/>
+    <TextStringDefinition InstanceID="0x65CCC704" TextString="Disable Reactions For This Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC705" TextString="Enable Reactions For This Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC706" TextString="React To Collapsed Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC707" TextString=" Return Stolen Money"/>
+    <TextStringDefinition InstanceID="0xF902CDC9" TextString="Have {1.SimFirstName} Leave"/>
+    <TextStringDefinition InstanceID="0x65CCC708" TextString="*HIDDEN* V 2.0 Strings Start Below"/>
+    <TextStringDefinition InstanceID="0x65CCC709" TextString="&quot;The Feathers&quot; Queen"/>
+    <TextStringDefinition InstanceID="0x65CCC710" TextString="&quot;The Feathers&quot;"/>
+    <TextStringDefinition InstanceID="0x65CCC711" TextString="&quot;The Feathers&quot; Member"/>
+    <TextStringDefinition InstanceID="0x65CCC712" TextString="Social Popularity"/>
+    <TextStringDefinition InstanceID="0x65CCC713" TextString="{0.SimFirstName}'s popularity is ({1.Number})."/>
+    <TextStringDefinition InstanceID="0x65CCC714" TextString="(From Life's Drama)"/>
+    <TextStringDefinition InstanceID="0x65CCC715" TextString="{0.SimFirstName}'s social popularity has reached a new level, this will open up new social possibilities."/>
+    <TextStringDefinition InstanceID="0x65CCC716" TextString="Check Social Popularity Status"/>
+    <TextStringDefinition InstanceID="0x65CCC717" TextString="Get Plastic Surgery &lt;font color = '#E22DE7'&gt;(+20 SP ☆)&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC718" TextString="Recovery Time"/>
+    <TextStringDefinition InstanceID="0x65CCC719" TextString="{0.SimFirstName} has to wait sometime until {M0.his}{F0.her} bruises from the surgery are healed, it will be difficult, but the results will be worth it."/>
+    <TextStringDefinition InstanceID="0x65CCC720" TextString="Surgery Completed"/>
+    <TextStringDefinition InstanceID="0x65CCC721" TextString="{0.SimFirstName} has to wait sometime until {M0.his}{F0.her} bruises from the surgery are healed, it will be difficult, but the results will be worth it."/>
+    <TextStringDefinition InstanceID="0x65CCC722" TextString="Snatched!"/>
+    <TextStringDefinition InstanceID="0x65CCC723" TextString="Thanks to plastic surgery {0.SimFirstName} now looks better than ever! "/>
+    <TextStringDefinition InstanceID="0x65CCC724" TextString="Having Surgery Performed"/>
+    <TextStringDefinition InstanceID="0x65CCC725" TextString="{0.SimFirstName} is under the knife to get a brand new look!"/>
+    <TextStringDefinition InstanceID="0x65CCC726" TextString="Get Plastic Surgery"/>
+    <TextStringDefinition InstanceID="0x65CCC727" TextString="Scrap &lt;font color = '#E22DE7'&gt;(+10 SP ☆ ) &lt;/font&gt; OR &lt;font color = '#940A0A'&gt;(-10 SP ☆ ) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC728" TextString="Social Drama"/>
+    <TextStringDefinition InstanceID="0x65CCC729" TextString="Social Drama Skill Acquired"/>
+    <TextStringDefinition InstanceID="0x65CCC730" TextString="Reached Social Drama Level 2"/>
+    <TextStringDefinition InstanceID="0x65CCC731" TextString="Reached Social Drama Level 3"/>
+    <TextStringDefinition InstanceID="0x65CCC732" TextString="Reached Social Drama Level 4"/>
+    <TextStringDefinition InstanceID="0x65CCC733" TextString="Reached Social Drama Level 5"/>
+    <TextStringDefinition InstanceID="0x65CCC734" TextString="Social Drama Skill Desc Level 1"/>
+    <TextStringDefinition InstanceID="0x65CCC735" TextString="Social Drama Skill Desc Level 2"/>
+    <TextStringDefinition InstanceID="0x65CCC736" TextString="Social Drama Skill Desc Level 3"/>
+    <TextStringDefinition InstanceID="0x65CCC737" TextString="Social Drama Skill Desc Level 4"/>
+    <TextStringDefinition InstanceID="0x65CCC738" TextString="Social Drama Skill Desc Level 5"/>
+    <TextStringDefinition InstanceID="0x65CCC739" TextString="Expose sims and ruin lives by collecting the juiciest drama &amp; spilling the hottest tea!"/>
+    <TextStringDefinition InstanceID="0x65CCC740" TextString="Read Dirty Sims Gossip &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC741" TextString="Dirty Sim Gossip"/>
+    <TextStringDefinition InstanceID="0x65CCC742" TextString="{2.SimName} was seen stealing from a homless sim."/>
+    <TextStringDefinition InstanceID="0x65CCC743" TextString="{2.SimName} was seen slapping a child."/>
+    <TextStringDefinition InstanceID="0x65CCC744" TextString="Someone reported that {2.SimName} tried to force {M2.him}{F2.her}self on them."/>
+    <TextStringDefinition InstanceID="0x65CCC745" TextString="A restaurant reported that {2.SimName} tried to leave without paying the bill."/>
+    <TextStringDefinition InstanceID="0x65CCC746" TextString="{2.SimName} was once sent to jail for avoiding taxes."/>
+    <TextStringDefinition InstanceID="0x65CCC747" TextString="{2.SimName}'s Ex said that {M2.he}{F2.she} didn't take a shower for weeks!"/>
+    <TextStringDefinition InstanceID="0x65CCC748" TextString="{2.SimName}'s friends said that {M2.he}{F2.she} would leave them starving whenever they had a sleepover at {M2.his}{F2.her} place."/>
+    <TextStringDefinition InstanceID="0x65CCC749" TextString="{2.SimName}'s once had an STD."/>
+    <TextStringDefinition InstanceID="0x65CCC750" TextString="A DJ reported that {2.SimName} kept offering sexual favors to have him play {M2.his}{F2.her} recordings in the club."/>
+    <TextStringDefinition InstanceID="0x65CCC751" TextString="{2.SimName} was once seen digging in the trash."/>
+    <TextStringDefinition InstanceID="0x65CCC752" TextString="A friend of {2.SimName} said that {M2.he}{F2.she} once ditched her because {M2.he}{F2.she} was embarrassed of the outfit she was wearing."/>
+    <TextStringDefinition InstanceID="0x65CCC753" TextString="{2.SimName} once released a naked photo of {M2.him}{F2.her}self on the internet."/>
+    <TextStringDefinition InstanceID="0x65CCC754" TextString="{2.SimName} once pushed an elderly lady that resulted in her breaking a leg."/>
+    <TextStringDefinition InstanceID="0x65CCC755" TextString="{2.SimName} was seen taken drugs at a local club."/>
+    <TextStringDefinition InstanceID="0x65CCC756" TextString="{2.SimName}'s ex said that they ended their relationship because {M2.he}{F2.she} was cheating on them with 5 different sims."/>
+    <TextStringDefinition InstanceID="0x65CCC757" TextString="{2.SimName} once peed {M2.him}{F2.her}self at someone's wedding."/>
+    <TextStringDefinition InstanceID="0x65CCC758" TextString="{2.SimName} once got so drunk that {M2.he}{F2.she} ended up peeing on sims in the club."/>
+    <TextStringDefinition InstanceID="0x65CCC759" TextString="A group of children said that {2.SimName} once tried to lure them into {M2.his}{F2.her} car claiming that {M2.he}{F2.she} had free candy."/>
+    <TextStringDefinition InstanceID="0x65CCC760" TextString="{2.SimName}'s teacher said that {M2.he}{F2.she} failed all of her classes but paid the school to get a false degree."/>
+    <TextStringDefinition InstanceID="0x65CCC761" TextString="{2.SimName}'s parents said that {M2.he}{F2.she} was found near a trashcan when they decided to adopt {M2.him}{F2.her}."/>
+    <TextStringDefinition InstanceID="0x65CCC762" TextString="Word on the street that {2.SimName} secretly murdered someone and got away with it."/>
+    <TextStringDefinition InstanceID="0x65CCC763" TextString="Watch Drama Videos &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC764" TextString="Watch Hot Topics &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC765" TextString="Get A Class In Social Drama &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC766" TextString="Class Completed"/>
+    <TextStringDefinition InstanceID="0x65CCC767" TextString="{0.SimFirstName} has finished her Social Drama class &amp; has gained some skill."/>
+    <TextStringDefinition InstanceID="0x65CCC768" TextString="Practice Tea Spilling &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC769" TextString="Practice Dramatic Posing &lt;font color = '#E22DE7'&gt;(+1 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC770" TextString="Dirty Secrets"/>
+    <TextStringDefinition InstanceID="0x65CCC771" TextString="Buildup Friendship With {1.SimFirstName}"/>
+    <TextStringDefinition InstanceID="0x65CCC772" TextString="Attempt To Gain {1.SimFirstName}'s Trust"/>
+    <TextStringDefinition InstanceID="0x65CCC773" TextString="Trust Gained"/>
+    <TextStringDefinition InstanceID="0x65CCC774" TextString="{1.SimFirstName} now trusts {0.SimFirstName} and should feel comfortable revealing {M1.his}{F1.her} dirty secret!"/>
+    <TextStringDefinition InstanceID="0x65CCC775" TextString="Attempt Failed"/>
+    <TextStringDefinition InstanceID="0x65CCC776" TextString="{1.SimFirstName} doesn't trust {0.SimFirstName} yet! Try building your friendship with {M1.him}{F1.her} first."/>
+    <TextStringDefinition InstanceID="0x65CCC777" TextString="Ask About {1.SimFirstName}'s Dirty Secret"/>
+    <TextStringDefinition InstanceID="0x65CCC778" TextString="Dirty Secret Obtained"/>
+    <TextStringDefinition InstanceID="0x65CCC779" TextString="{0.SimFirstName} now has {1.SimFirstName}'s dirty secret {M0.he}{F0.she} can either keep it a secret, expose it to other sims or add it to &lt;font color = '#E22DE7'&gt;The Burn Book&lt;/font&gt;!"/>
+    <TextStringDefinition InstanceID="0x65CCC780" TextString="{0.SimFirstName} doesn't have {1.SimFirstName}'s trust to reveal their secret."/>
+    <TextStringDefinition InstanceID="0x65CCC781" TextString="{0.SimFirstName} already gained {1.SimFirstName} trust."/>
+    <TextStringDefinition InstanceID="0x65CCC782" TextString="Social Help"/>
+    <TextStringDefinition InstanceID="0x65CCC783" TextString="Support The LGBTQIA2S+ Community &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC784" TextString="Contribute In Events"/>
+    <TextStringDefinition InstanceID="0x65CCC785" TextString="Event Attended"/>
+    <TextStringDefinition InstanceID="0x65CCC786" TextString="{0.SimFirstName} is back home from the LGBTQIA2S+ Support event, {M0.he}{F0.she} has gained &lt;font color = '#fc90fb'&gt;(+5 Social Popularity ☆) &lt;/font&gt; and the love of many sims."/>
+    <TextStringDefinition InstanceID="0x65CCC787" TextString="Fight Against Domestic Violence &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC788" TextString="{0.SimFirstName} is back home from the Anti Domestic Violence event, {M0.he}{F0.she} has gained &lt;font color = '#fc90fb'&gt;(+5 Social Popularity ☆) &lt;/font&gt; and the love of many sims."/>
+    <TextStringDefinition InstanceID="0x65CCC789" TextString="Fight Against Animal Abuse &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC790" TextString="{0.SimFirstName} is back home from the Anti Animal Abuse event, {M0.he}{F0.she} has gained &lt;font color = '#cd96cc'&gt;(+5 Social Popularity ☆) &lt;/font&gt; and the love of many sims."/>
+    <TextStringDefinition InstanceID="0x65CCC791" TextString="Fight Against Bullying &lt;font color = '#fc90fb'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC792" TextString="{0.SimFirstName} is back home from the Anti Bullying event, {M0.he}{F0.she} has gained &lt;font color = '#cd96cc'&gt;(+5 Social Popularity ☆) &lt;/font&gt; and the love of many sims."/>
+    <TextStringDefinition InstanceID="0x65CCC793" TextString="Fight Against Racism&lt;font color = '#fc90fb'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC794" TextString="{0.SimFirstName} is back home from the Anti Racism event, {M0.he}{F0.she} has gained &lt;font color = '#cd96cc'&gt;(+5 Social Popularity ☆) &lt;/font&gt; and the love of many sims."/>
+    <TextStringDefinition InstanceID="0x65CCC796" TextString="Help A Sim With Social Advice (In Person) &lt;font color = '#fc90fb'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC795" TextString="A Sim Seeking Advice"/>
+    <TextStringDefinition InstanceID="0x65CCC797" TextString="Be Asked For Advice"/>
+    <TextStringDefinition InstanceID="0x65CCC798" TextString="Hello, I'm having a problem making new friends, can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC799" TextString="Hello, I'm having a problem turning sims on, can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC800" TextString="Seeking Advice"/>
+    <TextStringDefinition InstanceID="0x65CCC801" TextString="Hello, I'm having a problem with baby setting, can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC802" TextString="Hello, I'm having a problem with my self confidence, can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC803" TextString="Hello, I'm having a problem with my drug addiction, can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC804" TextString="Hello, I'm having a problem hoeing it up! Can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC805" TextString="Hello, I'm having anger control issues! Can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC806" TextString="Hello, I'm having a problem spicing it up in bed, can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC807" TextString="Hello, I'm having skin issues, can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC808" TextString="Hello, I'm having some eating disorders, can you give me an advice that would help me out?"/>
+    <TextStringDefinition InstanceID="0x65CCC809" TextString="Give A Positive Advice &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC810" TextString="Advice Given"/>
+    <TextStringDefinition InstanceID="0x65CCC811" TextString="Thank you so much! I will do exactly what you've told me."/>
+    <TextStringDefinition InstanceID="0x65CCC812" TextString="Give A Negative Advice &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC813" TextString="Help A Sim With Social Advice (Over The Phone) &lt;font color = '#E22DE7'&gt;(+2 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC814" TextString="Seeking A Style Advice"/>
+    <TextStringDefinition InstanceID="0x65CCC815" TextString="Help A Sim With Style Advice &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC816" TextString="Hello, I've been feeling inscure about my fashion choices... \n can you tell me if my outfit looks good?"/>
+    <TextStringDefinition InstanceID="0x65CCC818" TextString="Approve Outfit"/>
+    <TextStringDefinition InstanceID="0x65CCC819" TextString="Dispprove Outfit (Ask To Change)"/>
+    <TextStringDefinition InstanceID="0x65CCC820" TextString="Be Asked About New Outfit"/>
+    <TextStringDefinition InstanceID="0x65CCC821" TextString="How About This One?"/>
+    <TextStringDefinition InstanceID="0x65CCC822" TextString="Thank you! I'm glad that you like it."/>
+    <TextStringDefinition InstanceID="0x65CCC823" TextString="Offer A Makeover In CAS"/>
+    <TextStringDefinition InstanceID="0x65CCC824" TextString="Thank you so much! I feel much more confident about myself now."/>
+    <TextStringDefinition InstanceID="0x65CCC825" TextString="Sad Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC826" TextString="Help A Sad Sim Feel Better (In Person) &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC827" TextString="Help A Sad Sim Feel Better (Over The Phone) &lt;font color = '#E22DE7'&gt;(+2 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC828" TextString="Hello, I'm having a really bad day... \n can you please cheer me up?"/>
+    <TextStringDefinition InstanceID="0x65CCC829" TextString="Seeking Social Consulting"/>
+    <TextStringDefinition InstanceID="0x65CCC830" TextString="Wow, you're so kind! Thank you so much! I feel much better now."/>
+    <TextStringDefinition InstanceID="0x65CCC831" TextString="Cheered Up!"/>
+    <TextStringDefinition InstanceID="0x65CCC832" TextString="Yell At &lt;font color = '#c90000'&gt;(-5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC833" TextString="Cheer Up &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC834" TextString="Help A Sad Sim Feel Better (Over The Phone) &lt;font color = '#E22DE7'&gt;(+2 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC835" TextString="Help A Clout Chaser Gain Popularity &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC836" TextString="Clout Chaser"/>
+    <TextStringDefinition InstanceID="0x65CCC837" TextString="Hello, I've been struggling to gain popularity &amp; I think you can help me out... \n All I want is a selfie with you."/>
+    <TextStringDefinition InstanceID="0x65CCC838" TextString="Be Asked For A Slefie"/>
+    <TextStringDefinition InstanceID="0x65CCC839" TextString="Take Selfie &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC840" TextString="Thank you! I'm sure this will bring me a lot of followers."/>
+    <TextStringDefinition InstanceID="0x65CCC841" TextString="Deny Selfie"/>
+    <TextStringDefinition InstanceID="0x65CCC842" TextString="Crushing Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC843" TextString="Help A Sim With Their Crush &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC844" TextString="Help With Crush"/>
+    <TextStringDefinition InstanceID="0x65CCC845" TextString="Hello, I've been having a crush on a sim for a long while, but I'm too afraid to let them know... \n \n Can you please tell them about how I feel? I will highly appreciate that!"/>
+    <TextStringDefinition InstanceID="0x65CCC846" TextString="Be Asked For Help"/>
+    <TextStringDefinition InstanceID="0x65CCC847" TextString="{M0.his}{F0.her} name is {0.SimName}, {M0.he}{F0.she}'s standing right there."/>
+    <TextStringDefinition InstanceID="0x65CCC848" TextString="Crush's Information"/>
+    <TextStringDefinition InstanceID="0x65CCC849" TextString="Crushed On Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC850" TextString="Hook Up With Crushing Sim &lt;font color = '#E22DE7'&gt;(+5 SP ☆) &lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC851" TextString="{0.SimFirstName} has convinced {1.SimFirstName} to hookup with the crushing sim!"/>
+    <TextStringDefinition InstanceID="0x65CCC852" TextString="WOW! YOU'RE THE BEST!!! MY LOVE FANTASY WILL NOW COME TRUE!"/>
+    <TextStringDefinition InstanceID="0x65CCC853" TextString="Ruin Relationship With Crushing Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC854" TextString="{0.SimFirstName} has ruined {1.SimFirstName}'s relationship with the crushing sim!"/>
+    <TextStringDefinition InstanceID="0x65CCC856" TextString="Steal Crush"/>
+    <TextStringDefinition InstanceID="0x65CCC857" TextString="For A Better World"/>
+    <TextStringDefinition InstanceID="0x65CCC858" TextString="{0.SimFirstName} is proud of contributing in a social event that aims to make the world a better place, such a great move by {M0.him}{F0.her}!"/>
+    <TextStringDefinition InstanceID="0x65CCC859" TextString="Social Helper"/>
+    <TextStringDefinition InstanceID="0x65CCC860" TextString="{0.SimFirstName} is proud of {M0.him}{F0.her}self for helping a sim in a social situation, how lovely."/>
+    <TextStringDefinition InstanceID="0x65CCC861" TextString="{0.SimFirstName} doesn't have enough &lt;font color = '#E22DE7'&gt;(Social Popularity ☆) &lt;/font&gt;."/>
+    <TextStringDefinition InstanceID="0x65CCC862" TextString="Social Helper"/>
+    <TextStringDefinition InstanceID="0x65CCC863" TextString="Purchase &lt;font color = '#E22DE7'&gt;The Burn Book&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC864" TextString="The Burn Book Purchased"/>
+    <TextStringDefinition InstanceID="0x65CCC865" TextString="Thank you for purchasing from &quot;The Plastics&quot; online shop, while you're somewhat fetch for doing that...... you still can't sit with us."/>
+    <TextStringDefinition InstanceID="0x65CCC866" TextString="Drama"/>
+    <TextStringDefinition InstanceID="0x65CCC867" TextString="{0.SimFirstName} is enjoying the world of drama and tea spilling, despite it being somewhat cringey {M0.he}{F0.she}'s getting an adrenaline rush from it."/>
+    <TextStringDefinition InstanceID="0x65CCC868" TextString="Dirty Secrets"/>
+    <TextStringDefinition InstanceID="0x65CCC869" TextString="{0.SimFirstName} is LIVING for the new dirty secret {M0.he}{F0.she} has obtained, how juicy!"/>
+    <TextStringDefinition InstanceID="0x65CCC870" TextString="Request Permession To &lt;font color = '#E22DE7'&gt;&quot;The Plastics&quot;&lt;/font&gt; Website"/>
+    <TextStringDefinition InstanceID="0x65CCC871" TextString="Not so fast baby, I only grant access to popular people. \n{0.SimFirstName} needs &lt;font color = '#fc90fb'&gt;(25 SP ☆ )&lt;/font&gt; to be granted access."/>
+    <TextStringDefinition InstanceID="0x65CCC872" TextString="Here you go sweetie, you can now access the website from your phone.\n{0.SimFirstName} can now purchase &lt;font color = '#fc90fb'&gt;The Burn Book&lt;/font&gt;."/>
+    <TextStringDefinition InstanceID="0x65CCC873" TextString="{0.SimFirstName} has to learn this skill from Melinda Rogers &lt;font color = '#E22DE7'&gt;&quot;The Feathers Queen&quot; &lt;/font&gt;first.\nYou can talk to Melinda Rogers by inviting &lt;font color = '#E22DE7'&gt;&quot;The Feathers&quot;&lt;/font&gt; club over from the &quot;Social Popularity&quot; menu."/>
+    <TextStringDefinition InstanceID="0x65CCC874" TextString="Ask To Learn How To Build Friendships"/>
+    <TextStringDefinition InstanceID="0x65CCC875" TextString="You want ME to teach you??! IN YOUR DREAMS...\n{0.SimFirstName} needs &lt;font color = '#fc90fb'&gt;(25 SP ☆ )&lt;/font&gt; to be taught."/>
+    <TextStringDefinition InstanceID="0x65CCC876" TextString="{0.SimFirstName} has learned to build friendships with other sims quickly.\nYou can find the new interaction in the &quot;Life's Drama Dirty Secrets&quot; piemenu when clicking on a target sim."/>
+    <TextStringDefinition InstanceID="0x65CCC877" TextString="{0.SimFirstName} has to be granted access by Melinda Rogers &lt;font color = '#E22DE7'&gt;&quot;The Feathers Queen&quot; &lt;/font&gt;first.\nYou can talk to Melinda Rogers by inviting &lt;font color = '#E22DE7'&gt;&quot;The Feathers&quot;&lt;/font&gt; club over from the &quot;Social Popularity&quot; menu."/>
+    <TextStringDefinition InstanceID="0x65CCC878" TextString="Invite &quot;The Feathers&quot; Club Over"/>
+    <TextStringDefinition InstanceID="0x65CCC879" TextString="Social Popularity Increased!"/>
+    <TextStringDefinition InstanceID="0x65CCC880" TextString="Decide What To Do With The Dirty Secret"/>
+    <TextStringDefinition InstanceID="0x65CCC881" TextString="Slap Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC882" TextString="Kick Sim's Nuts"/>
+    <TextStringDefinition InstanceID="0x65CCC883" TextString="Max &lt;font color = '#E22DE7'&gt;&quot;Social Popularity ☆&quot;&lt;/font&gt; For This Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC884" TextString="&lt;font color = '#cc3333'&gt;Disable&lt;/font&gt; Automatic Social Help Requests For This Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC885" TextString="&lt;font color = '#558DDD'&gt;Enable&lt;/font&gt; Automatic Social Help Requests For This Sim"/>
+    <TextStringDefinition InstanceID="0x65CCC886" TextString="New Acquaintance!"/>
+    <TextStringDefinition InstanceID="0x65CCC887" TextString="{0.SimFirstName} has met {2.SimName} while at the social event."/>
+    <TextStringDefinition InstanceID="0x65CCC888" TextString="Say Something Mean To..."/>
+    <TextStringDefinition InstanceID="0x65CCC889" TextString="Input speech's title here: &lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;(Optional)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC890" TextString="Input speech's body here: &lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;(Optional)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC891" TextString="Say Something To (Custom Text Input Box)"/>
+    <TextStringDefinition InstanceID="0x65CCC892" TextString="Say Something Nice To..."/>
+    <TextStringDefinition InstanceID="0x65CCC893" TextString="Say Something Flirty To..."/>
+    <TextStringDefinition InstanceID="0x65CCC894" TextString="You do not have high enough &lt;font color = '#FF00D1'&gt;Romantic Relationship with this sim&lt;/font&gt; to perform this interaction."/>
+    <TextStringDefinition InstanceID="0x65CCC895" TextString="Scrap"/>
+    <TextStringDefinition InstanceID="0x65CCC896" TextString="Destroy Nearby Dirty Secret Papers"/>
+    <TextStringDefinition InstanceID="0x65CCC897" TextString="Are you sure that you want to destroy all nearby dirty secret papers?"/>
+    <TextStringDefinition InstanceID="0x65CCC898" TextString="Say Something Nice To And Save Dialog &lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;(From/To Text File)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC899" TextString="Randomize From Saved Dialogs"/>
+    <TextStringDefinition InstanceID="0x65CCC900" TextString="Edit Dialogs In Text File"/>
+    <TextStringDefinition InstanceID="0x65CCC901" TextString="Speak &lt;font color = '#009eba'&gt;(And Save)&lt;/font&gt; Dialog "/>
+    <TextStringDefinition InstanceID="0x65CCC902" TextString="Say Something Mean To And Save Dialog &lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;(From/To Text File)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC903" TextString="&lt;font color = '#ffffff'&gt;Say Something Mean To...&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC904" TextString="&lt;font color = '#ffffff'&gt;Input speech's title here:&lt;/font&gt; &lt;font size=&quot;12&quot;&gt;&lt;font color = '#5cddf7'&gt;(Optional)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC905" TextString="&lt;font color = '#ffffff'&gt;Input speech's body here:&lt;/font&gt; &lt;font size=&quot;12&quot;&gt;&lt;font color = '#5cddf7'&gt;(Optional)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC906" TextString="Say Something Flirty To And Save Dialog &lt;font size=&quot;12&quot;&gt;&lt;font color = '#009eba'&gt;(From/To Text File)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC907" TextString="&lt;font color = '#ffffff'&gt;Say Something Flirty To...&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC908" TextString="&lt;font color = '#ffffff'&gt;Say Something Nice To...&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC909" TextString="&lt;font color = '#db1102'&gt;Disable&lt;/font&gt; Text Box Input Interactions From Cheat Menu &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;(Default:Enabled)&lt;/font&gt;&lt;/font&gt;"/>
+    <TextStringDefinition InstanceID="0x65CCC910" TextString="&lt;font color = '#02ab0a'&gt;Enable&lt;/font&gt; Text Box Input Interactions From Cheat Menu &lt;font size=&quot;10&quot;&gt;&lt;font color = '#855194'&gt;(Default:Enabled)&lt;/font&gt;&lt;/font&gt;"/>
+  </TextStringDefinitions>
+</StblData>
